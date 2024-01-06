@@ -16,3 +16,11 @@
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Após o voo que levava um time de rugby cair em uma geleira nos Andes, os poucos sobreviventes se veem isolados em um dos ambientes mais difíceis do mundo para sobreviver.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] O OUTRO LADO DA DOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:db751a12c44a914d70a7c55d739b7d966b9f9234</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4loAQSV9tLQbVPvWrAntNn0kBIO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Marc era feliz vivendo às sombras do marido, o extravagante Oliver. Após a morte inesperada de Oliver, a vida de Marc virou de cabeça para baixo. Para enfrentar o luto, ele vai a Paris com seus melhores amigos, Sophie e Thomas, em uma viagem de autoconhecimento que revela verdades difíceis de encarar.</info>
+</item>
