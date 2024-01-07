@@ -3,6 +3,18 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] HEIR OF THE WITCH ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B0317542C93A0BC8EEBF66B66022D6BD1EF620A4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rgx6Zm3y2P31Iohd2noJO4uOFKl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma costureira desprivilegiada, assombrada pelo seu passado, procura amor e aceitação na alta sociedade, mas enfrenta a maldição das suas raízes malignas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] HAUNTED HOTEL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0452CD0D1E77C4CEE4DCD25B799839A766D7F8A0</link>
