@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FERRARI ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFCEED62500955C40F5A70FF1A19F95FDBDA1E0E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nNMoJMDCeF4Q5wpWvKuh5b8K2sX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Baseada no livro ‘Enzo Ferrari: The Man, the Cars, the Races’, a trama se passará entre os anos 1945 e 1980 ao contar a história do piloto e engenheiro que redefiniu o potente carro esportivo italiano e, quase sozinho, criou a corrida de Fórmula Um.Enzo Ferrari morreu em 1988, aos 90 anos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HEIR OF THE WITCH ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
