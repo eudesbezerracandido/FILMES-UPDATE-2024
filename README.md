@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] HAUNTED HOTEL ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0452CD0D1E77C4CEE4DCD25B799839A766D7F8A0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xLJAxltTY2r5oSdPZS26pUUpzwS.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PATOS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
