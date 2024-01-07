@@ -1,6 +1,18 @@
 # FILMES-UPDATE-2024
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] PATOS ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36C43A836DA84B377E6684D91BFB0D0660A136C7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2KPvdtGjeFT8IwxUkUWmifokXG0.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Na nova comédia da Illumination, o pai de uma família de Patos é convencido a passar por Nova York e ir até as Bahamas durante a migração de inverno.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] INTRUSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb053dd9a2d70554a64f4b6a0be3f1ca05301a6c</link>
