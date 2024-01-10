@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CHEIOS DE GRAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85847ea5825d3f896ca785b52f46fe629d3a6553</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bLurlqMXO5ljLw4NtL3cuaoWoCk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>No verão de 1994, uma freira extremamente ortodoxa é enviada para um internato que está prestes a ser fechado. Apesar dos garotos a receberem com trotes e brincadeiras, aos poucos eles se transformam na família que ela nunca teve.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MAIS UM TIRO CERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4</link>
