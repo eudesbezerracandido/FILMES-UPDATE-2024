@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MAIS UM TIRO CERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1489d21acdbd800e61e964a559554b31ed066b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zkHkMLoC41euiPZG62wslcHLreH.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após o ataque ao local negro na Polónia, o SEAL da Marinha Jake Harris é condenado a escoltar o suspeito terrorista Amin Mansur a Washington DC para interrogatório.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FERRARI ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFCEED62500955C40F5A70FF1A19F95FDBDA1E0E</link>
