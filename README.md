@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NINA A HEROINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ae664ae5473c1c9986246591e210b8cee8a0428</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hCRZCkQScaK0cg2tfgqNZKYgff4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nina é uma ratinha aventureira que sonha em se tornar uma grande heroína. Ao lado de seu fiel companheiro, o gato Sam, ela decide ajudar o velho herói Jasão e seus soldados a salvar a cidade de Yolcos da fúria de Poseidon. Mesmo que todos ao seu redor duvidem dela, Nina está decidida a provar que tem coragem de sobra para embarcar nesta missão pelos 7 mares e proteger a sua cidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CHEIOS DE GRAÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
