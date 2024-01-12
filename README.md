@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] LIFT: ROUBO NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:827dd228f27158f30916b5e288692de4c934e390</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Lift: Roubo nas Alturas é um filme norte-americano de ação e comédia policial dirigido por F. Gary Gray (A Negociação, Até as Últimas Consequências) para a Netflix. A produção segue um grupo de criminosos internacionais liderado por Cyrus (Kevin Hart) e contratados por sua ex-namorada, Abby (Gugu Mbatha-Raw), uma agente federal, para que cumpram uma missão ambiciosa: roubar meio bilhão de dólares em barras de ouro que estão sendo transportadas para uma célula terrorista. Para deixar tudo ainda mais insano, a carga está sendo transportada em um Boeing 777 que parte de Londres rumo a Zurique, e eles devem roubá-la em pleno vôo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BEEKEEPER: REDE DE VINGANÇA ( HDCAM LEG. )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
