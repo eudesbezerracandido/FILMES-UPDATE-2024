@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: MILADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC22B26C352D29EC911B28D0802DD08042721CE0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ytU2YI7dmFYgSOtzbsCeZEgjuTE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Os Três Mosqueteiros: Milady Torrent – No segundo capítulo da saga dos Três Mosqueteiros, Constance Bonacieux é sequestrada diante dos olhos de D’Artagnan, o que o leva a iniciar uma frenética busca para salvá-la, sendo forçado a aliar-se à misteriosa Milady de Winter. Junto a Athos, Porthos e Aramis, o jovem mosqueteiro enfrentará alguns segredos obscuros que podem balançar velhas alianças e desencadear uma grande guerra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JOGO DO DISFARCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55FNJLEFTUPJXI27EMBHFMT2UGVW7GS7</link>
