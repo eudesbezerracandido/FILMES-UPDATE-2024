@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] JOGO DO DISFARCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55FNJLEFTUPJXI27EMBHFMT2UGVW7GS7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rHS23wVWUrLwKu8Fu6oLH5uQJTO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Emma e Dave apimentam seu aniversário de casamento com uma noite disfarçados em Nova York. Mas as coisas se tornam perigosas quando a vida secreta de Emma como assassina de aluguel, que Dave desconhece, é exposta por Bob, colocando sua família em risco. Emma terá que contar com suas habilidades letais e determinação para proteger a família a todo custo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LIFT: ROUBO NAS ALTURAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
