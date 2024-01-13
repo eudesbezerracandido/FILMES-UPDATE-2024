@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA- CRISE NAS INFINITAS TERRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:115005996fbd928a0f2531cf080f583d018c3d1e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A morte está chegando. Pior do que a morte: o esquecimento. Não apenas para a nossa Terra, mas para todos, em todos os lugares, em cada universo! Contra essa destruição definitiva, o misterioso Monitor reuniu a maior equipe de Super-Heróis já montada. Mas o que a força combinada de Superman, Mulher Maravilha, Batman, Flash, Lanterna Verde e centenas de Super-Heróis de múltiplas Terras pode fazer para salvar toda a realidade de um armagedom de antimatéria imparável?!</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: MILADY ( HDCAM NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC22B26C352D29EC911B28D0802DD08042721CE0</link>
