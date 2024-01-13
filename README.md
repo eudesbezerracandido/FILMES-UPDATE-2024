@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[COLOR silver][B] LIGA DA JUSTIÇA- CRISE NAS INFINITAS TERRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA - CRISE NAS INFINITAS TERRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:115005996fbd928a0f2531cf080f583d018c3d1e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vsiDOIO4APrPQQ4xx8vJW8N0uHV.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
