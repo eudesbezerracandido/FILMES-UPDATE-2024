@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PONTO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LFAKS73TU3UKCV7MQYP2CM4GTH36HIDM</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ic0UyW7Ym5OdV92I8LUq566VzpD.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ponto Final é uma série produzida por Rodrigo Sant'Anna para a Netflix. Na comédia, Sandra (Roberta Rodrigues) e Ivan (Rodrigo Sant’Anna) são divorciados no papel, mas continuam vivendo sob o mesmo teto. Além de ainda viverem juntos, aos trancos e barrancos, o ex-casal ainda precisa se ver todo dia no emprego. Os dois trabalham como motoristas de transporte público e se esbarram ao longo do dia em um terminal de ônibus do Rio de Janeiro. Enquanto Sandra dirige um ônibus, Ivan é motorista de uma vã clandestina.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS TRÊS MOSQUETEIROS: MILADY ( HDCAM NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC22B26C352D29EC911B28D0802DD08042721CE0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ytU2YI7dmFYgSOtzbsCeZEgjuTE.jpg</thumbnail>
