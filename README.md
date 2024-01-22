@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] THE KITCHEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a93d6835484011b5adeba0b52c9d5818a382023</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/tV0hK1BiqYrYlehChv4WJXIWgmZ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Izi está prestes a sair do The Kitchen, um dos últimos conjuntos habitacionais de Londres. Mas precisa tomar decisões difíceis quando o jovem Benji entra em sua vida.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] LIGA DA JUSTIÇA - CRISE NAS INFINITAS TERRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
