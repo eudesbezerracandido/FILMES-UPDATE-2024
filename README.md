@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ALARME DE INCÊNDIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EKSTNEZMQONXM3U77RRVOV2CULD66XN3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qXB0yZbECic73jLrqvCgcpL9dhU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um incêndio misterioso sai do controle em uma escola para meninas. Agora, todos se perguntam se foi acidente ou intencional.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] THE KITCHEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
