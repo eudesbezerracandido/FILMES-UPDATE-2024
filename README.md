@@ -6,8 +6,7 @@
 
 <item>
 <title>[COLOR silver][B] MAMONAS ASSASSINAS -  O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/mamonas-assassinas-o-filme/MAMONAS%20ASSASSINAS-O%20FILME.mp4$nome=LINK DIRETO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4EE7966797EF0C211AB7DBCD944B660F6A01D7BA$nome=SERVIDOR TORRENT</link>
+<link>https://archive.org/download/mamonas-assassinas-o-filme/MAMONAS%20ASSASSINAS-O%20FILME.mp4</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas.</info>
