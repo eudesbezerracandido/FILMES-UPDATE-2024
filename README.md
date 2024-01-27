@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MESTRE DO UNIVERSO - A REVOLUÇÃO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VSNYURJPRIOD6OTEQ3Z4WJ7JCNWH5RA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6WYAYdPYwzQjAOnD6AD4E4OZfI3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>He-Man e seus amigos enfrentam as forças sombrias de Esqueleto em uma batalha épica pelo coração de Eternia.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EM RUINAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
