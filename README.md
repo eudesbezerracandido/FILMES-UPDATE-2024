@@ -4,6 +4,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] EM RUINAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64c9dafdce4135d2c249a14040ec05e9277be551</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vT3xahepzP796ei0NiZIZ6t8vsl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um terremoto transformou Seul em um deserto apocalíptico. Os sobreviventes devem lidar não apenas com ameaças da natureza, mas também entre si, já que o mundo sem lei é governado apenas pelo poder. Entre eles, Nam San é um caçador de terrenos baldios. Ele trabalha com Choi Ji Wan. Baseado na segunda parte do webtoon Happy Boy de Kim Soong Nyoong.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MAMONAS ASSASSINAS -  O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/mamonas-assassinas-o-filme/MAMONAS%20ASSASSINAS-O%20FILME.mp4</link>
