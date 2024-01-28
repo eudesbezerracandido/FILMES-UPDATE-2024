@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MESTRES DO AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d02a526e6db2ad6d2fd100d0c4a6974638cb9f43</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2LbDCJHciI3pqcy83twtmvrJfk2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Cinco milhas acima da terra e bem atrás das linhas inimigas, onze homens dentro de um bombardeiro conhecido como a Fortaleza Voadora lutam por suas vidas contra enxames de combatentes alemães inimigos. À medida que os bombardeiros americanos são pegos um por um, sua missão se torna muito clara: sobreviver.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MESTRE DO UNIVERSO - A REVOLUÇÃO 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VSNYURJPRIOD6OTEQ3Z4WJ7JCNWH5RA</link>
