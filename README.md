@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A NOITE QUE MUDOU O POP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a1a77748b0c1f187075d30a7a1b5cefd9c622ea</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/c5Dz7xZMxPbdaLn5nte4DCa61Gy.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em uma noite de janeiro de 1985, as maiores estrelas da música se reuniram para gravar "We Are the World". Este documentário mostra os bastidores desse evento histórico.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MESTRES DO AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d02a526e6db2ad6d2fd100d0c4a6974638cb9f43</link>
