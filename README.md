@@ -6,13 +6,7 @@
 
 
 
-<item>
-<title>[COLOR silver][B] TESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>36586392178</link>
-<thumbnail></thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info></info>
-</item>
+
 
 <item>
 <title>[COLOR silver][B] WINDIGO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
