@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] WINDIGO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DD80BB6E3C0FFDB6E3A5A6F23571AA060E1A8A5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/n9CEFtMNROmv9S2GVhEsNhrJurP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um adolescente nativo americano ressuscita um antigo demônio para proteger sua família dos traficantes de metanfetamina, mas descobre que a sede de sangue da criatura é incontrolável, forçando a família a quebrar a maldição antes de se tornarem suas próximas vítimas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A NOITE QUE MUDOU O POP [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a1a77748b0c1f187075d30a7a1b5cefd9c622ea</link>
