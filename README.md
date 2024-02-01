@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR silver][B] TESTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://vd423.mycdn.me/?expires=1706833814940&srcIp=177.223.31.74&pr=10&srcAg=CHROME&ms=45.136.21.26&type=4&sig=59vDpW-FrDo&ct=6&urls=45.136.22.4&clientType=0&zs=65&id=75803069042&selected_id=2</link>
+<link>https://vd423mycdn.me/?expires=1706833814940&srcIp=1772233174&pr=10&srcAg=CHROME&ms=451362126&type=4&sig=59vDpW-FrDo&ct=6&urls=45136224&clientType=0&zs=65&id=75803069042&selected_id=2</link>
 <thumbnail></thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info></info>
