@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ORION E O ESCURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe897e54afd47410a6a0ff203d24d2dc41defeaa</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/k6iHs4daxm0RQqFQsE8oE5wWJjj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Com uma imaginação fértil, um garoto encara seus medos em uma jornada inesquecível pela noite ao lado do novo amigo Escuro, uma criatura gigante e sorridente.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] WINDIGO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
