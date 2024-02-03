@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] CAMINHOS DA SOBREVIVÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:405ed5b50dd7f626ab51b93df2bb15c19dce035f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/FSFhUQD96WlDLfYfheod05WOQo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Wilfried Wils era policial auxiliar em Antuérpia no início da Segunda Guerra Mundial. A cidade está sob o domínio da violência e da desconfiança. Wilfried faz o que pode por si mesmo, evitando caminhos muito escorregadios. Ele recebe atenção e apoio material de um homem que se aliou ao ocupante alemão, Meanbeard, mas também conta com a confiança de seu colega anti-nazista Lode, irmão da amada de Wilfried, Yvette. Wilfried luta para sobreviver enquanto a perseguição aos judeus continua inabalável.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ARGYLLE - O SUPERESPIÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
