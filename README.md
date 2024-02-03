@@ -6,6 +6,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ARGYLLE - O SUPERESPIÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47F1E201226CA408DD34863AA17CE313885C74F2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kdIneF9itLJcTQEBBnxQ9gx00MM.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando os enredos dos romances de espionagem da reclusa autora Elly Conway começam a refletir as ações secretas de uma organização de espionagem da vida real, as noites tranquilas em casa tornam-se uma coisa do passado. Acompanhada por seu gato Alfie e Aiden, um espião alérgico a gatos, Elly corre pelo mundo para ficar um passo à frente dos assassinos enquanto a linha entre o mundo fictício de Conway e o mundo real começa a se confundir.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ORION E O ESCURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe897e54afd47410a6a0ff203d24d2dc41defeaa</link>
