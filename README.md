@@ -7,6 +7,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VISIONS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA902C6A7BBF81A4FA926FCB8582FC48798E28CD</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9eE05EIusx5OdRvLA76lrAiRXL6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Estelle leva uma vida perfeita entre voos de longa distância com seu amoroso e protetor marido Guillaume. Um dia, por acaso, num corredor de aeroporto, cruza-se com Ana, uma fotógrafa com quem teve um caso apaixonado vinte anos antes. Mal sabe Estelle que esse reencontro a levará a uma espiral de pesadelo, virando sua vida de cabeça para baixo e irracional.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAMINHOS DA SOBREVIVÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:405ed5b50dd7f626ab51b93df2bb15c19dce035f</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/FSFhUQD96WlDLfYfheod05WOQo.jpg</thumbnail>
