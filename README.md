@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] I.S.S ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99B2BAF3BEBF3FE69F6B0E8C28D3E8D03CD59FB4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando ocorre uma guerra mundial na Terra, na América e na Rússia, ambas as nações contactam secretamente os seus astronautas a bordo da ISS e dão-lhes instruções para assumirem o controlo da estação por qualquer meio necessário.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VISIONS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
