@@ -4,6 +4,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] CULT KILLER (HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9BEA7980A89BD336CDE40F423C09492DA70AF2C</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ybdFdQo8SI7HyNBQ3T6kYqnIXSD.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando um renomado investigador particular é assassinado, seu protegido assume o caso.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] I.S.S ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99B2BAF3BEBF3FE69F6B0E8C28D3E8D03CD59FB4</link>
