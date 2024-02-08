@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] BREAKWATER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BF8147E88448BC1B2150434F17F6ADAF9EE973A</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pfwCmX13GAwrFhhVFOgXmPdZgS6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jovem ex-presidiário arrisca sua recém-adquirida liberdade para encontrar a filha distante de um colega de prisão e, sem saber, leva um demônio do passado dela diretamente para sua porta.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CULT KILLER (HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C9BEA7980A89BD336CDE40F423C09492DA70AF2C</link>
