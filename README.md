@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SUNCOAST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCZFU3JFR2RO4TW6BV6RSZPMB3LKVFZI</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Inspirado na história semiautobiográfica de uma adolescente (Nico Parker) que, enquanto cuida do irmão junto da mãe audaciosa (Laura Linney), forma uma amizade improvável com um excêntrico ativista (Woody Harrelson) manifestante em um dos casos mais importantes de todos os tempos da medicina.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BREAKWATER ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
