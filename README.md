@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] UPGRADE-AS CORES DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QLWIQBW4FESNMR4WYLVLPZ4UFAUMYM57</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hfjWXFV4K0DC3RvGpozOErlB0DP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Ana, aspirante a curadora de arte, é inesperadamente promovida para a primeira classe em um voo para uma viagem de trabalho de última hora para Londres. Ao se acomodar neste estilo de vida mais confortável na cabine da primeira classe, ela conhece o bonito e rico William e decide viver a fantasia um pouco mais do que deveria.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SUNCOAST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BCZFU3JFR2RO4TW6BV6RSZPMB3LKVFZI</link>
