@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A trajetória de Dinho, Júlio, Bento, Sérgio e Samuel que, juntos, formaram um dos grupos mais inesperados e inicialmente desacreditados pelo grande público. Provando-se um sucesso estrondoso em um curtíssimo espaço de tempo, o quinteto precisou de muitas tentativas frustradas para conseguir mostrar que podia ser a próxima grande banda do Brasil.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] INDIFERENÇÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
