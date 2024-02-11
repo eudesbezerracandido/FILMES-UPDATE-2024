@@ -9,8 +9,8 @@
 <title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info> A trajetória de Dinho, Júlio, Bento, Sérgio e Samuel que, juntos, formaram um dos grupos mais inesperados e inicialmente desacreditados pelo grande público. Provando-se um sucesso estrondoso em um curtíssimo espaço de tempo, o quinteto precisou de muitas tentativas frustradas para conseguir mostrar que podia ser a próxima grande banda do Brasil.</info>
+<fanart>https://media.themoviedb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg</fanart>
+<info>Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas.</info>
 </item>
 
 <item>
