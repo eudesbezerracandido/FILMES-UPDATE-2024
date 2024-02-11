@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] INDIFERENÇÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KHDOCMBX6MROAVAAI3DBUCLNEGRTWGTC</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jornalista local começa uma investigação sobre casos de abuso encobertos em um abrigo para meninas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CINZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01dc059ad5e5c363a32d9c411c0337a9ecfc6208</link>
