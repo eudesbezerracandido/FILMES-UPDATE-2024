@@ -7,9 +7,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] GARRA DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359FEDDAE5CC9B263CD62064E3BBCA0AFCA9161C</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wvqmUyzDAXi7QxtQ6IGrO1v86KC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O longa, que é baseado na história real dos Von Erich, vai acompanhar a ascensão e queda da família que fizeram nome nos Estados Unidos com seus membros participando ativamente da luta livre profissional desde os anos 1960.</info>
+</item>
 
-
-
+<item>
+<title>[COLOR silver][B] AMOR EM SOWETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QCTXFX52IT25TCOJ47MDJFW6XGCIWSXO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1XYiQqxCPzYTomOUg0otKYKAo8b.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No bairro de Johannesburg, três irmãos solteiros ainda vivem sob o teto de sua mãe. Cansada de ver os filhos sem rumo na vida e apenas se decepcionando no jogo do amor, ela decide fazer uma promessa para o primeiro que se casar: passaria sua casa para o primeiro a pisar no altar. Iniciando uma corrida ao altar, cada um sai à procura de novos e antigos amores, mas a tarefa de conquistar uma paixão não sai tão fácil quanto esperam. A pergunta que fica é: quem será o primeiro a noivar?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] JOGOS DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
