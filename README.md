@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] APRENDIZ DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VL24YDF3BJFCAVJAAWZ7UWO6N6LXPVWX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Tom é um garoto normal, que vive com sua avó excêntrica, em Chinatown, San Francisco. Quando sua avó morre e é transportada para um carrinho fantasma, Tom precisa aprender a mágica antiga com um mentor improvável - um tigre, o Sr. Hu. Eles se unem a um grupo improvável de criaturas exóticas, cada uma representando um signo diferente do zodíaco chinês, que pode se transformar em forma humana, mantendo suas características animais inatas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GARRA DE FERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:359FEDDAE5CC9B263CD62064E3BBCA0AFCA9161C</link>
