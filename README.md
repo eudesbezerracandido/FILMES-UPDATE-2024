@@ -5,6 +5,36 @@
 
 
 
+
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] JOGOS DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3TF3QL4ZQXIPQ5K2VSKRR4M5MGREWEG3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/r43jx9Km2ONGa8sFuzXFWM3iDhp.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jornalista esportiva passou anos planejando jogadas de sucesso com o seu melhor amigo Adam e equipe, mas quando ela inesperadamente cai de pernas para o ar por um de seus alvos, todos eles devem aprender o que é preciso para simplesmente jogar para valer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AGENCIA DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QVD3HO4SDEESGCEWIN5I4IWIRZ77DSZJ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3GsgIMVv9pnp3hUayihXEgCSEog.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um jornalista cético aceita participar de uma terapia para corações partidos em prol de uma reportagem, mas acaba abrindo o coração para a terapeuta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ME MATE, QUERIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfb8168ab89722758c579fa4424029190e81a8f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2bHicVzkma4q022cxQeNq2zTwbo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sorte ou azar? Um bilhete de loteria premiado abala a relação de um casal, que planeja eliminar um ao outro para ficar com o dinheiro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
