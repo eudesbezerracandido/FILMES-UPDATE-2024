@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MADAME TEIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86081BEAF1A8A78A17866573F29CFFFFC55C1B7E</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] APRENDIZ DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
