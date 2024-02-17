@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SNOOPY APRESENTA - SEJA BEM VINDO! FRANKLIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GXI6A7VVWJWZ3GCAIEQBV26QEKNPWIJF</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6dwcPO0s16ku9EjYVgnfSLGoNVB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Franklin é novo na cidade e quer fazer novos amigos, mas as táticas que geralmente usa não funcionam na turminha dos Peanuts. Ao anunciarem uma corrida de carrinho de rolimã, ele aproveita a oportunidade para impressionar novos colegas e se junta à única outra criança sem dupla: Charlie Brown.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MADAME TEIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86081BEAF1A8A78A17866573F29CFFFFC55C1B7E</link>
