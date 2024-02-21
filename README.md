@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] POBRES CRIATURAS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E13DCDE8BFDEF3394AC47548ABAE7E6BF65E622B</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/reIqVavL4QESfQIMT5PW8CvRH13.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A história de amor e escândalo de Bella Baxter, uma bela mulher que é trazida de volta dos mortos por um excêntrico cientista na Glasgow vitoriana.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A TORRE DO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
