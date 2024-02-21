@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A TORRE DO INFERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YY3YRW32UMVH5D33H35UNBDODXSZSSSR</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xzy7iE2swljhMDSqmkROyBEQCmK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Os habitantes de uma torre acordam uma manhã e descobrem que seu prédio está envolto em uma névoa opaca, obstruindo portas e janelas - uma estranha matéria escura que devora qualquer coisa que tente passar por ela. Presos, os moradores tentam se organizar, mas para garantir sua sobrevivência, eles gradualmente sucumbem aos seus instintos mais primitivos, até afundarem no horror.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SNOOPY APRESENTA - SEJA BEM VINDO! FRANKLIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GXI6A7VVWJWZ3GCAIEQBV26QEKNPWIJF</link>
