@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MEA CULPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63JNNB2WXSPESJNFDNY36MTG4FC4KEUT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma advogada criminalista aceita o caso de um artista acusado de assassinato, mas agora ela precisa escolher entre família, dever e seus próprios desejos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] STAR WARS - THE BAD BATCH 3º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
