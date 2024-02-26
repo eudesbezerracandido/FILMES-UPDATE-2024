@@ -5,6 +5,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ZONA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QTUCCV3R4IJRSLQXYPJ54PWYAZCXPKWQ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma missão das forças especiais vira um grande desastre e, cercados pelo inimigo em um território remoto nas Filipinas, a única chance de resgate está nas mãos de Reaper (Russel Crowe), um piloto de drone, e Kinney (Liam Hemsworth), um jovem oficial da aeronáutica. Eles têm 48 horas para resgatar os soldados antes que vire um banho de sangue.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEA CULPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63JNNB2WXSPESJNFDNY36MTG4FC4KEUT</link>
