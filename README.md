@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] AVATAR - O ÚLTIMO MESTRE DO AR 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://watch.brplayer.site/watch?v=5OVKB1UN</link>
+<thumbnail></thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ZONA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QTUCCV3R4IJRSLQXYPJ54PWYAZCXPKWQ</link>
