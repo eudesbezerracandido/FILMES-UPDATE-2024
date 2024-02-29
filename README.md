@@ -8,12 +8,16 @@
 
 
 
+
+
+
+
 <item>
-<title>[COLOR silver][B] AVATAR - O ÚLTIMO MESTRE DO AR 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://watch.brplayer.site/watch?v=5OVKB1UN</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] CODE: 8 RENEGADOS PARTE II [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa409df6a78bb7cacb04c0a77be0a9b1ea43d920</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pkQMRlpLBcmcZXLU3t465SGuquF.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info></info>
+<info>Em uma cidade onde pessoas com superpoderes são vigiadas e oprimidas, um ex-criminoso se une a um traficante para proteger uma adolescente de um policial corrupto.</info>
 </item>
 
 <item>
