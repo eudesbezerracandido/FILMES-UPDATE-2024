@@ -10,7 +10,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] BOB MARLEY - ONE LOVE ( BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link></link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CODE: 8 RENEGADOS PARTE II [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
