@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU NOME É  LOH KIWAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CN3ST2PNIKC7NPUPK7LZYC2NZKCKNH2X</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8uSVcFwh0B5SewZMLzr7qRJQjQH.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Sobre um desertor norte-coreano que chega à Bélgica e conhece uma mulher chamada Marie. Adaptado do romance Ro Ki Waneul Mannatda de Jo Hae Jin.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CODE: 8 RENEGADOS PARTE II [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa409df6a78bb7cacb04c0a77be0a9b1ea43d920</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/pkQMRlpLBcmcZXLU3t465SGuquF.jpg</thumbnail>
