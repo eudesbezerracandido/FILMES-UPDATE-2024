@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ASTRONAUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XSPRRIZBDLZ2K7N7VHLPQLW6YEOLFHQG</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ilu9SIoqQRG9wqtYfkyp7O3MBer.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um astronauta é enviado à orla da galáxia para coletar uma misteriosa poeira. Ele logo descobre que sua vida terrena está caindo aos pedaços e ele se volta para a única voz que pode ajudá-lo a tentar reconstruí-la. Acontece que pertence a uma criatura do início dos tempos que se esconde nas sombras de sua nave.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEU NOME É  LOH KIWAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CN3ST2PNIKC7NPUPK7LZYC2NZKCKNH2X</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/8uSVcFwh0B5SewZMLzr7qRJQjQH.jpg</thumbnail>
