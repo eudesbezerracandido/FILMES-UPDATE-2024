@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SENHOR DO CÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b4e5b4f671fd5c07771da210ef1f7579371cada</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7UzrLLNAAU1JdBJdrqtC0CuSc8E.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Rebecca Holland assume o comando da igreja de um pequeno vilarejo inglês e, durante um festejo local, sua filha desaparece. Enquanto os moradores e a polícia se unem para encontrar a menina, segredos sombrios do vilarejo emergem e Rebecca é obrigada a decidir o quanto está disposta a sacrificar para salvar a filha do mal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ASTRONAUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XSPRRIZBDLZ2K7N7VHLPQLW6YEOLFHQG</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ilu9SIoqQRG9wqtYfkyp7O3MBer.jpg</thumbnail>
