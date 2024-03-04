@@ -8,7 +8,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ORACLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:691fa3fcc39794d87a1bf16ecaa68f625f0700df</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/laOpPREcTlDukttovlUGJ3Wmtb6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Acompanha uma jovem que aceita um emprego em uma propriedade com um passado traumático. Ao chegar, ela logo percebe que os pesadelos de sua infância estão ligados ao mal que habita a casa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
