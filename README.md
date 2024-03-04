@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] SAUDADE QUE FICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2VSPLKO2U5HWKKJ57SXV3F74CZBIJBL</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vPxtPgWMB6jCazp3TYWAMp3ThZw.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após uma calamidade devastadora, uma mãe procura pelo filho desaparecido. Até descobrir que ela está morta e presa em um reino de espíritos pertubadores.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ORACLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
