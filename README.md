@@ -5,6 +5,41 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/love-one/LOVE%20ONE.mp4$nome= LINK DIRETO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97FF441748F487423E10C629914D8058D4300D17$nome=LINK TORRENT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
+<fanart>https://media.themoviedb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg</fanart>
+<info>Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BEEKEEPER: REDE DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00D1582FDA48D84EA6DA382FDD81E48765457428</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Beekeeper - Rede de Vingança" é um filme de ação e suspense dirigido por David Ayer (Esquadrão Suicida, Marcados Para Morrer) e estrelado por Jason Statham (Megatubarão), Josh Hutcherson (Jogos Vorazes) e Jeremy Irons (Watchmen). A trama acompanha Adam Clay (Statham), um homem aparentemente comum que esconde um grande segredo: ele é ex-agente de uma poderosa organização clandestina chamada Beekeepers (Apicultores). Em uma perigosa conspiração, Clay tem seu passado exposto para o mundo e, entre outros efeitos colaterais, acaba perdendo uma pessoa muito querida. Tomado pela fúria, ele parte em uma busca frenética por vingança contra aqueles que revelaram seu maior segredo. No entanto, em sua busca para colocar um ponto final no sistema criminoso responsável por sua perda, suas ações acabam tomando proporções nacionais ao envolverem governos e as instituições mais influentes do mundo, colocando-o na mira de diferentes organizações.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MADAME TEIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86081BEAF1A8A78A17866573F29CFFFFC55C1B7E</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] FRANJINHA E MILENA- EM BUSCA DA CIÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ce52e2c1d05fcc42a099128418f66c77704ad19</link>
@@ -35,15 +70,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/laOpPREcTlDukttovlUGJ3Wmtb6.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Acompanha uma jovem que aceita um emprego em uma propriedade com um passado traumático. Ao chegar, ela logo percebe que os pesadelos de sua infância estão ligados ao mal que habita a casa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/love-one/LOVE%20ONE.mp4$nome= LINK DIRETO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97FF441748F487423E10C629914D8058D4300D17$nome=LINK TORRENT</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
 </item>
 
 <item>
@@ -127,14 +153,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MADAME TEIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86081BEAF1A8A78A17866573F29CFFFFC55C1B7E</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] APRENDIZ DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VL24YDF3BJFCAVJAAWZ7UWO6N6LXPVWX</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/dJOIVQoyjoK0hPlmh0nDFsFROvW.jpg</thumbnail>
@@ -180,14 +198,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/2bHicVzkma4q022cxQeNq2zTwbo.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Sorte ou azar? Um bilhete de loteria premiado abala a relação de um casal, que planeja eliminar um ao outro para ficar com o dinheiro.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
-<fanart>https://media.themoviedb.org/t/p/original/ayrEg6LdzNjCSdgHGMlEihzwjJg.jpg</fanart>
-<info>Estamos em Guarulhos na década de 90. Dinho, Sérgio, Samuel, Julio e Bento são garotos típicos da época com pouco dinheiro e muitos sonhos. Eles nem imaginam que o humor debochado e inteligente, tão característico do grupo de amigos, irá mudar suas vidas para sempre. De algumas tentativas fracassadas ao sucesso absoluto, em pouco tempo, eles se tornaram o maior fenômeno musical brasileiro da década: os Mamonas Assassinas.</info>
 </item>
 
 <item>
@@ -263,8 +273,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ARGYLLE - O SUPERESPIÃO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47F1E201226CA408DD34863AA17CE313885C74F2</link>
+<title>[COLOR silver][B] ARGYLLE - O SUPERESPIÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4eb66dff634ae302eb41d469f14a9e495151605</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/kdIneF9itLJcTQEBBnxQ9gx00MM.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Quando os enredos dos romances de espionagem da reclusa autora Elly Conway começam a refletir as ações secretas de uma organização de espionagem da vida real, as noites tranquilas em casa tornam-se uma coisa do passado. Acompanhada por seu gato Alfie e Aiden, um espião alérgico a gatos, Elly corre pelo mundo para ficar um passo à frente dos assassinos enquanto a linha entre o mundo fictício de Conway e o mundo real começa a se confundir.</info>
@@ -372,14 +382,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Lift: Roubo nas Alturas é um filme norte-americano de ação e comédia policial dirigido por F. Gary Gray (A Negociação, Até as Últimas Consequências) para a Netflix. A produção segue um grupo de criminosos internacionais liderado por Cyrus (Kevin Hart) e contratados por sua ex-namorada, Abby (Gugu Mbatha-Raw), uma agente federal, para que cumpram uma missão ambiciosa: roubar meio bilhão de dólares em barras de ouro que estão sendo transportadas para uma célula terrorista. Para deixar tudo ainda mais insano, a carga está sendo transportada em um Boeing 777 que parte de Londres rumo a Zurique, e eles devem roubá-la em pleno vôo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BEEKEEPER: REDE DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00D1582FDA48D84EA6DA382FDD81E48765457428</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Beekeeper - Rede de Vingança" é um filme de ação e suspense dirigido por David Ayer (Esquadrão Suicida, Marcados Para Morrer) e estrelado por Jason Statham (Megatubarão), Josh Hutcherson (Jogos Vorazes) e Jeremy Irons (Watchmen). A trama acompanha Adam Clay (Statham), um homem aparentemente comum que esconde um grande segredo: ele é ex-agente de uma poderosa organização clandestina chamada Beekeepers (Apicultores). Em uma perigosa conspiração, Clay tem seu passado exposto para o mundo e, entre outros efeitos colaterais, acaba perdendo uma pessoa muito querida. Tomado pela fúria, ele parte em uma busca frenética por vingança contra aqueles que revelaram seu maior segredo. No entanto, em sua busca para colocar um ponto final no sistema criminoso responsável por sua perda, suas ações acabam tomando proporções nacionais ao envolverem governos e as instituições mais influentes do mundo, colocando-o na mira de diferentes organizações.</info>
 </item>
 
 <item>
