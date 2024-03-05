@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FRANJINHA E MILENA- EM BUSCA DA CIÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ce52e2c1d05fcc42a099128418f66c77704ad19</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/tC3xl3EEd92Wz3dntK3pTjBb9vz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Milena, Franjinha e Bidu tentam viajar no tempo em uma divertida aventura científica. A cada episódio outros problemas surgem, e eles descobrem que a verdadeira viagem no tempo é a própria ciência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TURMA DA MÔNICA JOVEM-REFLEXOS DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
