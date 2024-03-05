@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] TURMA DA MÔNICA JOVEM-REFLEXOS DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CVZ43ER32KM6ERUQ7QHVM74DYMTUDLNN</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zG1YYywzTRf791p146Ae5REh9h6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No primeiro dia de aula do ensino médio, Mônica, Cebola, Magali, Cascão e Milena não demoram muito para perceber que as coisas no colégio andam estranhas. Quando descobrem que o Museu do Limoeiro será leiloado, decidem se unir em uma missão para tentar salvá-lo. Enquanto investigam o que está acontecendo, eles se deparam com segredos antigos e assustadores do bairro do Limoeiro e logo percebem que podem estar lidando com uma ameaça muito maior.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SAUDADE QUE FICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2VSPLKO2U5HWKKJ57SXV3F74CZBIJBL</link>
