@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] KUNG FU PANDA 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FDA94B65662405CEDD527158E6E2D461CA57199</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bHcSAxnf5s7uuzf9xMwX4KVSqfg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após ser escolhido para se tornar o Líder Espiritual do Vale da Paz, Po precisa encontrar e treinar um novo Dragão Guerreiro, enquanto uma feiticeira perversa busca trazer todos os vilões-mestres já derrotados por Po do reino espiritual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D692300B84BF13F7257D057F59796DDA8BB0777</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/vbgI9lYJPtYrbPdwjtyuN2wUBKJ.jpg</thumbnail>
