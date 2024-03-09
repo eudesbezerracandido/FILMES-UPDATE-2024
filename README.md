@@ -33,6 +33,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RETORNO DOS THUNDERMANS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe9c307c86fde687feb7a9e3f8cb9699a663e7bb</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wEquopFw43QCKsBp1fpIabmGlYc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Os Thundermans estão de volta, mas tiveram que retornar a Hiddenville depois que um acidente os tira de seus cargos no combate ao crime</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] KUNG FU PANDA 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FDA94B65662405CEDD527158E6E2D461CA57199</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bHcSAxnf5s7uuzf9xMwX4KVSqfg.jpg</thumbnail>
