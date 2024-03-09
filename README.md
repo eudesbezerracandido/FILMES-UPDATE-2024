@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DONZELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A princesa Elodie acha que está se casando com o príncipe Henry, mas descobre que está sendo sacrificada a um dragão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
