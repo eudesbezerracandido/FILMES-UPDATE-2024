@@ -25,6 +25,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MERGULHO NOTURNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:862134cc8ebb4b03e252576059a9e6b8f7aae2bb</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/a2pyGSNdHBMcwI2a5OiCcaLHRoo.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um ex-jogador de beisebol se muda com a esposa e os dois filhos para uma nova casa. Ele acredita que a piscina do quintal pode ser uma diversão para as crianças, mas um segredo sombrio do passado da casa vai desencadear uma força malévola.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] KUNG FU PANDA 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FDA94B65662405CEDD527158E6E2D461CA57199</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bHcSAxnf5s7uuzf9xMwX4KVSqfg.jpg</thumbnail>
