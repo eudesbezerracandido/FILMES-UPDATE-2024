@@ -41,8 +41,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] KUNG FU PANDA 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FDA94B65662405CEDD527158E6E2D461CA57199</link>
+<title>[COLOR silver][B] COLEÇÃO KUNG FU PANDA 4 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5FDA94B65662405CEDD527158E6E2D461CA57199$nome=KUNG FU PANDA 4 (HDCAM)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45DF36477F6CB7E37B8780DF38C325131A4D5D56$nome=KUNG FU PANDA 3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f41edc7a3cfd20ad8b3b714e72f25c0b54cbd24c$nome=KUNG FU PANDA 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eaf274c84c8ad5a0d91dd5f2c1b0beb8ae2f469$nome=KUNG FU PANDA 1</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bHcSAxnf5s7uuzf9xMwX4KVSqfg.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Após ser escolhido para se tornar o Líder Espiritual do Vale da Paz, Po precisa encontrar e treinar um novo Dragão Guerreiro, enquanto uma feiticeira perversa busca trazer todos os vilões-mestres já derrotados por Po do reino espiritual.</info>
