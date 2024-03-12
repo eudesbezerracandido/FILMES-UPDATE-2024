@@ -69,7 +69,7 @@
 
 <item>
 <title>[COLOR silver][B] BEEKEEPER: REDE DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00D1582FDA48D84EA6DA382FDD81E48765457428</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9568bf0454ee8dcb9794453e8083f01c3c2f14a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Beekeeper - Rede de Vingança" é um filme de ação e suspense dirigido por David Ayer (Esquadrão Suicida, Marcados Para Morrer) e estrelado por Jason Statham (Megatubarão), Josh Hutcherson (Jogos Vorazes) e Jeremy Irons (Watchmen). A trama acompanha Adam Clay (Statham), um homem aparentemente comum que esconde um grande segredo: ele é ex-agente de uma poderosa organização clandestina chamada Beekeepers (Apicultores). Em uma perigosa conspiração, Clay tem seu passado exposto para o mundo e, entre outros efeitos colaterais, acaba perdendo uma pessoa muito querida. Tomado pela fúria, ele parte em uma busca frenética por vingança contra aqueles que revelaram seu maior segredo. No entanto, em sua busca para colocar um ponto final no sistema criminoso responsável por sua perda, suas ações acabam tomando proporções nacionais ao envolverem governos e as instituições mais influentes do mundo, colocando-o na mira de diferentes organizações.</info>
