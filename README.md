@@ -17,6 +17,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ORDINARY ANGELS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A60539DB8EA4D676D31B274D0FE11AC101FDE4C$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6555B19F6740DB9B2AAA276D8D18B225E984FB61$nome=LEGENDA FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/flgA9XjegLo6RMTIo3cw3lpcgeg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Inspirado na incrível história real de uma cabeleireira que sozinha mobiliza toda uma comunidade para ajudar um pai viúvo a salvar a vida de sua filha jovem e gravemente doente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DONZELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
