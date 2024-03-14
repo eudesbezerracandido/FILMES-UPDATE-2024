@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GOLD COPY ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46A5E0E506D7E282204CF50C76647FBBAAEBC8F4$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61945499E9668B3FBF74494031E94CC3983D4DE8$nome=LEGENDA FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6uvjR7tiSycXeDiOu5uXYvXML4X.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jovem estudante de jornalismo está tentando obter a aprovação de seu influente mentor, que a incentiva a reconsiderar o significado da verdade, se isso significar sucesso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DONZELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
