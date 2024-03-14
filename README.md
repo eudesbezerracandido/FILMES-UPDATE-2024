@@ -26,6 +26,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FIQUE ACORDADO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F9BCBB5991D1ED3286701F024ED07CF0653476EB$nome=DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A59BB3F3D71EAE550AFA38BFA5F4AFDE027FF327$nome=LEGENDA FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dGKQ4nPA5WDVbq2KdXkGpohEC7Y.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando um teste experimental de drogas dá terrivelmente errado, os sobreviventes do teste devem lutar contra o sono e entre si para permanecerem vivos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GOLD COPY ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46A5E0E506D7E282204CF50C76647FBBAAEBC8F4$nome=DUBLADO NÃO OFICIAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61945499E9668B3FBF74494031E94CC3983D4DE8$nome=LEGENDA FIXA</link>
