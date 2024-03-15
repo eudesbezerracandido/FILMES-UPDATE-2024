@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://908345191.tapecontent.net/radosgw/6B1a0j0mVpU9w3k/hxSZfWhmuujoI1QMwzjSe2BeuGcAD7OLzqUXW5uFd0tDQJ6sl8qIbUpB7FZjVBF8L4MX-mrPkKjuK1wldGUOhL8a25jczLzedMP-o5hWq6PDB259aJVXG0269AeSWT0H8KA355B3HS_DfAxfkdRa5IFetYx5R4uIGQ3sPNIUKpzekZ3Y67Xx9sfKcz2D3-ujrJeO8xFa1bUWOV_SiHL-zwCO899m57a2DSXHh7MPOqHip2UFR5cXUXQK9GnVLacCFiqonitMOqUi8TD3wU1gIAFTXRNmqox0t8SOEXknLfaPw3BDRst_VutK0YyO255JCbK_tNnziARnlh4-CG_NDmx_9dUfGtf46ayJctyCE-B0fP3If-IWZoSU17s/MC.Daleste.Mataram.o.Pobre.Loco.S01E01.Eu.sou.Daleste.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ry8rWL3an19bf3bQcQpH7Hqqvhb.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Daniel Pellegrini, um menino pobre da periferia de São Paulo, consegue alcançar o sucesso fazendo funk com poucos recursos, mas é morto no palco, no auge da carreira, aos 20 anos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
