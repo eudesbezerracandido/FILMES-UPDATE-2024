@@ -21,17 +21,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://908345191.tapecontent.net/radosgw/6B1a0j0mVpU9w3k/eJ0wfLe0L-XS8F59Pi17BhdbzAv8gTm1ZcIVjHIg6DM8I5ZG3qREAmcB7gl0l_HyVSq2_0Tu5_amZd4f0XSWSpBTAeXlY8DswVJayMRooOxCT6QHVIOJDwZACktvfy_6YZiKmz5Uz7hu1b30CT1rc5OJW67_4D3lYoiuOfqlnZ_hUm83-K3XL3fRP40LTtlWQ9n88wrpEGutXo9Rn-MpIB3qPaAgIs1flqktpxd7a3lxlRMrlD5MbP1r40OE-ANiVsyBy1XbGFDMEFMCn1_bFvIHlY038DwV1QWxucLjN57Px2PlU7pkggJO5w0yW41Nn4UciVNEUuaZHTrNPIN8XM7QGoXimnWhj4TO6zF8F1-zlFfi2PWclxcbvvE/MC.Daleste.Mataram.o.Pobre.Loco.S01E01.Eu.sou.Daleste.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1$nome=EP.1</link>
-<link>https://3242599228.tapecontent.net/radosgw/KzmaqAmZewHjj8/AC0GaSYsnXJ6ZHWl0Pj_01RYC3JU10UFpmFddHLRyshijxSkaij9EoVeqxoAvO_2VThmXDooYRlsK97zW9hg4Kzhyj0pajnuynIwLFxB5NITuvEJK_1qLR3McPfwSB2svvVgCah2NEyjj-78vjUjgkFxQQvl-ZL_7rOQMURjmCLVH1tGqriAvskQyaBKWQl5GIiG08cIcFDzt3yCtwJF5N8jib8QIobZgsb6AJ9roZfJHnCw7jxme9CGKtv5C2yOetWkGOLToC24yw87XXwK2MhmEYYncwU7DWTBjZ_UVW6JJyEXxz7tkIxmbbXH4YAVUbThVB93bs8IHNC4phJ4Co3khBFTCy1UWXmXvt60Ol_5LGxaqpPgg8A1tJ5ybKvR5kdgzriMrKhEdDAa/MC.Daleste.Mataram.o.Pobre.Loco.S01E02.Bairro.do.misterio.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1$nome=EP.2</link>
-<link>https://2475163195.tapecontent.net/radosgw/dP6LQdbwBJCkReA/TcjDuR_ey199IWup16VjyYXKsyIYiZodzPOTSnsDaMTTEAj62x-yNMrQbJSYcagiEDtwzUCDW-Ymdhw3CUZlcR_HrZSnPPF7LglKm08BZ34MWTvbgwl6d6M8u1kMXWe-K9JGuUAAORuBIv1fH9Qg16GsWQgTH4jk-WslJPJdREO4FziWnR8vnSxlHuNG-XbVHmEOCl53wr8qLIXCI_kNkJ5l80Ossmd0rbvX8qfC-NZwqzrIPE5sfSI4QZ8ydZMsiO-H4j3mr7dj_QrokWfNCsaKJfXYT1-Apm6Jk5NFhIMQ8jsvjRcHQvn_z8OUqViHHhw55bMCVsYalOmebjmETWt-lRwemg8JxiiLcBHNX1Qg_OipDezahY1jRqAS3aKFwEYFNeCuGG2LNjOH/MC.Daleste.Mataram.o.Pobre.Loco.S01E03.Perfume.de.mulher.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1$nome=EP.3</link>
-<link>https://860146716.tapecontent.net/radosgw/8qm73Q1mM6H2jZ/k6I85NpkRPWycEG4yewyizTDI03NMLuiYAD3vNgts2enZli97zjcFcQYCnvesyvgpxZrzASN4hPJhk-PWFLUHhxPMFLVKxnNjJvM5gdczcXfokLP8gM7Hnvlw4MM38BUnXPtpWzF0Lndx2T_6Qcu15VmiY4UdjdYeTwEXN132yePoP_TODfxvabXPpS-4un-AX1vgJKHjxBnrIrQuDn6HH0gka5rD8lB4MKMHqHJlAVOzafe2jVs5DgAYs5vb6bj0fPyKAyEQN0UMMjZ5PYcDlxzcztIT3P9qx7SJByH6isZgO9HSt8riGwl9N_Fcucytf0xEBWfAdzCbWakEtuXlO9KRFLLiX1PbjN7bPf20faJJ8KEPxBuIcRupwE/MC.Daleste.Mataram.o.Pobre.Loco.S01E04.Tabuleiro.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1$nome=EP.4</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/ry8rWL3an19bf3bQcQpH7Hqqvhb.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Daniel Pellegrini, um menino pobre da periferia de São Paulo, consegue alcançar o sucesso fazendo funk com poucos recursos, mas é morto no palco, no auge da carreira, aos 20 anos.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/love-one/LOVE%20ONE.mp4$nome= LINK DIRETO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97FF441748F487423E10C629914D8058D4300D17$nome=LINK TORRENT</link>
