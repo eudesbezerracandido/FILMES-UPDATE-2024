@@ -5,6 +5,21 @@
 
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://streamtape.com/v/QAeBpRYvLdu0mJP/1.mp4$nome=EP.1</link>
+<link>https://streamtape.com/v/8zW1mkdplBsozXw/4.mp4$nome=EP.2</link>
+<link>https://streamtape.com/v/Y8vKGXqGL4UeJd/2.mp4$nome=EP.3</link>
+<link>https://streamtape.com/v/1mwzA44kwDT0Wv/3.mp4$nome=EP.4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ry8rWL3an19bf3bQcQpH7Hqqvhb.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Daniel Pellegrini, um menino pobre da periferia de São Paulo, consegue alcançar o sucesso fazendo funk com poucos recursos, mas é morto no palco, no auge da carreira, aos 20 anos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://908345191.tapecontent.net/radosgw/6B1a0j0mVpU9w3k/eJ0wfLe0L-XS8F59Pi17BhdbzAv8gTm1ZcIVjHIg6DM8I5ZG3qREAmcB7gl0l_HyVSq2_0Tu5_amZd4f0XSWSpBTAeXlY8DswVJayMRooOxCT6QHVIOJDwZACktvfy_6YZiKmz5Uz7hu1b30CT1rc5OJW67_4D3lYoiuOfqlnZ_hUm83-K3XL3fRP40LTtlWQ9n88wrpEGutXo9Rn-MpIB3qPaAgIs1flqktpxd7a3lxlRMrlD5MbP1r40OE-ANiVsyBy1XbGFDMEFMCn1_bFvIHlY038DwV1QWxucLjN57Px2PlU7pkggJO5w0yW41Nn4UciVNEUuaZHTrNPIN8XM7QGoXimnWhj4TO6zF8F1-zlFfi2PWclxcbvvE/MC.Daleste.Mataram.o.Pobre.Loco.S01E01.Eu.sou.Daleste.1080p.GLBO.WEB-DL.AAC2.0.x264-UPD-POR.mp4?stream=1$nome=EP.1</link>
