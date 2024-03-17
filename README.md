@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O LIVRO DE CLARENCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb23f75fef4e6ad38d0fe48af00d1155e1ec7e70</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/p6rz1Kz9YA9TOVRk0R5OUJhg7ry.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em Jerusalém, um homem sem sorte embarca em uma tentativa de capitalizar a ascensão do Messias para seu próprio ganho pessoal. A jornada o leva a uma exploração da fé e a um caminho inesperado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MADAME TEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJVHTT7ZTUZAYXDRGWVMHETBMOQH2UBO</link>
