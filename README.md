@@ -17,6 +17,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ASSASSINATO DE ELITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d84bd07ff67bf0c1a14bdeddf0655ecdba9f07ed</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qShrv2mBLE4pggn2AJpeXry3R16.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Durante uma investigação de assassinato, um policial não tradicional volta os holofotes para uma série de suspeitos. Ele entra em seu mundo como um forasteiro, apenas para descobrir que há muito mais do que o que atende aos olhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MADAME TEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJVHTT7ZTUZAYXDRGWVMHETBMOQH2UBO</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
