@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] MADAME TEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJVHTT7ZTUZAYXDRGWVMHETBMOQH2UBO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -113,14 +119,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/cCGFvoxzaBbYM3I68s6F939fybN.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Beekeeper - Rede de Vingança" é um filme de ação e suspense dirigido por David Ayer (Esquadrão Suicida, Marcados Para Morrer) e estrelado por Jason Statham (Megatubarão), Josh Hutcherson (Jogos Vorazes) e Jeremy Irons (Watchmen). A trama acompanha Adam Clay (Statham), um homem aparentemente comum que esconde um grande segredo: ele é ex-agente de uma poderosa organização clandestina chamada Beekeepers (Apicultores). Em uma perigosa conspiração, Clay tem seu passado exposto para o mundo e, entre outros efeitos colaterais, acaba perdendo uma pessoa muito querida. Tomado pela fúria, ele parte em uma busca frenética por vingança contra aqueles que revelaram seu maior segredo. No entanto, em sua busca para colocar um ponto final no sistema criminoso responsável por sua perda, suas ações acabam tomando proporções nacionais ao envolverem governos e as instituições mais influentes do mundo, colocando-o na mira de diferentes organizações.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MADAME TEIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdd5f9aee4dcb7ed92bc4bc234e8b4c2e28ce0f6</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
 </item>
 
 <item>
