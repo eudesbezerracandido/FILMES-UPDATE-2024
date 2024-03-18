@@ -302,7 +302,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] INDIFERENÇÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] INDIFERENÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KHDOCMBX6MROAVAAI3DBUCLNEGRTWGTC</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ufFrD3NgeFZdNlORyOgXkjCyeJA.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
