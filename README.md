@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A ARTE DE AMAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8fd952b78c8db39941184f5604f1092466befab</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8B5kcNrZUocXZMG80NWhroz94mf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Após descobrir que o ladrão de arte que ela está procurando é seu ex, uma agente da Interpol cria um plano para pegá-lo em flagrante.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O LIVRO DE CLARENCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
