@@ -51,8 +51,7 @@
 
 <item>
 <title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/love-one/LOVE%20ONE.mp4$nome= LINK DIRETO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97FF441748F487423E10C629914D8058D4300D17$nome=LINK TORRENT</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eae12207df29b8892da082a0ff9086d0b8f009f</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
