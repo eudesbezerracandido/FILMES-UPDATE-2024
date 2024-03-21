@@ -254,6 +254,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZWLYQ3W2EXBTX7XTFIWWTFFSW2SJTUN$nome=THE BAD BATCH 4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLWAQAZ4PZFVXRXTPOPB3LFFIQ7ACCRG$nome=THE BAD BATCH 5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab93832ec90b17675f61b4ac5eb8d03ab58b804f$nome=THE BAD BATCH 6/7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:136ecd9a10308ffafeeec1590e76279d9a61e677$nome=THE BAD BATCH 8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5mHus672nuinyaE0FtqvD0AddcY.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Spin-off da animação Star Wars: The Clone Wars, The Bad Batch conta a história de uma tropa de elite formada por clones altamente habilidosos e geneticamente diferentes de seus irmãos do Grande Exército da República. Difícil de ser derrotada, a equipe luta para se manter ativa e encontrar um novo propósito após a longa Guerra dos Clones. Em meio a tantas mudanças, esses soldados acabam se tornando mercenários e embarcam numa série de missões pela Galáxia.</info>
