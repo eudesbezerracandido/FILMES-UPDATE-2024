@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CÃO  É  GATO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f1dc31ac6f39b7c166010d295a272a122563834</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cn7yYRFOcNsyRlSgAv3oW3Ubd4p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um gato e um cachorro escapam de suas jaulas no aeroporto e seus donos devem trabalhar juntos para recuperar seus preciosos animais de estimação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] X-MEN 97-1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2XH33CIWKD2KK4WUFJSMIUNTFAJUCI77</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3wWIbA1VPsWC0FHB3V1gUgsgEHG.jpg</thumbnail>
