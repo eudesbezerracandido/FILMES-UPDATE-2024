@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] X-MEN 97-1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2XH33CIWKD2KK4WUFJSMIUNTFAJUCI77</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3wWIbA1VPsWC0FHB3V1gUgsgEHG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Como o nome indica, a história começa em 1997, ano em que a animação original terminou. Entre os últimos acontecimentos de X-Men: The Animated Series, o professor Charles Xavier se despede do grupo de mutantes após ser gravemente ferido e parte do planeta Terra para buscar a sobrevivência no império Shiar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ARTE DE AMAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8fd952b78c8db39941184f5604f1092466befab</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/8B5kcNrZUocXZMG80NWhroz94mf.jpg</thumbnail>
