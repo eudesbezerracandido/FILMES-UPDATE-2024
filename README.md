@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] MATADOR DE ALUGUEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce792730279c594c6a3a7c7640c6b3bae9291e4d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hWqDso6opPI0tLKhGsXGxxZDCHT.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Remake do filme Matador de Aluguel que foi lançado em 1989 e estrelado por Patrick Swayze no papel de um segurança em um turbulento bar. No remake, um ex-lutador de UFC (Jake Gyllenhaal) aceita um emprego como segurança em uma estalagem em Florida Keys, mas logo descobre que nem tudo é o que parece neste paraíso tropical.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO ( torrent ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IXLSUWLQY35JZRFYZ3EG6OVNUXPTVIBN</link>
