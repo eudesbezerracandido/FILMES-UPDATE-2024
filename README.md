@@ -8,7 +8,7 @@
 
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO ( torrent ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IXLSUWLQY35JZRFYZ3EG6OVNUXPTVIBN</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ry8rWL3an19bf3bQcQpH7Hqqvhb.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
@@ -48,7 +48,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MC DALESTE MATARAM POBRE LOUCO ( LINK DIRETO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://908345191.tapecontent.net/radosgw/QAeBpRYvLdu0mJP/M54f2QHBs_DZwNf952YRyyGnqQDHtA2q6piPQuUbiguu1EVvMxJgheF5CjzPP6KDlVa6IT9YDlL7mXAJCrU8Hw1ztt3BC0wNPzPKZrURdrLBQNZJFV1EVFaYBr-yvB3rDgGYPZXME27MlWsI8nj31rwr_ss_3o2KHB1q1e3Ibn87UUAUc5NYIbFCBOLe3Q8s5rSX3_mrAls9ef9ISCeBxCk8yNq11BSXHGKOpB5iVICN_1PoeBJ69I5xPBQUTDuje8qEHHOV68BCEbGX/1.mp4?stream=1$nome=EP.1</link>
 <link>https://860146716.tapecontent.net/radosgw/8zW1mkdplBsozXw/w8aPRqUPMzcyOM3XpPErmeJm3gMQmoUrk3Ek0WQ9kngRRkA6sTyPkQf2K-clHvHmmJ0pGrWNwKm5kUwaYnG1e8KX4h7MtT0q6x6u0EYDyN_GT-ynJmGCevFYNEWlLNwxxY5lkMezwSrCo9pCyn5c0wh0wskJNZDPOiCjYIBUe-jk7Ze6z4fuM1o_Ay-cQkWbQ8bOS4rP4LiRA-5AtmQ86AnsJvsaYtrjZvAWCegOEXbYvPNYc3lv1Cb9qUtym-k9RJeoG2vxgrBALnt8TEXXf31vfRNM00QuiHlJuA/4.mp4?stream=1$nome=EP.2</link>
 <link>https://860146716.tapecontent.net/radosgw/Y8vKGXqGL4UeJd/aJaY9O7brhHsZroevs-g2F0lqWSSUyndKz_kjIvH4gkRv9IK-8XkTJXczVB5CZVw29cVfyua--NqrKy_c_Z6lELs9LjTPep6QrSdjGJwLmJlSMtzRnggFP2rk2FC7UGzqpZHb6XMxE74DteFdSv6NLjjKx_HI0NvV2lpDE3OoyDtEOWdd7ZW9FNEYnd30Hp1rxd6Pek_5mxXHdaplTX5-AliG7fIl9x5-KgMR4UaeQGoZoNfjJ5cfqQ1IqumFkuBbRvgxhxcn9FLvN98/2.mp4?stream=1$nome=EP.3</link>
