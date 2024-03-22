@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] OS CASAGRANDES - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be10b86f2daa340153e8240ad64d5c526169b190</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>baseado na série animada de sucesso da rede, The Casagrandes , que segue a dinâmica de uma família latina multigeracional que vive sob o mesmo teto! De acordo com o comunicado de imprensa, Tony Gama-Lobo ( Rise of the Teenage Mutant Ninja Turtles , Santiago of the Seas ) e Rebecca May ( Rise of the TMNT ), que atualmente estão escrevendo o filme live-action A Really Haunted Loud House , estão ligados ao filme. No momento, pouco se sabe sobre o filme dos Casagrandes , inclusive se ele será exibido na Nickelodeon, será lançado em um serviço de streaming como Paramount + ou Netflix, ou será lançado nos cinemas. O filme seguirá a linha de The Loud House Movie, um filme feito para a TV produzido pela Nickelodeon para a Netflix, que foi lançado em agosto de 2021.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SHIRLEY PARA PRESIDENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c980e1f162e6362ad297c32089ff367b7f14fc87</link>
