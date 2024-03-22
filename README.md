@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] PILOTOS DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fa0adf46431402a22d1c1810554a480b553997c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eG4kXMzVqOUuker4pQtJD5DMsk7.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um líder de esquadrão brilhante, mas imprudente, e sua equipe de pilotos de elite enfrentam perigos e demônios internos ao se unirem para uma missão mortal.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MATADOR DE ALUGUEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
