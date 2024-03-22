@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] SHIRLEY PARA PRESIDENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c980e1f162e6362ad297c32089ff367b7f14fc87</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/uyWRPpB3ZNyvkJZiukd6fmjsB6g.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Regina King interpreta Shirley Chisholm em Shirley para Presidente, filme que conta a história da primeira mulher negra a ser eleita para o Congresso e a concorrer à presidência dos Estados Unidos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PILOTOS DE COMBATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fa0adf46431402a22d1c1810554a480b553997c</link>
