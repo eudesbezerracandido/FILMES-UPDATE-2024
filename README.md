@@ -7,8 +7,11 @@
 
 
 <item>
-<title>[COLOR silver][B] GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAKST3KTFJW7NGJDQXSRNJKP6736NXMP</link>
+<title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAKST3KTFJW7NGJDQXSRNJKP6736NXMP$nome=APOCALIPSE DO GELO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/zGqfwtAY89ud6d5BKuLuePgbrx6.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
