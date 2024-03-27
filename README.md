@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O REFÉM-ATENDADO EM MADRI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522ea39ec1cb4c6fb252e5dc776216008da1a133</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/aDx49ejZlYewu89zn16JN7pMFeP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Santi, vítima de um atentado, torna-se refém de Hamza. Em uma reviravolta incrível, seus papéis se invertem, e Santi é forçado a andar pela Gran Vía de Madrid como um homem-bomba.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO ( HDCAM ) NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAB920FCE1BBE10C08F881F5D4228CC3689F94AE</link>
