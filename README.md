@@ -26,7 +26,8 @@
 
 <item>
 <title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery46.mxcontent.net/v/8964d809b3a4009411bfd5f7cf67af45.mp4?s=jYiLFpJeAppOQSd5-3kghA&e=1711267326&_t=1711249280$nome=APOCALIPSE DO GELO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8$nome=APOCALIPSE DO GELO DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
