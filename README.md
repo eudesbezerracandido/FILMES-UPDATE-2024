@@ -195,14 +195,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7D692300B84BF13F7257D057F59796DDA8BB0777</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/vbgI9lYJPtYrbPdwjtyuN2wUBKJ.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Uma mulher retorna à casa onde cresceu para descobrir que o amigo imaginário que ela deixou para trás é muito real e infeliz por ter sido abandonado.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] MAMONAS ASSASSINAS - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MG7ZHDZQI7TXZB4KLUWIZUWGFTRAUVND</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/wqV0Ff13ZhxLI0yaKVQxsouu49u.jpg</thumbnail>
