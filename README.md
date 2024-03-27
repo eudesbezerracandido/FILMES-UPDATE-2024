@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO ( HDCAM ) NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAB920FCE1BBE10C08F881F5D4228CC3689F94AE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vbgI9lYJPtYrbPdwjtyuN2wUBKJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma mulher retorna à casa onde cresceu para descobrir que o amigo imaginário que ela deixou para trás é muito real e infeliz por ter sido abandonado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://s-delivery46.mxcontent.net/v/8964d809b3a4009411bfd5f7cf67af45.mp4?s=jYiLFpJeAppOQSd5-3kghA&e=1711267326&_t=1711249280$nome=APOCALIPSE DO GELO</link>
