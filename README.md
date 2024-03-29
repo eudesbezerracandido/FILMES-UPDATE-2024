@@ -8,6 +8,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DESCANSE EM PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2873d0159f664410f0c113550a72e5b6c191f48</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/q3TFEdIpzNC609G0pEV6FOlHCAg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sergio está afogado em dívidas e problemas de saúde, mas encontrou uma forma de salvar a família dessa ruína toda. Só que o preço a pagar talvez seja alto demais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O REFÉM-ATENDADO EM MADRI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:522ea39ec1cb4c6fb252e5dc776216008da1a133</link>
