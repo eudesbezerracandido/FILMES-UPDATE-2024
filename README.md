@@ -8,7 +8,7 @@
 <item>
 <title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
 </item>
