@@ -5,7 +5,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] ALMA DE CAÇADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3OTIIOMADTAHU4T7SFHFRG7HPI3KPF65</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vFcKla48r8OUTKiSMXnSwKNSTsn.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um assassino aposentado volta à ativa quando descobre uma conspiração perigosa dentro do governo sul-africano.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -14,6 +20,8 @@
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
 </item>
+
+
 
 <item>
 <title>[COLOR silver][B] DESCANSE EM PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
