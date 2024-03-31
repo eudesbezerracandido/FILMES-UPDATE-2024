@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SALÁRIO DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AZP2CTFEGBY6NIKXL7UCD46UL4GKUH3V</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wQpmQV4asLYTAmw4BwgmtfGx0Os.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma equipe tem 24 horas para levar dois caminhões de nitroglicerina por um deserto cheio de perigos. A missão? Impedir uma explosão fatal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM PRESSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LC7PUQF7FH7IJWDPPDCH75QWQAVOALU7</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/f69k8OpsxZIXUFrQ2OE56fSVZ9N.jpg</thumbnail>
