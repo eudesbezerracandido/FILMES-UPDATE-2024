@@ -6,6 +6,14 @@
 
 
 <item>
+<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ALMA DE CAÇADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3OTIIOMADTAHU4T7SFHFRG7HPI3KPF65</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/vFcKla48r8OUTKiSMXnSwKNSTsn.jpg</thumbnail>
@@ -14,11 +22,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/qPLQIVTVkhSm0tmhPMX0OeEuG0P.jpg</thumbnail>
+<title>[COLOR silver][B] JOGA BONITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RXA6MJUMZ2BNWL5EYYMB3SNOBC6HF4MJ</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/lYR7Ob8qmtwxjNzrfGaPNjvbIln.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+<info> Em Jogo Bonito, o técnico Mal treina o time de futebol de moradores de rua da Inglaterra para chegar à Copa do Mundo dos Sem-Teto, em Roma. Em uma jogada arriscada, ele convoca o talentoso e problemático atacante Vinny, que precisa superar o passado para conseguir ajudar a equipe. Inspirada na verdadeira Copa do Mundo dos Sem-Teto, esta é uma história de segundas chances, demonstrando que o esporte promove a competição, mas também a esperança.</info>
 </item>
 
 <item>
