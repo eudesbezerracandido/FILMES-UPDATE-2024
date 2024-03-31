@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ZONA DE INTERESSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X7QIRCHBZEXJ3QGWQZ5CI2226ZLBL7BB</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/v8pTxM7Hqzkjb53lyv2isMj3G9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Rudolf Höss (Christian Friedel), o comandante de Auschwitz, e sua esposa Hedwig (Sandra Hüller), desfrutam de uma vida aparentemente comum e bucólica, em uma casa com jardim. Mas, por trás da fachada de tranquilidade, a família feliz vive, na verdade, ao lado do campo de concentração de Auschwitz. O dia a dia destes personagens se desenrola entre os gritos abafados de desespero, de um genocídio em curso, do qual, eles também são diretamente responsáveis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM PRESSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LC7PUQF7FH7IJWDPPDCH75QWQAVOALU7</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/f69k8OpsxZIXUFrQ2OE56fSVZ9N.jpg</thumbnail>
