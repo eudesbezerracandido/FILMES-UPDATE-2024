@@ -15,7 +15,8 @@
 
 <item>
 <title>[COLOR silver][B] MEGAMENTE VS O SINDICATO DA PERDIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SL5AMPCZ5FYQJQQP53ZMM37G2LEW4VZT</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f3fe9a98850557f07601c7159c73852e386a39f$nome=MEGAMENTE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SL5AMPCZ5FYQJQQP53ZMM37G2LEW4VZT$nome=MEGAMENTE 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/60x76Yb6nMPFwEZ3um5yhUwCga.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> A trama segue Megamente em sua jornada para provar que se transformou em um verdadeiro herói, enfrentando um grupo de vilões conhecido como Sindicato da Perdição.</info>
