@@ -87,8 +87,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO ( HDCAM ) NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAB920FCE1BBE10C08F881F5D4228CC3689F94AE</link>
+<title>[COLOR silver][B] IMAGINÁRIO - BRINQUEDO DIABÓLICO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d428017780dad3e1ec3baf4474b4f40637e15258</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/vbgI9lYJPtYrbPdwjtyuN2wUBKJ.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Uma mulher retorna à casa onde cresceu para descobrir que o amigo imaginário que ela deixou para trás é muito real e infeliz por ter sido abandonado.</info>
