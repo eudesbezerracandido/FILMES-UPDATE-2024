@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] WISH-O PODER DOS DESEJOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9fd9374315ab931d3393b12e7a23c28d562521e</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mrlZdrUPL9GGC7gMKoVaY9ZVGBm.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Rosas é uma terra fantástica para onde viajam pessoas dos locais mais longínquos a fim de pedirem ao Rei Magnífico que realize os seus desejos. Mas só ele decide quais se irão tornar realidade e quando. Asha, uma idealista de 17 anos, descobre algo sombrio no reino e exprime um desejo poderoso que é atendido por uma força cósmica - uma pequena bola de energia ilimitada chamada Star.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A TEIA ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e93621c787149264a3725e7eaf2419a62144657b</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
