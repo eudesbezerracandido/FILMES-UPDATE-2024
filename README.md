@@ -5,6 +5,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] OS FAROFEIROS 2  ( BREVE )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
+<link>$nome=OS FAROFEIROS 2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Na trama, Alexandre (Antônio Fragoso) é reconhecido pela empresa onde trabalha como melhor gerente de vendas. O prêmio é uma viagem para a Bahia com toda a família. No entanto, ciente de que os amigos Lima (Maurício Manfrini), Rocha (Charles Paraventi) e Diguinho (Nilton Bicudo) não estão satisfeitos com sua gestão e que isso pode atrapalhar sua promoção, ele convida toda a turma para embarcar rumo ao Nordeste.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
