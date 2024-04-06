@@ -9,7 +9,7 @@
 
 <item>
 <title>[COLOR silver][B] MÚSICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RS2RFT677LE2FH2GI2JYD4TUMMILHR2H</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1Kaa7VPKkZyRXLpXDfSpYOtvPBI.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Baseado na vida do escritor e diretor Rudy Mancuso, que também é protagonista da história, Música retrata a vida de Rudy, um jovem que mora em Newark, Nova Jersey, e além de apaixonado, é atormentado por uma música que toca em looping na sua cabeça. Por ter sinestesia, fenômeno neurológico que provoca a percepção de vários sentidos ao mesmo tempo, este artista de rua interpreta os sons do seu cotidiano como ritmos complexos. Enquanto enfrenta um futuro incerto com sua namorada de longa data Haley (Francesca Reale), sua vida ganha novos ritmos quando conhece Isabella (Camila Mendes), agora ele tenta conciliar seus interesses pessoais, a relação com sua família e a cultura brasileira e as descobertas do amor.</info>
