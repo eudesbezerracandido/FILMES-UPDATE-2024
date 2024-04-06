@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A GRANDE ENTREVISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WGZVG7L5Q2R625I2PJURG7SX3ORDKQRP</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A Grande Entrevista  – Inspirado em uma história real, “A Grande Entrevista” remonta os bastidores da infame participação do príncipe Andrew no jornal Newsnight da BBC e da entrevista que chocou o mundo. Das tensas negociações da produtora Sam McAlister com o Palácio de Buckingham às perguntas cirúrgicas feitas pela jornalista Emily Maitlis, o filme retrata o trabalho de mulheres obstinadas. Para conseguir uma entrevista dessas, é preciso ter muita ousadia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] OS FAROFEIROS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
