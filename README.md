@@ -6,6 +6,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO CONQUISTAR O BILLY WALSH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8a59e67c9d2bb12cd5bd67f18388f9146aab8e6</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qBMCWy4CdXC8T17h3sceZPpzH7y.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Archie está apaixonado por sua melhor amiga Amelia desde que se lembra. Justamente quando ele cria coragem para declarar seus sentimentos, ela se apaixona perdidamente por Billy Walsh, um novo estudante americano transferido.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MÚSICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -54,14 +69,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Na trama, Alexandre (Antônio Fragoso) é reconhecido pela empresa onde trabalha como melhor gerente de vendas. O prêmio é uma viagem para a Bahia com toda a família. No entanto, ciente de que os amigos Lima (Maurício Manfrini), Rocha (Charles Paraventi) e Diguinho (Nilton Bicudo) não estão satisfeitos com sua gestão e que isso pode atrapalhar sua promoção, ele convida toda a turma para embarcar rumo ao Nordeste.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
 </item>
 
 <item>
