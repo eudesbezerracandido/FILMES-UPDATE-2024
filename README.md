@@ -24,6 +24,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BRUXA DOS MORTOS- BAGHEAD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fd204e81117d58268e2619b918963b49ffffff7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hV1duOiPt8o4JxUltlSbYXMJehf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Kevin é assombrado pela dor e por perguntas que apenas os recém falecidos podem responder. Ele é apresentado a Baghead, uma bruxa que muda de forma e pode canalizar os mortos de uma maneira incomum e talvez fornecer a Kevin as respostas que ele procura.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GRANDE ENTREVISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WGZVG7L5Q2R625I2PJURG7SX3ORDKQRP</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg</thumbnail>
