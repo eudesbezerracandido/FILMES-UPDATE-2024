@@ -16,6 +16,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] WHINDERSSON NUNES-VERSO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c503c18a68c1cdb056cd72ddbfe90f6a6ce515d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9h2Q2D5Dzi0u602Q6Iuyzc8YwOz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Whindersson Nunes e a ilustradora Rafaella Tuma se unem, pela primeira vez, para dar vida, por meio da animação, às histórias do humorista.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A REDE ANTISSOCIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPYUZT7XVQTOH2D63TL73X5T2PBCDTOZ</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1vzxO1KcwbW7uPGabTxJ0HKmYUS.jpg</thumbnail>
