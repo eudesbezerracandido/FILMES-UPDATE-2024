@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  VOCÊ NÃO ESTÁ SOZINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cbcae48897d941c055a938808b51e799742e57b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zidXrw6ztIrDjYsP3dHkHG43j2s.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Do surgimento do QAnon ao tumulto do dia 6 de janeiro nos EUA, A Rede Antissocial: Dos Memes ao Caos mostra como um grupo de adolescentes entediados criou uma comunidade online movida pela solidão e, sem querer, acabou abalando a percepção da realidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A REDE ANTISSOCIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPYUZT7XVQTOH2D63TL73X5T2PBCDTOZ</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1vzxO1KcwbW7uPGabTxJ0HKmYUS.jpg</thumbnail>
