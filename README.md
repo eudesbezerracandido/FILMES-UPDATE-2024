@@ -7,6 +7,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] REENCONTRO DA TURMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfafa0744607ec9d2075fc46b94055d0adc9705</link>
@@ -16,11 +26,19 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
+<title>[COLOR silver][B] FERRARI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2499c3e36a95afa30a2daf49dd7b09fbb0d975c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gwvIirDw4fKy491PpjSMda28SoN.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+<info> O ex-piloto de corrida, Enzo Ferrari está em crise. A falência assombra a empresa que ele e sua mulher, Laura, construíram do nada 10 anos atrás. O casamento tempestuoso dos dois sofre com o luto pela morte de um filho e a dificuldade de reconhecer outro. Ele decide contrapor essas perdas apostando tudo em uma corrida – a icônica Mille Miglia, na Itália.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O MAL QUE NÓS HABITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/t6cWfm0o5TzCa3nHtHhXpzjBc8V.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em uma vila remota, dois irmãos encontram um homem possuído por demônios prestes a dar à luz ao mal encarnado. Eles decidem se livrar do sujeito, mas acabam apenas espalhando o caos.</info>
 </item>
 
 <item>
