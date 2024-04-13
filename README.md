@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] POSSESSÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da989b01165dd8d8b712818d1a4c02f473083d6</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/s3Gu89VHAnFkQXUTwxGIcWhkmzW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Possessões Torrent – Um grupo de colonos cristãos é assombrado e perseguido após construir uma igreja no solo sagrado de um antigo povo indígena europeu.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA CIVIL ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:456B22139ECC2E2EF2F7FB4D24BA640436C33FCC</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
