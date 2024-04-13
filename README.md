@@ -6,6 +6,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] REENCONTRO DA TURMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfafa0744607ec9d2075fc46b94055d0adc9705</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hERAMeQsYvIBVieP72luNnNrZwz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma Parede entre Nós Torrent – Um assassinato e uma nevasca em uma festa de reunião de colégio deixam os convidados presos em uma mansão isolada para uma abordagem cômica do clássico “quem é o culpado?”.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
