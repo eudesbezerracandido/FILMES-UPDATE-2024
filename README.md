@@ -15,6 +15,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HERANÇA ROUBADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d518e8ef1217b718c7e8f5acdd5822b80009fe64</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bZLo7tbOfbZWiSBsWz2tKWdSKmj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Herança Roubada Torrent – Em Herança Roubada, a premiada escritora Ann-Helén Laestadius retrata a luta de uma jovem para defender sua ancestralidade indígena em um mundo onde a xenofobia só cresce, as mudanças climáticas ameaçam os animais, e alguns jovens preferem se suicidar a suportar o desespero coletivo. No entanto, a obra também revela o embate entre ideias modernas e uma cultura tradicional profundamente sustentada por estruturas patriarcais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA CIVIL ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:456B22139ECC2E2EF2F7FB4D24BA640436C33FCC</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
