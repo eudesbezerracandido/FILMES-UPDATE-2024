@@ -34,6 +34,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA JORNADA ENTRE AMIGOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:339443A97C6885FB4A51021CFA3B97BEE56B14CF</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hE9ToZRWcEd3jh96gbhKjWlUOQa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Recusando o tratamento para seu câncer, uma mulher faz uma viagem pela Tasmânia para conferir itens em sua lista de desejos com seu marido e melhor amigo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FÚRIA PRIMITIVA  ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF8F5F7AF9909EDF473FE17C91402E45991BE914</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg</thumbnail>
