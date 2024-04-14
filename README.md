@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PICA - PAU- AS FÉRIAS DO ACAMPAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62f8300b28f57b3a6c9af20ae7635de35f09270e</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2INtXKQGxQLT6MhztartxiammuC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após ser expulso da floresta, o Pica-Pau acha que encontrou seu novo lar no Acampamento Woo Hoo. Até que um inspetor ameaça fechar tudo!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FÚRIA PRIMITIVA  ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF8F5F7AF9909EDF473FE17C91402E45991BE914</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg</thumbnail>
