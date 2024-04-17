@@ -50,8 +50,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] FÚRIA PRIMITIVA  ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF8F5F7AF9909EDF473FE17C91402E45991BE914</link>
+<title>[COLOR silver][B] FÚRIA PRIMITIVA  ( HDCAM LEG.FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08C923D4FA43B9E321580042B8923ECD1B158B47</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ziXIsqVTBrKajZpVEGKiSvot3gu.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Monkey Man centra-se em Kid, interpretado por Dev Patel, que emerge da prisão para lidar com um mundo marcado pela ganância corporativa e por valores espirituais. Filme será ambientado na Índia moderna.</info>
