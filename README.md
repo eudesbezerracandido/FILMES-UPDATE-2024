@@ -91,7 +91,8 @@
 
 <item>
 <title>[COLOR silver][B] GUERRA CIVIL ( HDCAM LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90E50CA1D171B207523AB4999BA3644EF4AD33FD$nome=GUERRA CIVIL HDCAM DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Guerra Civil Torrent – Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.</info>
