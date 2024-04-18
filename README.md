@@ -18,6 +18,44 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8$nome=APOCALIPSE DO GELO DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50FDAD7F6BCD2E89EDA40437EEC3D1F6B2375A9B$nome=GHOSTBUSTER 2016</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=GHOSTBUSTER O LEGADO 2021</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zGqfwtAY89ud6d5BKuLuePgbrx6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MADAME TEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJVHTT7ZTUZAYXDRGWVMHETBMOQH2UBO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DONZELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A princesa Elodie acha que está se casando com o príncipe Henry, mas descobre que está sendo sacrificada a um dragão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eae12207df29b8892da082a0ff9086d0b8f009f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A TEIA ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDC82078570786194625667761A13D80B92E9057</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
@@ -245,20 +283,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8$nome=APOCALIPSE DO GELO DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50FDAD7F6BCD2E89EDA40437EEC3D1F6B2375A9B$nome=GHOSTBUSTER 2016</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=GHOSTBUSTER O LEGADO 2021</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/zGqfwtAY89ud6d5BKuLuePgbrx6.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] OS CASAGRANDES - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:be10b86f2daa340153e8240ad64d5c526169b190</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/yRD3xPQuEbANBcSWiEfiydKQRkz.jpg</thumbnail>
@@ -339,22 +363,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MADAME TEIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PJVHTT7ZTUZAYXDRGWVMHETBMOQH2UBO</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Forçada a confrontar seu passado, Cassandra Webb, uma paramédica em Manhattan que pode ter habilidades de clarividência, cria uma relação com três jovens destinadas a futuros poderosos, se elas conseguirem sobreviver ao presente a...</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BOB MARLEY - ONE LOVE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7eae12207df29b8892da082a0ff9086d0b8f009f</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ORDINARY ANGELS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A60539DB8EA4D676D31B274D0FE11AC101FDE4C$nome=DUBLADO NÃO OFICIAL</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6555B19F6740DB9B2AAA276D8D18B225E984FB61$nome=LEGENDA FIXA</link>
@@ -379,14 +387,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/6uvjR7tiSycXeDiOu5uXYvXML4X.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma jovem estudante de jornalismo está tentando obter a aprovação de seu influente mentor, que a incentiva a reconsiderar o significado da verdade, se isso significar sucesso.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DONZELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75ca4e6e03a0e3ed82a76a4d3774d453eb8616ef</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/ub4EHdVBVm3nHJiamU0gGcKS4ae.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info> A princesa Elodie acha que está se casando com o príncipe Henry, mas descobre que está sendo sacrificada a um dragão.</info>
 </item>
 
 <item>
