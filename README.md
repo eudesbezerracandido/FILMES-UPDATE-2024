@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ZONA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae8c71b9b13e700296518cf27f14197ff25fb3b4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cCRAMT530bTcZ4xs6E6pTUoAalE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O controlador de suporte aéreo de campo, o novato Kinney, está incorporado com uma equipe da Força Delta em uma missão nas Filipinas. Quando a equipe está presa sem armas, as habilidades de Reaper, um piloto de drones da Força Aérea, tornam-se sua única chance de sobrevivência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STRICTLY CONFIDENCIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQHEXH3EIHOPVQRGKA7MEDIJJBBIBUO5</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg</thumbnail>
