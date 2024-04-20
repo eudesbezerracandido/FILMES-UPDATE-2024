@@ -19,7 +19,8 @@
 
 <item>
 <title>[COLOR silver][B] REBEL MOON PARTE 2-A MARCADORA DE CICATRIZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc$nome=REBEL MOON PARTE 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F$nome=REBEL MOON PARTE 1</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ogU7c0vOTtPutuKjNtMKK7QR7PX.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Rebel Moon – Parte 2: A Marcadora de Cicatrizes dá continuidade à épica saga de Kora e dos guerreiros sobreviventes. Ao lado do corajoso povo de Veldt, eles estão prestes a sacrificar o que for preciso para defender o vilarejo que se tornou lar de quem perdeu tudo e todos na luta contra o Mundo-Mãe. Às vésperas da batalha, cada um deles precisa encarar as verdades sobre o próprio passado e os motivos que os levaram a lutar. Com o reino disposto a aniquilar os rebeldes a qualquer custo, laços são formados, heróis emergem e lendas nascem.</info>
