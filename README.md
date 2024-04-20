@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] STRICTLY CONFIDENCIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MQHEXH3EIHOPVQRGKA7MEDIJJBBIBUO5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jovem assombrada se vê atraída para um mundo de sedução, duplicidade e traição enquanto tenta desesperadamente desvendar o mistério que envolve o suicídio de sua melhor amiga.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8$nome=APOCALIPSE DO GELO DUBLADO</link>
