@@ -9,6 +9,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9166407698F70ABD303C6413449871BA553F7276</link>
@@ -24,6 +27,14 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/ogU7c0vOTtPutuKjNtMKK7QR7PX.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Rebel Moon – Parte 2: A Marcadora de Cicatrizes dá continuidade à épica saga de Kora e dos guerreiros sobreviventes. Ao lado do corajoso povo de Veldt, eles estão prestes a sacrificar o que for preciso para defender o vilarejo que se tornou lar de quem perdeu tudo e todos na luta contra o Mundo-Mãe. Às vésperas da batalha, cada um deles precisa encarar as verdades sobre o próprio passado e os motivos que os levaram a lutar. Com o reino disposto a aniquilar os rebeldes a qualquer custo, laços são formados, heróis emergem e lendas nascem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINHA TEORIA DA POPILARIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c577a11a45394cb4e5bdd0d1d97788da6785a2d5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hGPTbZTdmYgAuS58hY2JAI7B1Mx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Enfrentando o isolamento social, Erwin, a aluna mais nova do ensino médio, conhece um guru da ciência que a ajuda a reinventar a hierarquia escolar.</info>
 </item>
 
 <item>
