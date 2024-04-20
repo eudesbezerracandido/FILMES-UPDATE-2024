@@ -221,7 +221,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] OS FAROFEIROS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] COLECTION - OS FAROFEIROS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
 <link>https://archive.org/download/os-farofeiros-2/Os%20Farofeiros%202.mp4$nome=OS FAROFEIROS 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
