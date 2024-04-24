@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA PROVA DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E95BD7014CB2FE4F2172232478288AF3E8591EA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/31092QuIGplIz0Tmds5LytzU0yY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Arthur, o cão que cruzou a selva para encontrar um lar.O capitão de uma equipe de corrida de aventura sueca conhece o cão ferido durante uma corrida de 400 milhas através das selvas equatorianas, primeiro lhe atirando uma almôndega, o que levou o cão a seguir a equipe através de alguns dos terrenos mais difíceis do planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REBEL MOON PARTE 2-A MARCADORA DE CICATRIZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc$nome=REBEL MOON PARTE 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F$nome=REBEL MOON PARTE 1</link>
