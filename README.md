@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LIGA DA JUSTIÇA-CRISE NAS INFINITAS TERRAS PARTE 2° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4421B7C2FB3622D56EC7D0AC068D5E03E8CCADD3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O Anti-Monitor é liberado no Multiverso DC e começa a destruir as diferentes Terras que o compõem. O Monitor tenta recrutar heróis de todo o Multiverso para lutar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RIVAIS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2818272366BA00AF993FC0F568FF93F0516D47FC</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/zoYD52lPwO4agBEKcja6cAsoyLW.jpg</thumbnail>
