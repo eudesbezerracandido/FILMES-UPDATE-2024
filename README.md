@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RIVAIS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2818272366BA00AF993FC0F568FF93F0516D47FC</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zoYD52lPwO4agBEKcja6cAsoyLW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Tashi é uma antiga tenista que virou técnica, treinando seu marido, Art. Ela o transformou de um jogador medíocre em uma estrela do esporte, vencedor de vários grand slams. Para ajudá-lo a superar uma série de derrotas, ela o coloca para jogar um torneio Challenger, um dos níveis mais baixos do circuito profissional. Lá ele se encontra frente a frente com Patrick, um jogador que já foi uma promessa das quadras e caiu em decadência, além de ser o antigo namorado de Tashi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REBEL MOON PARTE 2-A MARCADORA DE CICATRIZES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a26ae91e850cb4b49e94c0f224edfa4eff9c6dc$nome=REBEL MOON PARTE 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SXKUUMHSNAKO5GBYRYBVCSBPIAC63F4F$nome=REBEL MOON PARTE 1</link>
