@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESESPERO PROFUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MWENYSWBOPR5IZDXABYFSDJ73VA2NIDW</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ktxq0LYgl41I2DUn49TYIaS9dZR.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Os sobreviventes de um voo têm de unir forças quando o seu avião cai no Oceano Pacífico. Com a aeronave perigosamente perto da borda de uma ravina, os passageiros e tripulantes sobreviventes ficam presos numa bolsa de ar, dando início a uma luta aterrorizante pela sobrevivência. Com o fornecimento de ar a esgotar-se e perigos a surgirem por todos os lados, a situação torna-se cada vez mais desesperada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIGA DA JUSTIÇA-CRISE NAS INFINITAS TERRAS PARTE 2° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4421B7C2FB3622D56EC7D0AC068D5E03E8CCADD3</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/oQJWjO5aw5N4uCoh6CYrxf1LePv.jpg</thumbnail>
