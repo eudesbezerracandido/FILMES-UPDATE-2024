@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - OS SEGREDOS DA ALIMENTAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XMVCBL2VKL4SBS2SIUQJHQJKYVQMFGF2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Conheça melhor o sistema digestivo neste documentário leve e informativo que desmistifica a função da saúde intestinal no bem-estar do ser humano.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA PROVA DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E95BD7014CB2FE4F2172232478288AF3E8591EA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/31092QuIGplIz0Tmds5LytzU0yY.jpg</thumbnail>
