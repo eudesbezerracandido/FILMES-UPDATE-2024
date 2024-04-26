@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAYEN- A CAÇADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881D28903E4659F89A4748173424F8347C5B4B6F</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Sayen: A Caçadora Percebendo que não consegue derrotar o Fisk sozinha, Sayen se junta a um grupo de resistência clandestino com um plano pra expor e dar um fim aos roubos descarados do Fisk de uma vez por todas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA CIVIL ( HDCAM LEGENDA FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90E50CA1D171B207523AB4999BA3644EF4AD33FD$nome=GUERRA CIVIL HDCAM DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
