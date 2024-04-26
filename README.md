@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CITY HUNTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e788d90d1ce66fb0a945cdad600fb85a15942c89</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Saeba Ryo é um varredor na cidade de Tóquio. Ele trabalha como um atirador de problemas, limpando as ruas de vermes e ajudando pessoas desesperadas. Às vezes ele é um guarda-costas, às vezes ele é um assassino, tudo o que Ryo faz, ele faz bem. Na verdade, sua única falha são seus hormônios - ele ama as mulheres e às vezes se torna um idiota quando está perto delas. Felizmente, ele tem pessoas como sua parceira Kaori Makimura para mantê-lo sob controle. Live-action do mangá City Hunter de Hojo Tsukasa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SAYEN- A CAÇADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881D28903E4659F89A4748173424F8347C5B4B6F</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg</thumbnail>
