@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOGO DO DESTINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IRN5WMSEEKFPIIXAOD62FJPCSN7IK4FX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3V0iiaCYgaJHL1Z6aiTyacDzfof.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O filme segue o compulsivo jogador Sergio, que depois de receber uma dica, retorna para a casa de apostas tentando recuperar todo o dinheiro que perdeu, mas outro jogador invade o lugar com uma arma e um tiro muda sua vida para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CITY HUNTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e788d90d1ce66fb0a945cdad600fb85a15942c89</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg</thumbnail>
