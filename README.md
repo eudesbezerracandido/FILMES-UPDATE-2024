@@ -515,7 +515,7 @@
 
 <item>
 <title>[COLOR silver][B] COLEÇÃO KUNG FU PANDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7FDB130F17AABACCD75E8FD13830E2185816FDE$nome=KUNG FU PANDA 4 (HDCAM)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BCNFC7RLK5EINWHI4MMK6QLRCKB7HNE$nome=KUNG FU PANDA 4</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45DF36477F6CB7E37B8780DF38C325131A4D5D5$nome=KUNG FU PANDA 3</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f41edc7a3cfd20ad8b3b714e72f25c0b54cbd24c$nome=KUNG FU PANDA 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eaf274c84c8ad5a0d91dd5f2c1b0beb8ae2f469$nome=KUNG FU PANDA 1</link>
