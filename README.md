@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SERTÃO VAI VIR AO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced48d74bd8c255fc1f11de6c1ec389a9f5e430d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eG5CJjHLXtftQDXY2lC3eXlrWJj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Bento, um vaqueiro que sonha em ver o mar, conhece um grupo de teatro e parte com eles rumo à praia. Em situações inusitadas, terá várias descobertas sobre sua verdadeira origem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CITY HUNTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e788d90d1ce66fb0a945cdad600fb85a15942c89</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg</thumbnail>
