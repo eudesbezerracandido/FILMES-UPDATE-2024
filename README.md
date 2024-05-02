@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SENNA POR AYRTON 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb63f8fd2917b6001245e65ce2a6365cf7702fea</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/sPBDaJWSGaiuc57oUGklfQR4Knr.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Nacional A série apresenta o próprio atleta contando a sua história, em primeira pessoa. O material foi retirado de 150 horas de entrevistas concedidas não apenas para a Globo, mas também para outros veículos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73471B31129B162DD4A1B785BE0FB5304C222143</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fZJSBHJKNR7Xz3CiEsAawd7bbDh.jpg</thumbnail>
