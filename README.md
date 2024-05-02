@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LISA FRANKESTEIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WQ7DZULTGNLUC43F7ZPRL3NOHBUKGQFA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O filme situado em 1989 segue uma jovem que acidentalmente desperta um cadáver vitoriano e o reconstrói pra ser o homem dos seus sonhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73471B31129B162DD4A1B785BE0FB5304C222143</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fZJSBHJKNR7Xz3CiEsAawd7bbDh.jpg</thumbnail>
