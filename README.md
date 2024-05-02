@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  OS SEGREDOS DOS NEANDESTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e5baf47061b0847c3aa03844d7688f13de7fcf1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3jSrvyWRdaLhcZpQg4l3pVI0lZj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Este documentário mergulha nos mistérios em torno dos Neandertais e no que seus registros fósseis nos revelam sobre suas vidas e desaparecimento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SERTÃO VAI VIR AO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced48d74bd8c255fc1f11de6c1ec389a9f5e430d</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/eG5CJjHLXtftQDXY2lC3eXlrWJj.jpg</thumbnail>
