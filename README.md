@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DUBLÊ ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621FC0F0186B7A956B3C711BF83E7E07AB347811</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7AkiDy6DVlfhJusglf6tvifX6dB.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Colt é um dublê que tem uma tremenda queda pela diretora do filme que está filmando. As coisas começam a dar errado quando o ator principal do filme desaparece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LISA FRANKESTEIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WQ7DZULTGNLUC43F7ZPRL3NOHBUKGQFA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg</thumbnail>
