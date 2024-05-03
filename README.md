@@ -38,10 +38,10 @@
 
  <item>
 <title>[COLOR silver][B] TARTARUGAS ATÉ LÁ BAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e695b0b54d5d1f4835b0f439943d0b88cab83bd8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info></info>
+<info> A história de Aza Holmes, uma garota de 16 anos que sofre de ansiedade e transtorno obsessivo-compulsivo.</info>
 </item>
 
 <item>
