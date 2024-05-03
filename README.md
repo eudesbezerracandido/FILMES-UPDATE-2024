@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BATALHA DO BISCOITO - POP TARTS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff580064b7370ab3cddde69f513ef1b9ca280f5d</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ueZd5yhf27402SwDB2ieALhD1Vk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Numa época em que o leite e os cereais eram os reis do pequeno-almoço, um petisco revolucionário desencadeia uma guerra. Uma comédia de Jerry Seinfeld sobre as Pop-Tarts.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DOBRO MAIS QUINZE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d96da19a3eca6f7fa52199ebbcd1f1f576efcf</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gNuxodMVfpEAN70o2mgLJFKaTun.jpg</thumbnail>
