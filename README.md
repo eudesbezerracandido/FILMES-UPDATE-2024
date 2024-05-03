@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SNOW VALLEY (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6F8B90F9E6245EA13757C16542A87C3DD232F91</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O fim de semana de esqui de um casal recém-noivado dá terrivelmente errado, quando um convidado inesperado chega e as forças sobrenaturais sombrias da casa começam a surgir.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELE FOI ASSIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c1d59fd493ac0808a60bae5acb35c0f04f24817</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg</thumbnail>
