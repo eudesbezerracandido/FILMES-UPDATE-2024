@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ELE FOI ASSIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c1d59fd493ac0808a60bae5acb35c0f04f24817</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Situado em 1964, o filme é baseado na estranha, mas verdadeira história de crime do famoso treinador de animais Dave Pitts e seu famoso chimpanzé da TV, Spanky, peça central da extravagância itinerante The Ice Capades, e seu fatídico encontro de três dias com o serial killer Larry Lee Ranes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
