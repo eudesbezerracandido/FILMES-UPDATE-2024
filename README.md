@@ -36,6 +36,14 @@
 <info> O filme situado em 1989 segue uma jovem que acidentalmente desperta um cadáver vitoriano e o reconstrói pra ser o homem dos seus sonhos.</info>
 </item>
 
+ <item>
+<title>[COLOR silver][B] TARTARUGAS ATÉ LÁ BAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SONIC 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73471B31129B162DD4A1B785BE0FB5304C222143</link>
