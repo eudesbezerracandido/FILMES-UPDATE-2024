@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SENTINEL (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77436EFED67E315DFAA96DD8FF39802835BC1512</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mbz1Pn6ZFPl6WHFFEaYu4XhkR2t.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Anos depois de uma invasão alienígena quase extinguir a raça humana, três soldados que sobreviveram numa base lunar secreta são enviados à Terra para libertar os sobreviventes do Sentinela e do seu exército e recuperar a Terra a qualquer custo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELE FOI ASSIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c1d59fd493ac0808a60bae5acb35c0f04f24817</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ii1DVzyj9uJOF9qBrnHCT6nAxUw.jpg</thumbnail>
