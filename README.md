@@ -36,12 +36,20 @@
 <info> O filme situado em 1989 segue uma jovem que acidentalmente desperta um cadáver vitoriano e o reconstrói pra ser o homem dos seus sonhos.</info>
 </item>
 
- <item>
+<item>
 <title>[COLOR silver][B] TARTARUGAS ATÉ LÁ BAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e695b0b54d5d1f4835b0f439943d0b88cab83bd8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> A história de Aza Holmes, uma garota de 16 anos que sofre de ansiedade e transtorno obsessivo-compulsivo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A NOITE EM QUE VOLTARAM PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66cc160b28f81565292ca2f0085fc263be28084</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um homem da lei da fronteira faz parceria com um detetive indiano para caçar um bando implacável de criminosos adolescentes conhecido como Rufus Buck Gang.</info>
 </item>
 
 <item>
