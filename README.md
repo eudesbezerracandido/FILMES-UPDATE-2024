@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] APEX APE X MECHA APE ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D94DDFF6AB78978CE5A56E44776CFB241AB1ABBE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mtab55cpOA5xq9OcW626oR8ZXyj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um grupo de líderes mundiais desperta uma criatura no fundo do oceano, e a única esperança da humanidade reside numa aliança entre o macaco gigante e o seu arqui-inimigo mecânico.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DOBRO MAIS QUINZE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d96da19a3eca6f7fa52199ebbcd1f1f576efcf</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gNuxodMVfpEAN70o2mgLJFKaTun.jpg</thumbnail>
