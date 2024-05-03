@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DOBRO MAIS QUINZE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3d96da19a3eca6f7fa52199ebbcd1f1f576efcf</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gNuxodMVfpEAN70o2mgLJFKaTun.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ana e Erik, duas pessoas aparentemente com vidas opostas, um dia se encontram em um chat de sexo. Ela é uma mulher adulta com uma vida resolvida mas que tem uma crise existencial. Ele é um adolescente com uma vida inteira pela frente e muitas incógnitas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DUBLÊ ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:621FC0F0186B7A956B3C711BF83E7E07AB347811</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7AkiDy6DVlfhJusglf6tvifX6dB.jpg</thumbnail>
