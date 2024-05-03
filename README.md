@@ -61,6 +61,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASPHALT CITY (DUBLADO NÃO OFICIAL) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8A369F917CA87F67F3B6AF1A3935CC50ADFA2992</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um jovem paramédico faz dupla com um parceiro experiente no turno da noite em Nova York, revelando uma cidade em crise. Ao descobrir o caos em primeira mão, ele é testado pela ambiguidade ética que pode ser a diferença entre a vida e a morte.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
