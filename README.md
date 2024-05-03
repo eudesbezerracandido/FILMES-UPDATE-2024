@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Enquanto acompanha a viagem de sua filha adolescente ao Coachella, Solène, uma mãe solteira de 40 anos, começa um romance inesperado com Hayes Campbell, de 24 anos, o vocalista da August Moon, a boy band mais badalada do planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TARTARUGAS ATÉ LÁ BAIXO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e695b0b54d5d1f4835b0f439943d0b88cab83bd8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/nDuWwxYxPwvtBadYcSkLP3dzOHd.jpg</thumbnail>
