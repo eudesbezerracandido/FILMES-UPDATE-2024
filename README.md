@@ -37,6 +37,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PARADISE ( DUBLADO NÃO OFICIAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33F6F2C6CC16F77F1DD8E68A56256454CE643F32$nome=PARADISE DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05CB4578A4A3AFD0AECA8482F67CDB35D8167DDD$nome=PARADISE LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/tpZMkdlRm8XauyiXNkVqguHlmOV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ella tem reputação por duas coisas: ser uma punk rebelde e a arma mais rápida que existe. Quando autoridades corruptas tentam encobrir o assassinato de seu pai, ela abre caminho através do estranho e anacrônico ponto fraco de sua pequena cidade insular.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] APEX APE X MECHA APE ( HDCAM )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D94DDFF6AB78978CE5A56E44776CFB241AB1ABBE</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/mtab55cpOA5xq9OcW626oR8ZXyj.jpg</thumbnail>
