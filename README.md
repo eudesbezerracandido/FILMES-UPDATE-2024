@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] EVIDÊNCIA DO AMOR- SANDY & FABIO PORCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] EVIDÊNCIA DO AMOR - SANDY & FABIO PORCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://drive.google.com/file/d/1inanoTpUUJ4CNQplFP5r6pxycKBlNUL1/view?usp=drivesdk</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/65FgunW6Lr4bxSpJQXCWgrDh4Om.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
