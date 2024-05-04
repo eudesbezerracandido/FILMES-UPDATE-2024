@@ -22,7 +22,7 @@
 
 <item>
 <title>[COLOR silver][B] EVIDÊNCIA DO AMOR - SANDY & FABIO PORCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://drive.google.com/file/d/1inanoTpUUJ4CNQplFP5r6pxycKBlNUL1/view?usp=drivesdk</link>
+<link>https://drive.google.com/file/d/1inanoTpUUJ4CNQplFP5r6pxycKBlNUL1/view</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/65FgunW6Lr4bxSpJQXCWgrDh4Om.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Numa noite aleatória, Marco e Laura se encontram em um bar de karaokê e cantam juntos a música "Evidências". Desde então, eles se apaixonaram e formaram um casal que parecia perfeito, até o momento em que disseram “sim”. Sem entender o que aconteceu, agora, toda vez que essa música tocar, Marco viajará por suas memórias com Laura.</info>
