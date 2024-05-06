@@ -29,6 +29,14 @@
 </item
 
 <item>
+<title>[COLOR silver][B] STAR WARS - HISTÓRIA DO IMPÉRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:651e2e10ffa0331ce621309f3da5adc95c645156</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vEe6PWm8xUuz8Xa0YitShR6p7LP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A produção é uma jornada de seis episódios pelo temível Império Galáctico, ambientada em diferentes eras e acompanhada pelos olhos de duas guerreiras em caminhos divergentes. Após perder tudo, a jovem Morgan Elsbeth navega pelo mundo Imperial em expansão em busca de vingança, enquanto a ex-Jedi Barriss Offee faz o que deve para sobreviver em uma galáxia em rápida mudança. As escolhas que elas fazem definirão seus destinos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SENNA POR AYRTON 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb63f8fd2917b6001245e65ce2a6365cf7702fea</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/sPBDaJWSGaiuc57oUGklfQR4Knr.jpg</thumbnail>
