@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JADE - GUERREIRA SOLITÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb33c0fb935256ebff3ef7e34ef472cc063841f0</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hTjVhegRP6fruQHWuC0sL9zsqQz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> com segredos da Interpol. Sua habilidades extraordinárias de luta serão colocadas à prova por uma gangue que ameaça o futuro de sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EVIDÊNCIA DO AMOR - SANDY & FABIO PORCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://embed-cloudfront.wistia.com/deliveries/b0fb30c74b76028ba182401f9d6b6f14ec62d70c.m3u8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/65FgunW6Lr4bxSpJQXCWgrDh4Om.jpg</thumbnail>
