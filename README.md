@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Enquanto acompanha a viagem de sua filha adolescente ao Coachella, Solène, uma mãe solteira de 40 anos, começa um romance inesperado com Hayes Campbell, de 24 anos, o vocalista da August Moon, a boy band mais badalada do planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JADE - GUERREIRA SOLITÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb33c0fb935256ebff3ef7e34ef472cc063841f0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/hTjVhegRP6fruQHWuC0sL9zsqQz.jpg</thumbnail>
@@ -161,14 +169,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/nJHrhcTT4LVzq07doBUaJ5ZjXB9.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Um jovem paramédico faz dupla com um parceiro experiente no turno da noite em Nova York, revelando uma cidade em crise. Ao descobrir o caos em primeira mão, ele é testado pela ambiguidade ética que pode ser a diferença entre a vida e a morte.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Enquanto acompanha a viagem de sua filha adolescente ao Coachella, Solène, uma mãe solteira de 40 anos, começa um romance inesperado com Hayes Campbell, de 24 anos, o vocalista da August Moon, a boy band mais badalada do planeta.</info>
 </item>
 
 <item>
