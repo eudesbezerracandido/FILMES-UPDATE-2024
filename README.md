@@ -21,6 +21,20 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:474X3MWRB7QP5VEWZEJCMZM5MI65SGUT$nome=APOCALIPSE DO GELO DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50FDAD7F6BCD2E89EDA40437EEC3D1F6B2375A9B$nome=GHOSTBUSTER 2016</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=GHOSTBUSTER O LEGADO 2021</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zGqfwtAY89ud6d5BKuLuePgbrx6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EVIDÊNCIA DO AMOR - SANDY & FABIO PORCHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://embed-cloudfront.wistia.com/deliveries/b0fb30c74b76028ba182401f9d6b6f14ec62d70c.m3u8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/65FgunW6Lr4bxSpJQXCWgrDh4Om.jpg</thumbnail>
@@ -293,20 +307,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/oRUusyQlKCfynGO1fIoCiLeNsY4.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Uma jovem assombrada se vê atraída para um mundo de sedução, duplicidade e traição enquanto tenta desesperadamente desvendar o mistério que envolve o suicídio de sua melhor amiga.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLECTION - GHOSTBUSTER: APOCALIPSE DO GELO ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:546328e832b95ddef893faf1060819a0e9c73606$nome=APOCALIPSE DO GELO LEGENDA FIXA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308A3A0AC201388C9809C0B4B5C337772AF618D8$nome=APOCALIPSE DO GELO DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=MAIS ALÉM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9566c89545bdf2ea489e72c456fb9c79708d188a$nome=GHOSTBUSTER 1984</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d17260f724c04a1008680fb5ff477ea061df14b$nome=GHOSTBUSTER 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50FDAD7F6BCD2E89EDA40437EEC3D1F6B2375A9B$nome=GHOSTBUSTER 2016</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896be142d14e080d5c707c6f94236a24e48887b$nome=GHOSTBUSTER O LEGADO 2021</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/zGqfwtAY89ud6d5BKuLuePgbrx6.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Nesta sequência da franquia Ghostbusters, a família Spengler retorna para onde tudo começou: a famosa estação de bombeiros em Nova York. Eles pretendem se unir com os caça-fantasmas originais que desenvolveram um laboratório ultra secreto de pesquisa para levar a caça aos fantasmas a outro nível, mas quando a descoberta de um artefato antigo libera uma grande força do mal, os Ghostbusters das duas gerações precisam juntar as forças para proteger suas casas e salvar o mundo de uma segunda Era do Gelo.</info>
 </item>
 
 <item>
