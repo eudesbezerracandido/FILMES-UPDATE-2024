@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SHAITAAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2OUYE2TABRBXKKKU4ZJB3YWKUPGFDZ3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nCK46DFCOMInVfSLraWDEOhMciE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma história atemporal de batalha entre o bem e o mal, com uma família que personifica as forças da justiça, enquanto um homem simboliza a malevolência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ABIGAIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A0C1BF504E55AC4117E7F0D6BF36FD70C958795B</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/pQFoHRmJLAlv5b2DNLGBISyxEuc.jpg</thumbnail>
