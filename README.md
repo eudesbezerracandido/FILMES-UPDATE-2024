@@ -43,6 +43,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - DAVI: UM CARA COMUM DA BAHIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:373cf562dba056b334ae9f3cfa01f080025b4214</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/hoLltWSfNbH3erey3tWd9Xp81TY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O que levou Davi a ser o campeão do Big Brother Brasil? Neste documentário o público vai conhecer a história por trás do jogador e acompanhar o impacto da fama em sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA IDEIA DE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TAVTOGZIVJWYMPVSXF5HOCIXRBJMD5CE</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5rIKVegF7XMPB02RaFaxtFwTPR0.jpg</thumbnail>
