@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4EFVOCDGYS5ER5KYBVWFJQ4SLTPF3GO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Russell Hatch é um ex-agente da Interpol que prometeu proteger o filho de um informante morto anos antes em uma operação que deu errado. Quando gangues de rua impiedosas iniciam uma guerra territorial e o garoto é pego no fogo cruzado, Hatch não vai parar até mantê-lo seguro e lutar contra qualquer um que estiver em seu caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SHAITAAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2OUYE2TABRBXKKKU4ZJB3YWKUPGFDZ3</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/nCK46DFCOMInVfSLraWDEOhMciE.jpg</thumbnail>
