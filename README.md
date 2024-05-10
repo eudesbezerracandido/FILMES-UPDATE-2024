@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA VIDA - A HISTÓRIA DE NICHOLAS WINTON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79954d5367a7a6e0055071a4a6744d4b0c2b07a7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wyPKeEJqj9ET5b5iArJalQTpABr.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma Vida A História de Nicholas Winton (Anthony Hopkins) mostra o extraordinário e humanitário Nicholas Witon que, em 1938, durante a Segunda Guerra Mundial, foi visitar Praga e se horrorizou com a situação em que as famílias ali viviam por conta de forte influência da Alemanha nazista. Compadecido com a situação, Nicholas junto com um grupo de apoio, conseguiu ajudar, principalmente crianças, a fugirem do Holocausto e irem para a Inglaterra antes das fronteiras serem fechadas. Entretanto, anos depois, Nicholas Winton fica atormentado com o sentimento de culpa pensando naqueles que ele não conseguiu resgatar. Somente quando ele reencontra com uma sobrevivente que ele socorreu é que ele consegue se livrar do peso da culpa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4EFVOCDGYS5ER5KYBVWFJQ4SLTPF3GO</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
