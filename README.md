@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MÃE DA NOIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IBYB23N354XXGXE3EOFZP33CI3XWGKR4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6gnzZDWfxizydSnjjRX36pW88nw.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando a filha de Lana, Emma, ​​retorna de um ano no exterior em Londres, ela lança uma bomba sobre sua mãe: ela vai se casar. Numa ilha. Próximo mês! As coisas só pioram quando Lana descobre que o homem misterioso que roubou o coração de sua filha é o filho do homem que quebrou o dela anos atrás</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA VIDA - A HISTÓRIA DE NICHOLAS WINTON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79954d5367a7a6e0055071a4a6744d4b0c2b07a7</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/wyPKeEJqj9ET5b5iArJalQTpABr.jpg</thumbnail>
