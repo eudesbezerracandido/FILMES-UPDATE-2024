@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - O GUARDIÃO DAS BORBOLETAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3556PBIFWMCB64UPNOQW663IMMKD3FI</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/l2uAsduoQFpb6ues8T1LLrpyd4k.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O Guardião das Borboletas é um documentário do diretor Emiliano Ruprah de Fina e vai explorar a vida do protetor das borboleta monarca, Homero Cómez, e o enorme impacto que a sua morte teve na conservação ambiental. Homero Gómez González era um ativista mexicano que chamou a atenção de todos por mostrar sua incansável defesa para com as borboletas monarca, uma espécie ameaçada de extinção nas florestas de Michoacán, o maior ambiente desses animais, bem como a rede de interesses privados e criminosos que ameaçavam a sua luta. Homero defendeu essa espécie de todas as maneiras que conseguia, até que desapareceu de forma misteriosa e a notícia da sua morte ser circulada. O longa reúne depoimentos de quem o conheceu em vida, além de pessoas que estiveram envolvidas na investigação do seu caso, que permanece sem esclarecimento, e a inconformidade da sua família e comunidade que continuam a se perguntar o que, de fato, Homero passou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SHAITAAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2OUYE2TABRBXKKKU4ZJB3YWKUPGFDZ3</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/nCK46DFCOMInVfSLraWDEOhMciE.jpg</thumbnail>
