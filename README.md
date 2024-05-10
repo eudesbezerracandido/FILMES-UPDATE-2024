@@ -21,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( LEGENDADO HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( LEGENDADO INGLÊS HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F19E053BC11839026054684747EC826C555C92E0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
