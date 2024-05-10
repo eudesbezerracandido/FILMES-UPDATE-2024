@@ -37,6 +37,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GAROTAS EM FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6HKTUTAJSR5S6EEOBDCLC3ZD62MT7LCH</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kWJXbCDnbZ3dptB1jibZBraqmRL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Jamie, uma jovem de espírito livre, está superando mais um término de relacionamento. Ao lado de sua ansiosa amiga Marian, ela viaja para Tallahassee em busca de um recomeço, mas as duas acabam no caminho de um grupo de criminosos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLATERAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4EFVOCDGYS5ER5KYBVWFJQ4SLTPF3GO</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fbtkwCWA0hk2zTZLuj6Jf99yvVE.jpg</thumbnail>
