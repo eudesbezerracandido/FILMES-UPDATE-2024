@@ -711,7 +711,8 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:I43DA4HVV7UKLJPQ3I5YE6ZGA2VU4UZG$nome=EP.5</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVKWEYMJG3SHHF5DRWIIHEHI56E7GGC6$nome=EP.6</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ZSZYA6S7FIGIGPRX4GBS2PSYMSIX3C3$nome=EP.7</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUU5ELISLL32BU3FNJQHCWQUI5CCP5TL$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUU5ELISLL32BU3FNJQHCWQUI5CCP5T$nome=EP.8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TYDWTJS45CTK4RGUVAMGDEVD2VO75LGF$nome=EP.9</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3wWIbA1VPsWC0FHB3V1gUgsgEHG.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Como o nome indica, a história começa em 1997, ano em que a animação original terminou. Entre os últimos acontecimentos de X-Men: The Animated Series, o professor Charles Xavier se despede do grupo de mutantes após ser gravemente ferido e parte do planeta Terra para buscar a sobrevivência no império Shiar.</info>
