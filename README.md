@@ -21,6 +21,16 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  COLECTION - GARFIELD - FORA DE CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C5798881A135F30848D687ACDFD96505F33D75C$=nomeGARFIELD 2024</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C39FCD5E563729860AF199F5CBCB131F3FC82AB$=nomeGARFIELD 2006</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE53919F00174B0AA76ADCBB2FED88D87C810A70$=nomeGARFIELD 2004</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9RxtXHvfX79gnHaXutwVhT1nlUL.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Protagonizado por Bill Skarsgård, Contra o Mundo acompanha “Garoto”, que jura vingança depois que sua família é assassinada por Hilda Van Der Koy (Famke Janssen), a matriarca de uma dinastia pós-apocalíptica que deixou o menino órfão, surdo e sem voz. Guiado por sua voz interior, que ele pegou emprestado de seu videogame favorito, Garoto foge para a selva e é treinado por um misterioso xamã (Yayan Ruhian), que o ajuda a reprimir sua imaginação infantil e se transformar em uma máquina de morte. Quando ele instaura um caos sangrento nas artes marciais, resultando em uma carnificina, ele se junta a um grupo de resistência para manter seu plano de pé.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( LEGENDADO INGLÊS HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F19E053BC11839026054684747EC826C555C92E0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
@@ -225,14 +235,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/avet7KbWhIwwhHZ4JSnbSpEzeTX.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> O fim de semana de esqui de um casal recém-noivado dá terrivelmente errado, quando um convidado inesperado chega e as forças sobrenaturais sombrias da casa começam a surgir.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GARFIELD - FORA DE CASA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C5798881A135F30848D687ACDFD96505F33D75C</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/rC5RqXtFoTkBhNWE1dczwi4dZrX.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info> Protagonizado por Bill Skarsgård, Contra o Mundo acompanha “Garoto”, que jura vingança depois que sua família é assassinada por Hilda Van Der Koy (Famke Janssen), a matriarca de uma dinastia pós-apocalíptica que deixou o menino órfão, surdo e sem voz. Guiado por sua voz interior, que ele pegou emprestado de seu videogame favorito, Garoto foge para a selva e é treinado por um misterioso xamã (Yayan Ruhian), que o ajuda a reprimir sua imaginação infantil e se transformar em uma máquina de morte. Quando ele instaura um caos sangrento nas artes marciais, resultando em uma carnificina, ele se junta a um grupo de resistência para manter seu plano de pé.</info>
 </item>
 
 <item>
