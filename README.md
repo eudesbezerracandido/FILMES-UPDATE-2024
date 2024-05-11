@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] WANTED MAN- MARCADO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475eec6fea646b6ad23851239af13d3bd451c271</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um policial deve recuperar uma testemunha ocular e escoltá-la depois que um tiroteio no cartel deixa vários agentes da DEA mortos, mas ele deve decidir em quem confiar quando descobrem que o ataque foi executado por forças americanas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MÃE DA NOIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IBYB23N354XXGXE3EOFZP33CI3XWGKR4</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/6gnzZDWfxizydSnjjRX36pW88nw.jpg</thumbnail>
