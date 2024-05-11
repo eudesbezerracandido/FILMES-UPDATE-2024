@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SOM DA JUVENTUDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d198962923f7436c7533a00c0c00671eb2a60a95</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7cu51AisQ4woWWBgUDe2ZjrM01q.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Desesperada para escapar das armadilhas de sua pequena cidade agrícola costeira, Abby, de 16 anos, se apaixona pelo vocalista de uma banda de rock em turnê e precisa decidir se deixa ou não sua família e amigos para trás. Com apresentações de música ao vivo e um elenco emocionante, COAST é sobre amizades femininas, encontrar a sua verdade e deixar a música levá-la para casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] WANTED MAN- MARCADO PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:475eec6fea646b6ad23851239af13d3bd451c271</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/6zgG1eNiQ4DrbYDIgEwNmDYRdrg.jpg</thumbnail>
