@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMOR A VENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fc643fd42e27b41601496e6e0ffa2e53f2404e5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9NKPk1hk27BUWprS6PLAYJjfDMF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Homens ricos e poderosos começam a morrer misteriosamente. Um popular repórter de televisão começa a investigar o caso e descobre a existência de uma misteriosa empresa que promete encontrar o amor da vida de seus cientes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MÃE DA NOIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IBYB23N354XXGXE3EOFZP33CI3XWGKR4</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/6gnzZDWfxizydSnjjRX36pW88nw.jpg</thumbnail>
