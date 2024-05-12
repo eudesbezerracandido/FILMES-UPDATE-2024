@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - A VIDA DOS LEOPARDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8d8993c5d0a559b00b8a9c22484eae185bf6c88</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/vwV3FMXuDPQnmXKYULvYpADPGaA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma equipe de filmagem acompanha de perto dois filhotes de leopardo em sua jornada fascinante desde a infância até a vida adulta neste documentário.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( LEGENDADO INGLÊS HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F19E053BC11839026054684747EC826C555C92E0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
