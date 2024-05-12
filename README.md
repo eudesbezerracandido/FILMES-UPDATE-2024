@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ENTREGADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2FORBDCZEP4SYVCODHA7JXPBV72UMVI</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/d5Z8cj0dyKzT7PrVvneknsm0X41.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Iván era um cara tranquilo, mas virou parte importante de um esquema global de lavagem de dinheiro. Será que a ambição vai levá-lo à fortuna ou ao desastre?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( LEGENDADO INGLÊS HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F19E053BC11839026054684747EC826C555C92E0</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
