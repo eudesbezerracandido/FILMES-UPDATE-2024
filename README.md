@@ -13,8 +13,12 @@
 
 
 <item>
-<title>[COLOR silver][B] GODZILLA X KONG: O NOVO IMPÉRIO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O</link>
+<title>[COLOR silver][B] COLECTION - GODZILLA & KING KONG  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
