@@ -12,7 +12,7 @@
 
 <item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://embed-cloudfront.wistia.com/deliveries/3a15ad110eda7f767cf0d9ab4f13670e7f8d29b4.m3u8</link>
+<link>https://embed-cloudfront.wistia.com/deliveries/aa6573a7246d4a8b68cfbcf94d0982bd28ef92ea.m3u8</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>No futuro, várias gerações após o reinado de César, onde os macacos são a espécie dominante que vive harmoniosamente e os humanos foram reduzidos a viver nas sombras. À medida que um novo líder primata tirano constrói o seu império, um jovem macaco inicia uma jornada angustiante que o levará a questionar tudo o que sabe sobre o passado e a fazer escolhas que irão definir o futuro dos macacos e dos humanos.</info>
