@@ -48,6 +48,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A GAROTA DE MILLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:110ee9a5814d8b7a6d92a1c00bc210b0ea5c1040</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/aWEZ0c82BZJUf78QHM4YLuZ9SDj.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jovem se envolve com seu professor de escrita criativa do ensino médio. Neste suspense provocante, uma jovem escritora (Jenna Ortega) e seu professor (Martin Freeman) se envolvem em uma trama complexa, onde os limites se confundem à medida que suas vidas se entrelaçam.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INSTINTO MATERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f323cda7759edc2f8a0bb60a0bf2065534662a3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1tIPZI7UP2Zg5ThqJU3Pvl0W0az.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Alice e Celine são melhores amigas e vizinhas, e ambas vivem um estilo de vida tradicional idílico com gramados bem cuidados, maridos bem-sucedidos e filhos da mesma idade. A harmonia perfeita da vida é repentinamente destruída após um trágico acidente. Culpa, suspeita e paranoia se combinam para desfazer o vínculo de irmãs e uma batalha psicológica começa quando o instinto maternal revela seu lado mais sombrio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEXIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G26SVEX4MICZ76HO2SXRTFVR7XZM2VCK</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xScOAzPLbF1e6ATjuhK3EtuMToV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma eterna dama de honra de trinta e poucos anos embarca em uma jornada de autodescoberta empoderadora e hilária.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PARTIU AMERICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OBFP3HCUTXPECYYLWT44MTOPAE4UA6PY</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/eLckMzlleotgKEm04IIc0CplBZC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Matheus é dono de um parque de diversões muito simples no interior do Nordeste brasileiro e o seu sonho é conhecer os parques famosos dos Estados Unidos. Matheus é tão admirador do estrangeiro que deu os nomes Flórida e Stevenspilbi para seus filhos com Maria Caranguejo, e eles, claro, também são fanáticos pelo exterior. Quando, finalmente, a família tem a oportunidade de viajar para fora do Brasil pela primeira vez, as coisas não saem como o esperado. A hilária ida para os Estados Unidos é marcada por muitos perrengues e confusões.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ENTREGADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U2FORBDCZEP4SYVCODHA7JXPBV72UMVI</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/d5Z8cj0dyKzT7PrVvneknsm0X41.jpg</thumbnail>
