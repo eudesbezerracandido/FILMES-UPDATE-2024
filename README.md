@@ -18,10 +18,10 @@
 <item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4$nome=[B]O REINADO[/B]</link>
-<link>plugin://plugin.video.elementum/search?q=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=[B]2001[/B]</link>
-<link>plugin://plugin.video.elementum/search?q=magnet:?xt=urn:btih:6F663BF71220DC8BD5A2E7AFD5819930567A6B30$nome=[B]O CONFRONTO[/B]</link>
-<link>plugin://plugin.video.elementum/search?q=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B$nome=[B]A GUERRA[/B]</link>
-<link>plugin://plugin.video.elementum/search?q=magnet:?xt=urn:btih:bb6d56ab5ae66539fb1f1eab22570a812c49aa21$nome=[B]A ORIGEM[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=[B]2001[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F663BF71220DC8BD5A2E7AFD5819930567A6B30$nome=[B]O CONFRONTO[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A116760BF0D1E28B8E04BD7230BC0B839F340C3B$nome=[B]A GUERRA[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb6d56ab5ae66539fb1f1eab22570a812c49aa21$nome=[B]A ORIGEM[/B]</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xRsHSgu5FyUCm6RK1fv8SQ8Ygzk.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A coleção de cinco filmes conta a saga dos humanos no Planeta dos Macacos, levando o espectador a surpreendentes situações em cada um dos filmes.</info>
