@@ -40,7 +40,8 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976 TORRENT</link>
+<link>https://archive.org/download/king-kong-1976_202405/KING%20KONG%201976.mp4$nome=KING KONG 1976 LINK DIRETO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
