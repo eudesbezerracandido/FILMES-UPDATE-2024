@@ -44,6 +44,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TODAS MENOS ELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90423ecec9d93443bea1eb44d21e413df4dbf361</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/f37agqbrKeU2MMJWsmpOsxIC1We.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O filme possui dois nomes (Todas Menos Ela e Todas Menos Você). Um grupo de amigos encontra o pretexto perfeito para se livrar da noiva insuportável de um deles quando descobrem que a mulher não é o que parece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION - GODZILLA & KING KONG  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
