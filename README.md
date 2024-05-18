@@ -57,6 +57,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FLUTUAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GL2DYUBVIGISXW6XCIN2JBPNUOEWHAQF</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/htcFpvCQycruzW2PV2ceihMRQyY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de quase se afogar, uma jovem inesperadamente se apaixonou pelas salva-vidas de uma pequena cidade que a resgatou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GAROTA DE MILLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:110ee9a5814d8b7a6d92a1c00bc210b0ea5c1040</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/aWEZ0c82BZJUf78QHM4YLuZ9SDj.jpg</thumbnail>
