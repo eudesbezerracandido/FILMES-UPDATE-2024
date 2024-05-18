@@ -28,11 +28,19 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )LEGENDADO PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4</link>
+<title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>No futuro, várias gerações após o reinado de César, onde os macacos são a espécie dominante que vive harmoniosamente e os humanos foram reduzidos a viver nas sombras. À medida que um novo líder primata tirano constrói o seu império, um jovem macaco inicia uma jornada angustiante que o levará a questionar tudo o que sabe sobre o passado e a fazer escolhas que irão definir o futuro dos macacos e dos humanos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VISÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14fae86594afa7635b062e009cadf1b72adac19c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ri54sRKimZO0HmzjKnyzUshGZDK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Uma brilhante comandante, Estelle, tem uma vida perfeita com o marido Guillaume, um médico renomado. Mas algo está prestes a mudar quando Estelle reencontra Ana, um amor de 20 anos atrás.</info>
 </item>
 
 <item>
