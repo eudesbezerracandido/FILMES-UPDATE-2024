@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TELMA - O UNICORNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:939158ee2f61820117cfc2e21e9c88def96ef7d3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/oxImUTwhiHII8QvQCgxQoxCqpkK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma pônei cantora que sonha com o estrelato fica famosa ao se transformar em um unicórnio brilhante, mas acaba descobrindo que nem tudo que reluz é ouro. Thelma é uma pônei que sonha em se tornar uma estrela da música. Quando ela é transformada em uma unicórnio e alcança a fama global, ela vai descobrir que a vida no estrelato tem um custo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION - GODZILLA & KING KONG  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
