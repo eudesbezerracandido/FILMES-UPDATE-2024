@@ -36,8 +36,9 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O SANGUE DE ZEUS 2° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LOLX6ICR54D6IHHSIJPNC5YJL4L6ZT2R</link>
+<title>[COLOR silver][B] O SANGUE DE ZEUS 1º/2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LOLX6ICR54D6IHHSIJPNC5YJL4L6ZT2R$nome=1° TEMPORADA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHXCO4KNTNKK2HKOWWSNE2SLLGDLVXCX$nome=2º TEMPORADA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/9qps2QgCBEXiMUReByG5f2ngczN.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> A história narra o filho ilegítimo de Zeus, um jovem encarregado de salvar o céu e a terra, apesar da interferência de uma deusa vingativa e suas forças monstruosas. - O anime contará com oito episódios, com foco na mitologia grega.</info>
