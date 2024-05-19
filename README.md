@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - PODER POLICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45cc4ceabc08c4bb840d51540ac0fa9d5f80d6dd</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/5nYbyTa3w8Ijid53exglHX25A3x.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Conheça a história inédita do policiamento dos EUA neste documentário instigante que levanta a seguinte pergunta: Quem é mais poderoso: o povo ou a polícia?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VISÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14fae86594afa7635b062e009cadf1b72adac19c</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ri54sRKimZO0HmzjKnyzUshGZDK.jpg</thumbnail>
