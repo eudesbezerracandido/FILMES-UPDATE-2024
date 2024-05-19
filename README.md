@@ -443,8 +443,10 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SAYEN- A CAÇADORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881D28903E4659F89A4748173424F8347C5B4B6F</link>
+<title>[COLOR silver][B] COLECTION - SAYEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:881D28903E4659F89A4748173424F8347C5B4B6F$nome=A CAÇADORA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:72f49a090f721ae1a310d3f8d37b0184d746b81b$nome=SAYEN 2023</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XQCYDFPZV4BSLWW7WNOB2IKHKUQCV3SR$nome=A ROTA SECA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5mF6zKM7LUnEVYTLAlwoZlskdbQ.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Sayen: A Caçadora Percebendo que não consegue derrotar o Fisk sozinha, Sayen se junta a um grupo de resistência clandestino com um plano pra expor e dar um fim aos roubos descarados do Fisk de uma vez por todas.</info>
