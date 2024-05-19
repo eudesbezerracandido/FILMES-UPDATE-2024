@@ -53,6 +53,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMIGOS IMAGINÁRIOS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8AA7A1F8BC170C3988FF415F5B9F10462A916E3</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zLCog9dYLzyzn3tbYD8jIEN6ydG.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um homem pode ver e conversar com amigos imaginários das pessoas. Como resultado, ele faz amizade com muitos daqueles que foram esquecidos. No entanto, alguns desses amigos imaginários são vazios de amor e amizade, e se voltam para o lado sombrio e ele deve intervir para salvar aqueles que se tornam maus.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TODAS MENOS ELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:90423ecec9d93443bea1eb44d21e413df4dbf361</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/f37agqbrKeU2MMJWsmpOsxIC1We.jpg</thumbnail>
