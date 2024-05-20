@@ -44,6 +44,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GOLDEN KAMUY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d405499a3113697b7cfd82dd49b3dcb603bdaff8</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kbW1DV9gPNeXvhwqvJtcRVSPk5C.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No início do século XX, o veterano da Guerra Russo-Japonesa Saichi Immortal Sugimoto consegue uma existência miserável durante a corrida do ouro do pós-guerra no deserto de Hokkaido. Quando ele se depara com um mapa para uma fortuna em ouro Ainu escondido, ele parte em uma busca traiçoeira para encontrá-lo. Mas Sugimoto não é o único interessado, e todos que conhecem o ouro matarão para possuí-lo! Enfrentando as duras condições da região selvagem do norte, criminosos implacáveis ​​e soldados japoneses desonestos, Sugimoto precisará de todas as suas habilidades e sorte e da ajuda de uma garota Ainu chamada Asirpa para sobreviver. Baseado no mangá Golden Kamuy de Satoru Noda.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SANGUE DE ZEUS 1º/2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LOLX6ICR54D6IHHSIJPNC5YJL4L6ZT2R$nome=1° TEMPORADA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHXCO4KNTNKK2HKOWWSNE2SLLGDLVXCX$nome=2º TEMPORADA</link>
