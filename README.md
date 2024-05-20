@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CONCERTO MALDITO-SIMFONIA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2Y4CFZUXVMN4I2P6EMVA535VTXQ6TH5M</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseado em O Flautista de Hamelin, o filme se concentra em uma jovem compositora ( Charlotte Hope) que se propõe a terminar a partitura que seu falecido mentor deixou inacabada quando morreu repentinamente. Ela logo descobre que o som dessas notas tem repercussões mortais, levando-a a desmascarar as origens perturbadoras da melodia e a força maligna que é despertada naqueles que a ouvem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SANGUE DE ZEUS 1º/2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LOLX6ICR54D6IHHSIJPNC5YJL4L6ZT2R$nome=1° TEMPORADA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHXCO4KNTNKK2HKOWWSNE2SLLGDLVXCX$nome=2º TEMPORADA</link>
