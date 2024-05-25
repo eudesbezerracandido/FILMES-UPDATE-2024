@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FORÇA DA NATUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec705e8d10bb6d5924a2611bcfa2cb04005bb6b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Exclusivo do nosso site, dublado e com qualidade 1080p. Cinco mulheres embarcam em uma trilha corporativa e apenas quatro retornam, cada uma com versões diferentes dos acontecimentos. Dois agentes federais enfrentam as profundezas das montanhas na esperança de encontra-la com vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
