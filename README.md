@@ -44,6 +44,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DANIFICADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48255518cc7186a76305b8b5505d16a62c6a3115</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando um assassino sádico surge na Escócia, um detetive da polícia de Chicago se junta à perseguição na esperança de deter este assassino em série ritualístico antes que ele faça sua próxima vítima.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAHIR - ENTRE A PAIXÃO E A GRATIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2deb6a907bbb55eba9f6c6960dcf631e201ec26f</link>
 <thumbnail></thumbnail>
