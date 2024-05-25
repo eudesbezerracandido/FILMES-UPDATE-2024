@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NAHIR - ENTRE A PAIXÃO E A GRATIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2deb6a907bbb55eba9f6c6960dcf631e201ec26f</link>
+<thumbnail></thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um dos casos mais polêmicos dos últimos anos, este filme se baseia na história real de Nahir Galarza e do assassinato de seu namorado que deixou a nação em choque. Ela foi a ré mais jovem da história da Argentina a ser condenada e sentenciada à pena máxima, porém, a dúvida ainda permanece: teria sido esse um crime passional ou a verdade ainda deverá ser descoberta?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANETA DOS MACACOS - O REINADO ( HDCAM DUBLADO )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2EADBC0C83202BE004B8EB4751A1A9B3E7FE702</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xncPDbNFr9YnZqaB6Ht9uItaoZO.jpg</thumbnail>
