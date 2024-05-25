@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA PROVA DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012f9a95b534a7386ce381f2da4a43a1d29789ae</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/31092QuIGplIz0Tmds5LytzU0yY.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Arthur, o cão que cruzou a selva para encontrar um lar.O capitão de uma equipe de corrida de aventura sueca conhece o cão ferido durante uma corrida de 400 milhas através das selvas equatorianas, primeiro lhe atirando uma almôndega, o que levou o cão a seguir a equipe através de alguns dos terrenos mais difíceis do planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CONCERTO MALDITO-SIMFONIA DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2Y4CFZUXVMN4I2P6EMVA535VTXQ6TH5M</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/28B3s9T3ZqmIeaZdooZgh2CK3rX.jpg</thumbnail>
@@ -499,14 +507,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Conheça melhor o sistema digestivo neste documentário leve e informativo que desmistifica a função da saúde intestinal no bem-estar do ser humano.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] UMA PROVA DE CORAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:012f9a95b534a7386ce381f2da4a43a1d29789ae</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/31092QuIGplIz0Tmds5LytzU0yY.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Arthur, o cão que cruzou a selva para encontrar um lar.O capitão de uma equipe de corrida de aventura sueca conhece o cão ferido durante uma corrida de 400 milhas através das selvas equatorianas, primeiro lhe atirando uma almôndega, o que levou o cão a seguir a equipe através de alguns dos terrenos mais difíceis do planeta.</info>
 </item>
 
 <item>
