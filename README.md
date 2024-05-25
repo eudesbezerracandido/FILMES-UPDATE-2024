@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATLAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XK7A2G5KJENDI2OYLSZNOIQ4C3BKSHJM</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Na trama de Atlas, uma inteligência artificial decide que a única forma de acabar com as guerras no mundo é extinguir a humanidade. Para conseguir vencer essa batalha, a personagem de Lopez terá que se aliar a uma segunda inteligência artificial, esta com boas intenções.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAHIR - ENTRE A PAIXÃO E A GRATIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2deb6a907bbb55eba9f6c6960dcf631e201ec26f</link>
 <thumbnail></thumbnail>
