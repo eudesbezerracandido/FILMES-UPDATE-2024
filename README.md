@@ -52,6 +52,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LITTLE WING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ZF2YPYRHYNE3HC6O5U5BRDDDAXAL7L4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Kaitlyn (Brooklynn Prince), é uma adolescente de 13 anos que está se recuperando do divórcio de seus pais e da perda pendente de sua casa. Ela e seu melhor amigo (Che Tafari) esperam resolver os problemas financeiros de sua mãe (Kelly Reilly) roubando um pássaro valioso, mas Kaitlyn cria um vínculo com o proprietário (Brian Cox) que a leva a uma nova visão da vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOIKA - UMA AMERICANA NO BOLSHOI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYOXBFNA737BOHX7DFJP44TFTZ7EDNOB</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/79s50ORnmW7gUCiMULFD91uPXQr.jpg</thumbnail>
