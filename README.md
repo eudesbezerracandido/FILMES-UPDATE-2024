@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERRA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YYENYVFE42P7UZLHVOORMC7KVX4SMGOT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yAvQOUhmvlo0yrLj2Swnj9gSX5k.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Romina, advogada divorciada, busca o afeto de sua filha. Propõe pagar ao dono do cachorro, um alcoólatra em recuperação, para fingir ser seu namorado e manter sua filha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATLAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XK7A2G5KJENDI2OYLSZNOIQ4C3BKSHJM</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg</thumbnail>
