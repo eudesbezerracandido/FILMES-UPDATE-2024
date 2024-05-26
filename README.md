@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MEU PORTO SEGURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D2IGXMAQHJ6NOX5N3AWGSP7OGQ7VH2VW</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1YNFjsa7vgACV9KINa0XOU0AlT2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Depois de perder Melisa, Fırat e Can prometem nunca esquecê-la e tentam criar um pequeno mundo para si. Esses dois, unidos por uma dor comum, tornam-se novos companheiros de quarto, pai e filho. Depois de um ano difícil para ambos, Fırat encontra coincidências que o levarão a reencontrar o amor, e uma nova pessoa entra em suas vidas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERRA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YYENYVFE42P7UZLHVOORMC7KVX4SMGOT</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/yAvQOUhmvlo0yrLj2Swnj9gSX5k.jpg</thumbnail>
