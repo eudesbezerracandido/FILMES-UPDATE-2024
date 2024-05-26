@@ -44,6 +44,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOIKA - UMA AMERICANA NO BOLSHOI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYOXBFNA737BOHX7DFJP44TFTZ7EDNOB</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/79s50ORnmW7gUCiMULFD91uPXQr.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Uma bailaria americana enfrenta duros desafios e precisa superar a cada dia para provar seu talento ao ser aceita no prestigiado Ballet Bolshoi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DANIFICADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48255518cc7186a76305b8b5505d16a62c6a3115</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/2cXxEXhVGDMTMXspbAhHs2RXEA9.jpg</thumbnail>
