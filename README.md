@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FURIOSA - UMA SAGA MAD MAX ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23708AC419F39BB1CBCFFF437CFFE4E94D2576B</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: A jovem Furiosa cai nas mãos de uma grande horda de motoqueiros liderada pelo senhor da guerra Dementus. Varrendo Wasteland, eles encontram a Cidadela, presidida pelo Immortan Joe. Enquanto os dois tiranos lutam pelo domínio, Furiosa logo se vê em uma batalha ininterrupta para voltar para casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FORÇA DA NATUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec705e8d10bb6d5924a2611bcfa2cb04005bb6b</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</thumbnail>
