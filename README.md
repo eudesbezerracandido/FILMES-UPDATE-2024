@@ -119,7 +119,7 @@
 <item>
 <title>[COLOR silver][B] NAHIR - ENTRE A PAIXÃO E A GRATIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2deb6a907bbb55eba9f6c6960dcf631e201ec26f</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/w4TcFexTfo5X7NkvNSeTrRSu9Sj.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/7aaz6YAzuGpemyHv6UWoMxhKkE5.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Um dos casos mais polêmicos dos últimos anos, este filme se baseia na história real de Nahir Galarza e do assassinato de seu namorado que deixou a nação em choque. Ela foi a ré mais jovem da história da Argentina a ser condenada e sentenciada à pena máxima, porém, a dúvida ainda permanece: teria sido esse um crime passional ou a verdade ainda deverá ser descoberta?</info>
 </item>
