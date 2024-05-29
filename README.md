@@ -28,6 +28,19 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLECTION - GODZILLA & KING KONG  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8013b5acacae620107ef36ea00ebb6987a5ab6c2$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976 TORRENT</link>
+<link>https://archive.org/download/king-kong-1976_202405/KING%20KONG%201976.mp4$nome=KING KONG 1976 LINK DIRETO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FURIOSA - UMA SAGA MAD MAX ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23708AC419F39BB1CBCFFF437CFFE4E94D2576B</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
@@ -211,19 +224,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/oxImUTwhiHII8QvQCgxQoxCqpkK.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Uma pônei cantora que sonha com o estrelato fica famosa ao se transformar em um unicórnio brilhante, mas acaba descobrindo que nem tudo que reluz é ouro. Thelma é uma pônei que sonha em se tornar uma estrela da música. Quando ela é transformada em uma unicórnio e alcança a fama global, ela vai descobrir que a vida no estrelato tem um custo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLECTION - GODZILLA & KING KONG  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABMTNNTA565W47Z2GZKR7U4RJAEL5S5O$nome=GODZILLA X KONG: O NOVO IMPÉRIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BC6CDED5CBA9244C96C295DB94AF709D7235CD53$nome= ILHA DA CAVEIRA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbcc53d5c378c75feec53ab6ef3aa54cd64ab660$nome=GODZILLA VS KONG</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc0c66f65e4e879b0c0caab97724f689310b2f0$nome=KING KONG 1976 TORRENT</link>
-<link>https://archive.org/download/king-kong-1976_202405/KING%20KONG%201976.mp4$nome=KING KONG 1976 LINK DIRETO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59A7B84AFD60C70658B5BA68CE2BEF3D718E8A6E$nome=KING KONG 2005</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/pJZSc3diJ4xfQKfQYyEZqWSZ9JV.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Uma nova e emocionante aventura coloca o poderoso Kong e o temível Godzilla contra uma ameaça colossal e desconhecida, oculta dentro do nosso mundo, desafiando a própria existência deles – e a nossa também. “Godzilla X Kong: O Novo Império” aprofunda-se ainda mais as histórias desses Titãs e as suas origens, assim como nos mistérios da Ilha da Caveira e além, revelando a batalha mítica que ajudou a forjar esses seres extraordinários e os vinculou para sempre à humanidade.</info>
 </item>
 
 <item>
