@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O TARÔ DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XX7BN3JRW7P6FS2KWCJ6F4KOPGOLZO6N</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2U4u7AKOddl3f9sbubHhiBcHBB4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um grupo de amigos da faculdade começa a morrer de maneiras ligadas às suas sortes depois de lerem seus horóscopos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FORÇA DA NATUREZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bec705e8d10bb6d5924a2611bcfa2cb04005bb6b</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</thumbnail>
