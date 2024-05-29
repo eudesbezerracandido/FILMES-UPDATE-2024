@@ -76,7 +76,7 @@
 <item>
 <title>[COLOR silver][B] SOUTH PARK - O FIM DA OBESIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6FC3QC6LTJOWQEZPLC2H2PSQDL4MJH3</link>
-<thumbnail>Em South Park: O Fim da Obesidade, o surgimento de novos medicamentos para emagrecer geram grande impacto em todos os habitantes de South Park. Quando o acesso aos tais medicamentos é negado a Cartman, a turma entra em ação.</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/gKeyw0r45QN0eQtn3FORo3fV2ma.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em South Park: O Fim da Obesidade, o surgimento de novos medicamentos para emagrecer geram grande impacto em todos os habitantes de South Park. Quando o acesso aos tais medicamentos é negado a Cartman, a turma entra em ação.</info>
 </item>
