@@ -41,6 +41,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BIONICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d77c4082661091b251ec890fd44252c6883506e4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em um futuro distópico em que as próteses robóticas dominam os esportes, duas irmãs competem no salto em distância. Só que essa rivalidade leva a um caminho sinistro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FURIOSA - UMA SAGA MAD MAX ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23708AC419F39BB1CBCFFF437CFFE4E94D2576B</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
