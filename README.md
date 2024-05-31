@@ -49,6 +49,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DURO DE ATUAR 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bfc321935fc70812e0498025d22c43e3229de7e</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Hart planeja um filme de ação inovador com cenas improvisadas e inesperadas para consolidar seu legado como o maior. No entanto, um ponto cego o leva a ser vítima de uma trama vingativa de seu passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS CORES DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://media.themoviedb.org/t/p/original/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg</link>
 <thumbnail>https://www.themoviedb.org/movie/1115395-kolory-zla-czerwien</thumbnail>
