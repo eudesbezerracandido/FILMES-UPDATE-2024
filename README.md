@@ -57,6 +57,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A PRIMEIRA PROFECIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5b43f8350f1f1e06b715259c1126c08a79cbd7f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/dXFA2RUvu6PRz19tP2tT2K5VBb4.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Uma jovem americana é enviada a Roma para iniciar uma vida de serviço à igreja, mas se depara com uma escuridão que a faz questionar sua fé e descobre uma conspiração aterrorizante que espera trazer à tona o mal encarnado. Prequela apresenta o que teria acontecido antes do nascimento do menino satânico Damien.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS CORES DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://media.themoviedb.org/t/p/original/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg</link>
 <thumbnail>https://www.themoviedb.org/movie/1115395-kolory-zla-czerwien</thumbnail>
