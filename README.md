@@ -73,6 +73,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RIVAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OAFNXU75OI73ZG5WYBEAOJGHGRW7HVQR</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/w1j3evHiwrGiQ6e9h1l9r66uo29.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Tashi é uma antiga tenista que virou técnica, treinando seu marido, Art. Ela o transformou de um jogador medíocre em uma estrela do esporte, vencedor de vários grand slams. Para ajudá-lo a superar uma série de derrotas, ela o coloca para jogar um torneio Challenger, um dos níveis mais baixos do circuito profissional. Lá ele se encontra frente a frente com Patrick, um jogador que já foi uma promessa das quadras e caiu em decadência, além de ser o antigo namorado de Tashi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FURIOSA - UMA SAGA MAD MAX ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23708AC419F39BB1CBCFFF437CFFE4E94D2576B</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/j4KUED5qQCpmyz1Mr77coJCrndq.jpg</thumbnail>
