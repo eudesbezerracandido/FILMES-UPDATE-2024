@@ -57,6 +57,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] KALI - ANJO VINGADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d5a7f2254b6d1f9dc41567799bfdf42f0d179c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um funcionário da alfândega francesa, Eric, que investiga um grande tráfico de medicamentos falsificados de uma fábrica no Brasil, é assassinado diante da Embaixada da França no Rio de Janeiro. Lisa, sua esposa, também ex-agente da alfândega, vai até lá para esclarecer o assassinato. Numa perseguição pela cidade e pela selva, a presa se transforma em caçadora.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRIMEIRA PROFECIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5b43f8350f1f1e06b715259c1126c08a79cbd7f</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/dXFA2RUvu6PRz19tP2tT2K5VBb4.jpg</thumbnail>
