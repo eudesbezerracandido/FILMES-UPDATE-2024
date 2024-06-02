@@ -49,6 +49,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A TRIPULAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39bea9de54c72c7d2fb83450d6b941c6a58d774b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yjcIAhigmejC5Idl0854uXD8Mki.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Três aeromoças comuns de Mumbai embarcam em uma jornada em busca de seus sonhos, mas se vêem envolvidas em infortúnios inesperados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DURO DE ATUAR 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bfc321935fc70812e0498025d22c43e3229de7e</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/3yTdtbtjlczr3fSoZWUcPkkaZSi.jpg</thumbnail>
