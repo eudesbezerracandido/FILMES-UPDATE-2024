@@ -43,6 +43,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRESCER NÃO É BRNCADEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31d06632f9bc41f308f17ccc2903d0ed5391605b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rrKWYUP7BEZEMptVTyXCzVGYU3I.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando o novo namorado da mãe se muda para sua casa, Waldek embarca em uma jornada pelas Montanhas Tatra para encontrar o pai desconhecido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA PARTE DE VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EN4INTN2KTGJOYTOESYGXXICFMMRUSOS</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/19txmVPYCpE5SA3Pdz4y5YRxzHF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Julia tem tudo o que sua irmã mais nova, Agnes, sempre sonhou: ela é a pessoa mais legal da escola, o centro de todas as festas e está namorando Noel. Se ao menos Agnes pudesse ser mais parecida com ela. Quando a pior coisa possível acontece, o mundo de Agnes vira de cabeça para baixo e ela é forçada a se reinventar. De repente, ela está prestes a obter tudo o que sempre desejou, mas a que custo?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GODZILLA - MINUS ONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc39ca331321fa0e8b81cc525eeed7fd0f6a465</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg</thumbnail>
