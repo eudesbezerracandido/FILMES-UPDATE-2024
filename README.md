@@ -9,12 +9,6 @@
 
 
 
-
-
-
-
-
-
 <item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4$nome=O REINADO</link>
@@ -46,6 +40,14 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Em um futuro distópico em que as próteses robóticas dominam os esportes, duas irmãs competem no salto em distância. Só que essa rivalidade leva a um caminho sinistro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GODZILLA - MINUS ONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cc39ca331321fa0e8b81cc525eeed7fd0f6a465</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9XSOyim1pivuSHQqlrDj5gj2J5w.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Ambientado no Japão do pós-guerra, Godzilla Minus One mostra um Godzilla com uma força monstruosa. O Japão, que já havia sido devastado pela guerra, enfrenta uma nova ameaça com Godzilla, deixando o país ainda mais destruído. Godzilla: Minus One é o novo filme do diretor e roteirista Takashi Yamazaki. No longa, o já conhecido kaiju aterroriza a cidade japonesa que se encontra devastada após a Segunda Guerra Mundial, na qual o país saiu perdendo e vai do zero ao negativo com a chegada do gigante. No trailer Kōichi Shikishima (Ryunosuke Kamiki) aparece machucado em meio a destroços e a protagonista Noriko Ōishi (Minami Hamabe) se depara com o temido titã que aos poucos se aproxima da cidade. O elenco também contará com atores Yuki Yamada, Munetaka Aoki, Hidetaka Yoshioka, Sakura Andō e Kuranosuke Sasaki.</info>
 </item>
 
 <item>
