@@ -100,8 +100,8 @@
 
 <item>
 <title>[COLOR silver][B] AS CORES DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=https://media.themoviedb.org/t/p/original/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg</link>
-<thumbnail>https://www.themoviedb.org/movie/1115395-kolory-zla-czerwien</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58ea2e5115ab945cc01e89ec290ad9a87b6afd33</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/s1h7CqxjZg3yreNVjXQaBdGMVaw.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>As Cores do Mal: Vermelho, dirigido pelo cineasta Adrian Panek é um longa de suspense investigativo onde a narrativa irá mostrar uma praia em Tri-City que se torna o cenário de uma descoberta dramática quando o mar traz à tona o corpo de uma jovem. A mutilação incomum da vítima aponta para um assassinato. A investigação é liderada pelo ambicioso e incansável promotor Leopold Bilski (Jakub Gierszal). A mãe da vítima, a juíza Helena Bogucka (Maja Ostaszewska), também está envolvida na investigação. Todas as pistas levam a um dos clubes à beira-mar, que se revela relacionado ao assassinato de uma mulher ocorrido 15 anos atrás. À medida que as informações coletadas durante a investigação e as evidências ocultas por anos vêm à tona, o lado sombrio da criminalidade em Tri-City surge lentamente. As descobertas de Leopo</info>
 </item>
