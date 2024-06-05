@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e64c273615812b88f44616ae414f7c48d0b907f</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/sTHB4UH9dOOJ9oRHbI9GaXNL7cD.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ao cruzar o deserto da África junto de sua família, a jovem Sira sofre um brutal ataque de um grupo de extremistas e Sira é deixada para morrer. Mas a jovem se recusa a aceitar o seu destino e decide lutar contra a violência do grupo terrorista.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4$nome=O REINADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=2001</link>
