@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOB AS ÁGUAS DO SENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f94a0876f65abe94078b44c78cfdf1a6a720af1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> No coração de Paris, no verão de 2024, pela primeira vez os parisienses irão sediar o anual Campeonato Mundial de Triatlo, uma famosa competição de natação no lendário rio Sena. Porém, os planos estão prestes a mudar quando a ativista ambiental Mika nota uma estranha agitação no rio. É com urgência que ela alerta a cientista Sophia (Bérénice Bejo) que um grande tubarão está nadando nas profundezas do rio Sena. Apesar de desacreditada, o terror se instaura, e a competição se torna uma luta pela sobrevivência. Para evitar um banho de sangue no coração da cidade, elas precisam se juntar ao chefe de polícia Adil. Em uma corrida contra o tempo, o trio precisa encontrar uma maneira de neutralizar o tubarão e garantir a segurança dos competidores e espectadores, enquanto enfrentam a incredulidade das autoridades e o pânico crescente entre os habitantes de Paris.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4$nome=O REINADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=2001</link>
