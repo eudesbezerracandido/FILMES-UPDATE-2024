@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - HITLER É O NAZISMO - COMEÇO, MEIO E FIM 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3PXVIILWYZP3MXNAUQETZCF2WZWRVWRB</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/44RUHgsM7e484aJ2rnasm52Iy9E.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Esta série documental mostra a ascensão de Adolf Hitler e do regime nazista desde antes da Primeira Guerra Mundial até o Julgamento de Nuremberg, passando pelo Holocausto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA CIVIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4fabfe7671f4f8d9ea7f9f078a309db0c8d79c2$nome=GUERRA CIVIL DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
