@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39a119e6b3629ce8739a3bb72eabfb46799cd0a5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ySQI0tAeHh3fOskx8qWuCaNJHoW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Verão de 1996, litoral de Alagoas. Tamara está aproveitando suas últimas semanas na vila pesqueira onde mora antes de partir para estudar em Brasília. Um dia, ela ouve falar de uma adolescente apelidada de “Sem Coração” por causa de uma cicatriz que tem no peito. Ao longo do verão, Tamara sente uma atração crescente por essa menina misteriosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e64c273615812b88f44616ae414f7c48d0b907f</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/sTHB4UH9dOOJ9oRHbI9GaXNL7cD.jpg</thumbnail>
