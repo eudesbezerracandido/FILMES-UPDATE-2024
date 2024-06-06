@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BAD BOYS - ATÉ O FIM ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E86C3DF9790FEF80548E1EADC4B6745A4830FA5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Os Bad Boys preferidos do mundo todo estão de volta com a mistura icônica de ação eletrizante e comédia escrachada mas, dessa vez, com uma virada: os melhores de Miami são agora os mais procurados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOB AS ÁGUAS DO SENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f94a0876f65abe94078b44c78cfdf1a6a720af1</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg</thumbnail>
