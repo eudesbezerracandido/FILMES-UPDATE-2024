@@ -38,6 +38,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GUERRA CIVIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4fabfe7671f4f8d9ea7f9f078a309db0c8d79c2$nome=GUERRA CIVIL DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Guerra Civil Torrent – Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION -  PLANETA DOS MACACOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/planeta-dos-macacos-o-reinado/Planeta%20dos%20Macacos-%20O%20Reinado.mp4$nome=O REINADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E9CA17D15CDFF360933A980E3DCE77FE114D78E$nome=2001</link>
@@ -156,15 +165,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/bLVYPjYkE5kEvPzwSUVRv3Bgums.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Exclusivo do nosso site, dublado e com qualidade 1080p. Cinco mulheres embarcam em uma trilha corporativa e apenas quatro retornam, cada uma com versões diferentes dos acontecimentos. Dois agentes federais enfrentam as profundezas das montanhas na esperança de encontra-la com vida.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] GUERRA CIVIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CDCB907870530674A313BF58C619962076D3F5C4$nome=GUERRA CIVIL DUBLADO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/3Use5sOQWXL3BvcaKqUH7eQ7I53.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info> Guerra Civil Torrent – Em um futuro não tão distante, quando uma guerra civil se instaura nos Estados Unidos, uma equipe pioneira de jornalistas de guerra viaja pelo país para registrar a dimensão e a situação de um cenário violento que tomou as ruas em uma rápida escalada, envolvendo toda a nação. No entanto, o trabalho de registro se transforma em uma guerra de sobrevivência quando eles também se tornam o alvo.</info>
 </item>
 
 <item>
