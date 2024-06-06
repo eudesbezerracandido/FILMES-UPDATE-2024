@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  COMO ROUBAR UM BANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWFWOGBJ2RUTLS6MXSFE5NTH6NVLZIG5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/wbpo8IBtg1NZ4FHJxMaRTPJoBUg.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Neste documentário sobre crimes reais, um rebelde carismático faz uma série de roubos a banco dignos de cinema na década de 1990 em Seattle.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOB AS ÁGUAS DO SENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f94a0876f65abe94078b44c78cfdf1a6a720af1</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/njsyAXtUcPjLCjOfGvtNLH4DHL2.jpg</thumbnail>
