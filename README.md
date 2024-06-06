@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SAUDOSA MALOCA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2095b3fce8c1759be311d53194b8d9f381440534</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rPGMCenrX0zmmWMmLJ3DcnvfXoV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Numa mesa de bar, o velho Adoniran Barbosa (Paulo Miklos) conta ao jovem garçom Cícero (Sidney Santiago) histórias de uma São Paulo que já não existe mais... ele relembra a vivência na maloca com seus amigos Mato Grosso (Gero Camilo) e Joca (Gustavo Machado), além da paixão deles por Iracema (Leilah Moreno). Com a ajuda do samba, o grupo de amigos sobrevive, mas tem suas vidas ameaçadas quando o bairro do Bixiga começa a passar por grandes transformações e a metrópole é lentamente engolida pelo pogréssio.. Baseado na obra musical de Adoniran Barbosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA CIVIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4fabfe7671f4f8d9ea7f9f078a309db0c8d79c2$nome=GUERRA CIVIL DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB5EBBCF69C4925ADD80A607A3DB14D50041AA33$nome=GUERRA CIVIL LEG. FIXA</link>
