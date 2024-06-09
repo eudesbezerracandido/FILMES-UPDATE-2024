@@ -47,7 +47,7 @@
 
 <item>
 <title>[COLOR silver][B] BAD BOYS - ATÉ O FIM ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E86C3DF9790FEF80548E1EADC4B6745A4830FA5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81B75A4460D7953BC595DF828B477283439DF945</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info> Os Bad Boys preferidos do mundo todo estão de volta com a mistura icônica de ação eletrizante e comédia escrachada mas, dessa vez, com uma virada: os melhores de Miami são agora os mais procurados.</info>
