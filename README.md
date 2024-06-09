@@ -281,7 +281,11 @@
 
 <item>
 <title>[COLOR silver][B] ROMÁRIO - O CARA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TGOWFCRC7AAEEGIL35CF5RAPKZT6S4PI</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TGOWFCRC7AAEEGIL35CF5RAPKZT6S4PI$nome=EP.1/2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWS3PTXDEMKWTUX6LIPT2LPSPGOHBEED$nome=EP.3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWS3PTXDEMKWTUX6LIPT2LPSPGOHBEED$nome=EP.4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26D6ECQRSFEL3IVKUTIV6C6P4UXT26KC$nome=EP.5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26D6ECQRSFEL3IVKUTIV6C6P4UXT26KC$nome=EP.6</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/5FcI5WoL1GgRj6op7sa811kOIla.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Romário, O Cara, é uma série documental sobre um dos maiores jogadores de futebol do Brasil e da história do futebol mundial. Dividida em seis episódios, a produção foca na trajetória do astro a partir de 1992, quando entrou em conflito com a seleção brasileira por não aceitar ficar no banco de reservas. Desse ponto, são revelados diversos segredos de bastidores e questões sobre a vida de Romário que nunca foram debatidas, como por exemplo o sequestro do pai nas vésperas da Copa do Mundo. Polêmico, o artilheiro que chegou a marca de 1000 gols, retornaria de maneira épica para a seleção em 1994, durante a fase de eliminatórias, e seria considerado o melhor jogador do mundo após conquistar o troféu mundial com outros craques do Brasil. Além disso, o programa mostra o trabalho de Romário também em times no exterior, como o holandês PSV e o espanhol Barcelona.</info>
