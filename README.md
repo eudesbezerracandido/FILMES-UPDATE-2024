@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BASMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIBIO7256CIUNCXJ3GRU553PC5ND22OT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/yZy37KupRzXv04sAo4xemr8ogUU.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Morando no exterior para estudar, uma jovem saudita volta a sua cidade e descobre que a família estava escondendo verdades difíceis dela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA VIDA DE ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKA3LGFX3NNUTA54D2MUPFQ5WHNFGZIY</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cjodugwpEy2CRf7xUp1YxIy0MbF.jpg</thumbnail>
