@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SABOR DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66X3UTNUQCEV6BF3MCJAB3Y55RMWX37R</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/4dIqcgC4jkJkM4jAZnurKUf1xRV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Eugenie, uma estimada cozinheira, trabalha há 20 anos para Dodin, um excelente gourmet. Cada vez mais apaixonados um pelo outro, seu vínculo se transforma em um romance e dá origem a pratos deliciosos que impressionam até os chefs mais ilustres do mundo. Quando Dodin se depara com a relutância de Eugenie em se comprometer com ele, ele decide começar a cozinhar para ela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TERRA DE SANTOS E PECADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e46d5d5f862f7c5a88ef24b15b2460eef4216a9</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/phZWaMnHK1YfWY7WyUAsU61Fj8s.jpg</thumbnail>
