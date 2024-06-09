@@ -22,6 +22,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CORRA O ULTIMO SUSPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104e4637f7e5422d8fc5c764ea9d10856d215185</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/odyyYypYCrNjO7z57oSemdFbgaE.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Depois que uma névoa mortal destrói a maior parte da humanidade, uma organização misteriosa tenta salvar o que resta da civilização.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA VIDA DE ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKA3LGFX3NNUTA54D2MUPFQ5WHNFGZIY</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cjodugwpEy2CRf7xUp1YxIy0MbF.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Baseado em uma impressionante história real, Uma Vida de Esperança acompanha Sharon Steves (Hilary Swank), uma esforçada e determinada cabeleireira que precisa diariamente lidar com seu vício em álcool. Para isso, ela encontra um novo senso de propósito quando se depara com a história de Ed Schmitt (Alan Ritchson), um viúvo que trabalha duro para cuidar de suas duas filhas, sendo que a mais nova enfrenta uma grave doença. Determinada a ajudar a família Schmitt, Sharon move montanhas e também toda a comunidade da pequena cidade de Kentucky para conseguir um tratamento adequado para a criança, revelando uma inspiradora história de fé, milagres cotidianos e anjos comuns.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BAD BOYS - ATÉ O FIM ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E86C3DF9790FEF80548E1EADC4B6745A4830FA5</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ak6VZDHms5T4p0eFISk336kqjR6.jpg</thumbnail>
