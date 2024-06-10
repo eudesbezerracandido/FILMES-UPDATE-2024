@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A SOCIEDADE NORTE-AMERICANA DOS NEGROS MÁGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EBN74UKANGP53WM46LDU37BVK4T7BS7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/kGc9SKYuRg63H4IJw0HDUor0SU8.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A Sociedade Norte-Americana dos Negros Mágicos é uma comédia satírica renovadora sobre um jovem, Aren, que é recrutado por uma sociedade secreta de negros mágicos que dedicam suas vidas a uma causa da maior importância: facilitar a vida dos brancos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SABOR DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66X3UTNUQCEV6BF3MCJAB3Y55RMWX37R</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/4dIqcgC4jkJkM4jAZnurKUf1xRV.jpg</thumbnail>
