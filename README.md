@@ -30,6 +30,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLECTION - OS FAROFEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SAWY63DLAIJEMDFUZ53J7DPOBTUXQTMQ$nome=OS FAROFEIROS 2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Na trama, Alexandre (Antônio Fragoso) é reconhecido pela empresa onde trabalha como melhor gerente de vendas. O prêmio é uma viagem para a Bahia com toda a família. No entanto, ciente de que os amigos Lima (Maurício Manfrini), Rocha (Charles Paraventi) e Diguinho (Nilton Bicudo) não estão satisfeitos com sua gestão e que isso pode atrapalhar sua promoção, ele convida toda a turma para embarcar rumo ao Nordeste.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A SOCIEDADE NORTE-AMERICANA DOS NEGROS MÁGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EBN74UKANGP53WM46LDU37BVK4T7BS7</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/kGc9SKYuRg63H4IJw0HDUor0SU8.jpg</thumbnail>
@@ -998,15 +1007,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/jUurIBIrzirFZErIp1XWgIxWZ9f.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>A Grande Entrevista  – Inspirado em uma história real, “A Grande Entrevista” remonta os bastidores da infame participação do príncipe Andrew no jornal Newsnight da BBC e da entrevista que chocou o mundo. Das tensas negociações da produtora Sam McAlister com o Palácio de Buckingham às perguntas cirúrgicas feitas pela jornalista Emily Maitlis, o filme retrata o trabalho de mulheres obstinadas. Para conseguir uma entrevista dessas, é preciso ter muita ousadia.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] COLECTION - OS FAROFEIROS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
-<link>https://archive.org/download/os-farofeiros-2/Os%20Farofeiros%202.mp4$nome=OS FAROFEIROS 2</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/io2pxaMQNyBJ7QQSGWXjFVqLDCP.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Na trama, Alexandre (Antônio Fragoso) é reconhecido pela empresa onde trabalha como melhor gerente de vendas. O prêmio é uma viagem para a Bahia com toda a família. No entanto, ciente de que os amigos Lima (Maurício Manfrini), Rocha (Charles Paraventi) e Diguinho (Nilton Bicudo) não estão satisfeitos com sua gestão e que isso pode atrapalhar sua promoção, ele convida toda a turma para embarcar rumo ao Nordeste.</info>
 </item>
 
 <item>
