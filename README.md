@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - RAFA MÁRQUES - O CAPITÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6576d7e69b2dc478efefaa71eb8f71858c2b85a</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/A1BNL3BLzrUkm7MN9VlkTyR2DCa.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> O zagueiro mexicano conta sobre suas vitórias e derrotas dentro e fora do campo, revelando um olhar intimista sobre seus sonhos, suas jornadas e sua determinação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COLECTION - OS FAROFEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C6B35054B0B262D54C035BA2F17658B2A69E9CEA$nome=OS FAROFEIROS</link>
 <link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SAWY63DLAIJEMDFUZ53J7DPOBTUXQTMQ$nome=OS FAROFEIROS 2</link>
