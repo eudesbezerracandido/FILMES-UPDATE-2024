@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RELACIONAMENTO ABERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JTIZHBZR7DX26LCNWEMZP3U4PJ3PXVLA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/t65peFW0W66f36g7oiPK9O9a04o.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Julia tinha uma promissora carreira na política e um casamento perfeito com Matias, até o dia em que ela descobre que o seu marido possui uma amante. Para salvar o casamento, Julia e Matias decidem abrir a relação e se aventurar no mundo da poligamia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORRA O ULTIMO SUSPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:104e4637f7e5422d8fc5c764ea9d10856d215185</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/odyyYypYCrNjO7z57oSemdFbgaE.jpg</thumbnail>
