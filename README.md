@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS OBSERVADORES ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F2B422D205B5C1FDBA6F9D46E2F61819A44478E1</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/jFpsKOCppRvwP0Igwp0F0Xu1RBJ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma jovem artista se perde em uma floresta extensa no oeste da Irlanda. Quando encontra abrigo, ela inconscientemente fica presa ao lado de três estranhos, enquanto criaturas misteriosas emergem todas as noites para observá-los.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - OS MISTÉRIOS DOS GUERREIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEEBGPQDDW2THQPCY3S2IMUZM5FDMJAT</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/izD8QoAoyGD8y0tQGt4ksMX00GK.jpg</thumbnail>
