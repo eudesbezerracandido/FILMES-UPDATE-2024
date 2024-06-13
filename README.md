@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - OS MISTÉRIOS DOS GUERREIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEEBGPQDDW2THQPCY3S2IMUZM5FDMJAT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/izD8QoAoyGD8y0tQGt4ksMX00GK.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Milhares de guerreiros de terracota guardam o túmulo do primeiro imperador chinês. Esta é a história deles, contada com evidências arqueológicas e encenações brilhantes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - RAFA MÁRQUES - O CAPITÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6576d7e69b2dc478efefaa71eb8f71858c2b85a</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/A1BNL3BLzrUkm7MN9VlkTyR2DCa.jpg</thumbnail>
