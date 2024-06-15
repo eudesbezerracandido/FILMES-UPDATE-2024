@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ULTRAMEN - A ASCENSÃO ( DESENHO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:O5BNOYRCOKEMJKQJ4NRT26LHZZXLCPID</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/rvRqCFjREq3u6C8LNAyMEp1WQCO.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>A trama continuará os acontecimentos da série dos anos 1960, mas com um novo enredo e um novo herói. O filme conta a história de Ken Sato, uma estrela do baseball que retorna ao Japão para assumir as responsabilidades do Ultraman.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VAMPIRAS - AS NOIVAS DE DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HIWPUSXWDEARV2RJBXFNQ5SEBH3TRTB5</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/u3BGvGzAzWbfUa0P3CvdEPzzzN9.jpg</thumbnail>
