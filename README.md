@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A TEIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d5fa21e2874dbb292047c14eb7a194de160761</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Depois de passar por um protocolo de tratamento de Alzheimer de última geração, um ex-detetive de homicídios reexamina um caso de uma década envolvendo o assassinato brutal de um professor universitário e é como se estivesse investigando o caso pela primeira vez.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RELACIONAMENTO ABERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JTIZHBZR7DX26LCNWEMZP3U4PJ3PXVLA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/t65peFW0W66f36g7oiPK9O9a04o.jpg</thumbnail>
@@ -928,14 +936,6 @@
 <thumbnail>https://media.themoviedb.org/t/p/original/1lQftpEARVVB9op4TaYiIbactzG.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>O jamaicano Bob Marley supera as adversidades para se tornar um dos o músicos mais famosos do mundo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] A TEIA ( HDCAM LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FDC82078570786194625667761A13D80B92E9057</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info> Depois de passar por um protocolo de tratamento de Alzheimer de última geração, um ex-detetive de homicídios reexamina um caso de uma década envolvendo o assassinato brutal de um professor universitário e é como se estivesse investigando o caso pela primeira vez.</info>
 </item>
 
 <item>
