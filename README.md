@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRESCENDO JUNTOS - A HISTÓRIA DE ERIK & MALIK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KQHQ6BUP6GUVK3NR53YK6GJIX2KMDHTW</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cuZlmYHa3FL7BvsFM9iJoqaapia.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Chicago, 1992. Os melhores amigos Malik e Eric enfrentam as alegrias e os perrengues de crescer no imenso conjunto habitacional Cabrini-Green, prestes a ser demolido. Crescendo Juntos A História de Erik e Malik conta uma história de vitórias e derrotas lindas e agridoces, inscritas para sempre nas memórias de uma amizade de infância.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RELACIONAMENTO ABERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JTIZHBZR7DX26LCNWEMZP3U4PJ3PXVLA</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/t65peFW0W66f36g7oiPK9O9a04o.jpg</thumbnail>
