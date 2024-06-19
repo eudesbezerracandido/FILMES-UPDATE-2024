@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  A CASA DO DRAGÃO SÉRIE 2º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QWLX3NXVNJHWU66YF7B6WRGZPTNL6WJ7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/26v2fLgnXk4AUR2U7GKCkemaTn5.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Por volta de 200 anos antes dos eventos de Game of Thrones, a dinastia Targaryen encontra-se no ápice absoluto de seu poder, com mais de 15 dragões. A maioria dos impérios reais e imaginários desmorona de tais alturas. O rei Viserys Targaryen rompe com um século de tradição ao nomear sua filha Rhaenyra como herdeira do Trono de Ferro. Mas quando Viserys acaba tendo um filho, os nobres e plebeus de Westeros ficam chocados quando Rhaenyra mantém seu status de herdeira, e sementes de divisão semeiam atrito em todo o reino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A TEIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d5fa21e2874dbb292047c14eb7a194de160761</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
