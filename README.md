@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS INFALIVÉIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d9fb57de0929f1b642156f99409cc6de83b3d25</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mmaz2IESTJkKf77tSOKZ3PxV7NN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Quando uma gangue de ladrões provoca o caos em Paris e humilha a polícia, o Ministro do Interior quer sangue novo no comando da investigação: Alia é de Marselha, tem um temperamento agressivo e rebelde, Hugo é de Paris, formou-se com honras e é meticuloso. Em resumo, eles têm todos os motivos para se odiarem. Uma aliança forçada, para o bem ou para o mal, ou talvez algo mais esteja desabrochando?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AÚLTIMA SESSÃO DE FREUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0098607c593b166600b702b80a0c175865372e83</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/13ZlDok5Qn0Sx3WX961kM8ww39B.jpg</thumbnail>
