@@ -30,6 +30,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ACADEMIA DO Sr. KLEK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:230c1167ce2ce03b1f336499a715d6900337910a</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Em A Academia do Sr. Kleks, a adolescente Ada (Antonina Litwiniak) vai parar na misteriosa Kleks Academy, comandada por um professor muito excêntrico, onde é possível entrar no mundo dos contos de fadas e alcançar os limites da imaginação. Ela também enxerga uma maneira de desvendar o segredo mais oculto de sua família: encontrar seu pai desaparecido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AÚLTIMA SESSÃO DE FREUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0098607c593b166600b702b80a0c175865372e83</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/13ZlDok5Qn0Sx3WX961kM8ww39B.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Adaptação cinematográfica da peça de Mark St. Germain, A última sessão de Freud, situado na véspera da Segunda Guerra Mundial, os dois homens se chocam verbalmente sobre vários tópicos profundos como amor, sexualidade e a existência de Deus. Além disso, também explora o relacionamento único do Dr. Freud com sua filha homossexual Anna Freud, que também seguiria seus passos e se tornaria psicanalista, e o romance pouco ortodoxo de Lewis com a mãe de seu melhor amigo. O filme, como a peça, vai mesclar o passado, o presente e a fantasia, tudo de dentro das paredes do estúdio de Freud.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A TEIA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60d5fa21e2874dbb292047c14eb7a194de160761</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ZmKvpPlJTh0ItvyP0ADvPiTdnz.jpg</thumbnail>
