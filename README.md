@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A FAMÍLIA DE SIMON [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327cde71ddc3174ac9bfd703b53fc15159e19a05</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/3cCQdwsXq0shhpL35GRqMoVmucW.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Simon é um garoto que leva uma vida feliz junto de seus pais adotivos e de seus dois irmãos. Mas a vida desta família irá virar de cabeça para baixo quando o pai biológico de Simon aparece querendo recuperar a sua guarda.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA HERANÇA INUSITADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4617d2b85b19bd9a8efa5ad608bc2eda6bbcd747</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/mUMa6pFxoJ8wRgMp0omxu0zYyyl.jpg</thumbnail>
