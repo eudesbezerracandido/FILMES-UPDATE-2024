@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA HERANÇA INUSITADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4617d2b85b19bd9a8efa5ad608bc2eda6bbcd747</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/mUMa6pFxoJ8wRgMp0omxu0zYyyl.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em Uma Herança Inusitada, depois que um excêntrico inventor e apresentador de game show (Jan Peszek) morre de repente, os integrantes da família (Maciej Stuhr, Joanna Trzepiecińska e Mateusz Król, entre outros) se reúnem para tentar garantir a grande herança. Mas, para a surpresa de todos, o finado preparou um último jogo cheio de tarefas e enigmas para definir quem ficará com a fortuna, forçando-os a deixar as diferenças de lado e se reconciliar para trabalhar em equipe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ACADEMIA DO Sr. KLEK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:230c1167ce2ce03b1f336499a715d6900337910a</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg</thumbnail>
