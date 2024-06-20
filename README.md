@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  A PRIMEIRA BARBIE NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e96648816ff1317985b453a26f44c19642120e2c</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/A0gwTrSVWC92e0ujSJVn3FFQRXf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> A Primeira Barbie Negra é um longa dirigido por Lagueria Davis. Neste filme, você vai descobrir a história não contada da primeira Barbie Negra e o papel fundamental que três mulheres pioneiras da Mattel tiveram na criação de uma boneca parecida com elas. Tudo começou com a tia do cineasta, Beulah Mae Mitchell, de 83 anos, e uma pergunta aparentemente simples: “Por que não fazer uma Barbie que se pareça comigo?”. Ame-a ou odeie-a, quase todo mundo tem uma história da Barbie. Mesmo que eles não tenham uma história, há uma história que explica por que eles não têm uma história. Através das histórias carismáticas dessas insiders, o documentário conta como a primeira Barbie Negra surgiu em 1980, examinando a importância da representatividade e como bonecas podem ser cruciais para a formação da identidade e imaginação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ACADEMIA DO Sr. KLEK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:230c1167ce2ce03b1f336499a715d6900337910a</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ykZvwO1YvWCTV4XajuYBUXeubHA.jpg</thumbnail>
