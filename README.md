@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ALERTA DE RISCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55URZCZKCQKWIPGSJAFPMUQTP4J5ETL2</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cQLJT6hTXio0md94oBsSWADOECf.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma veterana de guerra traumatizada herda o bar de seu avô e enfrenta um dilema moral depois de descobrir a verdade por trás de sua morte prematura.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ARMADILHAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:351769edd2c0455046091d6462f0b4f9f7453bfa</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7JBLxEMjzbfT9xj3A9OjychKRqP.jpg</thumbnail>
