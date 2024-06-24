@@ -46,6 +46,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ALIENOID - THE RETURN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ACF8D9F106762F3D259356376AC83169CF04602$nome=ALIENOID DUBLADO NÃO OFICIAL</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6368E7F7AB6EA59354EFE8711ED6C97A3174CA39$nome=ALIENOID LEG. FIXA</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/gdtEtIvZvSAAyOKc1WX0DCHcl3G.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Ian está preso no passado enquanto tenta impedir um prisioneiro alienígena de escapar de um corpo humano. Depois de muitos obstáculos, ela encontra uma nova arma que pode abrir uma porta do tempo e salvar Thunder. Enquanto isso, Mu Reuk fica confuso com uma estranha presença dentro dele. Outros personagens, como Heuk Seol, Cheong Woon e Neung Pa, também estão envolvidos na busca por uma espada divina. Ja Jang começa a perseguir Ian e Mu Reuk. Muitas pessoas estão morrendo por causa de uma substância alienígena chamada Hava, e Min Gae In percebe que isso é apenas o começo. Com tempo limitado restante, Ian abre o portão do tempo e retorna ao presente com Mu Reuk, Thunder e dois imortais. Eles devem lutar contra os alienígenas, impedir a explosão de Hava e salvar as pessoas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ARMADILHAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:351769edd2c0455046091d6462f0b4f9f7453bfa</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7JBLxEMjzbfT9xj3A9OjychKRqP.jpg</thumbnail>
