@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CLUB DOS VANDALOS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSLMHWBTMYEY3BXIAYMMD4IBUYU33CET</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Inspirado pelo livro de fotografias de Danny Lyon, de 1967, The Bikeriders é uma história original que se passa nos anos 60 e segue a ascensão de um clube de motoqueiros fictício do meio-oeste. Visto através da vida de seus membros, o clube evolui ao longo de uma década de um local de encontro para forasteiros locais para uma gangue mais sinistra, ameaçando o modo de vida único do grupo original.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LOUD HOUSE - SEM TEMPO PARA ESPIONAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TEJTA2H4LGVNDCI2ZC5WHRHWUJCXJ55D</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/ne4Csgm0KznasqqMNZtC1S6YSWN.jpg</thumbnail>
