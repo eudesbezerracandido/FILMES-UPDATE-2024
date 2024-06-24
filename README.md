@@ -30,6 +30,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DIVERTIDA MENTE 2 ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e641bd9529594aa4a809165cd2de067b2752472$nome=DIVERTIDA MENTE 2 LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125FDDF621F008505BD4EC069A3D30398FEAC2E$nome=DIVERTIDA MENTE 1 DUBLADO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Divertida Mente 2, da Disney e Pixar, volta a entrar na mente da agora adolescente Riley, no momento em que a Sala de Comando passa por uma repentina demolição para dar lugar a algo totalmente inesperado: novas Emoções. Alegria, Tristeza, Raiva, Medo e Nojinho, que há muito tempo comandam uma operação de sucesso, não sabem ao certo como se sentem quando a Ansiedade, a Inveja, o Tédio e a Vergonha chegam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CLUB DOS VANDALOS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSLMHWBTMYEY3BXIAYMMD4IBUYU33CET</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/6zWYq8gYzyUMN6pWNWmV0f6cR8M.jpg</thumbnail>
