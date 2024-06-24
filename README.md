@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LOUD HOUSE - SEM TEMPO PARA ESPIONAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TEJTA2H4LGVNDCI2ZC5WHRHWUJCXJ55D</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ne4Csgm0KznasqqMNZtC1S6YSWN.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Prepare-se para um novo filme Loud House , onde Pop-Pop e Myrtle se casam! Mas para Lincoln, a verdadeira emoção é o passado de Myrtle como superespião, que ele vê como sua chance de finalmente viver seus sonhos de ser um agente secreto. Mas será que os sonhos de Lincoln colocarão o casamento em perigo?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASSINA AQUI  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BQPCUKJHFLHAOB4CWXNGI2S4ARFTLQ5R</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/1joXhDL9C4GU0yQP0hltyVHp2Ez.jpg</thumbnail>
