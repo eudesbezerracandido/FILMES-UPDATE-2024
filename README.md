@@ -30,6 +30,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASSINA AQUI  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BQPCUKJHFLHAOB4CWXNGI2S4ARFTLQ5R</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/1joXhDL9C4GU0yQP0hltyVHp2Ez.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O amor eterno é impossível. Por isso existe um algoritmo que designa um parceiro a alguém a cada quatro anos. Fran conhece Roque, com quem vivencia algo inimaginável. Seria trágico se eles ousassem ficar juntos por mais de quatro anos?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARMADILHAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:351769edd2c0455046091d6462f0b4f9f7453bfa</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7JBLxEMjzbfT9xj3A9OjychKRqP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um jovem ex-presidiário arrisca sua recém-adquirida liberdade para encontrar a filha distante de um colega de prisão e, sem saber, leva um demônio do passado dela diretamente para sua porta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ACIMA DE QUALQUER SUSPEITA 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6PU6SHVQP6624GSLKSV4YPE7I2KGKTEJ$nome=ACIMA DE QUALQUER SUSPEITA EP.1/2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WTQ3FBJEESBEHPVYK76Z23L4MQWLJCOX$nome=ACIMA DE QUALQUER SUSPEITA EP.3</link>
