@@ -30,8 +30,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DIVERTIDA MENTE 2 ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e641bd9529594aa4a809165cd2de067b2752472$nome=DIVERTIDA MENTE 2 LEGENDADO</link>
+<title>[COLOR silver][B] DUOLOGIA - DIVERTIDA MENTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A$nome=DIVERTIDA MENTE 2 HDCAM DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125FDDF621F008505BD4EC069A3D30398FEAC2E$nome=DIVERTIDA MENTE 1 DUBLADO</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/9h2KgGXSmWigNTn3kQdEFFngj9i.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
