@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - EU SOU CÉLINE DION ( LEG. FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:REJWNY2AO2JOUUF6ZYJXUOK3TAMKVXIO</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/xHiPbxEJBCyKoSGmeAyH0QXXIST.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Com uma abordagem íntima, o filme leva os espectadores a uma jornada pelo passado e pelo presente de Celine, que expõe sua batalha contra a Síndrome da Pessoa Rígida (SPR) e os esforços que a artista fez para continuar se apresentando para seus fãs. Uma visita ao seu figurino de alta costura para turnês, seus pertences pessoais e até uma passagem pelo estúdio de gravação, o documentário captura a vida privada de uma mega estrela global como nunca antes vista. Uma carta de amor emocionante, Eu Sou: Celine Dion envolve mais de um ano de filmagens enquanto a lendária cantora percorre sua jornada para ter uma vida aberta e autêntica convivendo com a doença.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUAOLOGIA - NOSSO LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed52958b5925bfe1faf46173e847da6ac764240c$nome=NOSSO LAR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd01299bcdae3a402334d59517f68b1917675fa0$nome=NOSSO LAR 2</link>
