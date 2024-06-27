@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TIPOS DE GENTILEZA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:279D018FF38651B549030F66CA96F12C23D8D958</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8mmpltkcG9areafsQHXaURedno3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Uma fábula tríptica que segue um homem sem escolha que tenta assumir o controle de sua própria vida; um policial que está alarmado porque sua esposa desaparecida no mar voltou e parece uma pessoa diferente; e uma mulher determinada a encontrar alguém específico com uma habilidade especial, que esteja destinado a se tornar um prodigioso líder espiritual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUOLOGIA - DIVERTIDA MENTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E4BD7056F5E32FC76C77B18EFBE332CDED1E562A$nome=DIVERTIDA MENTE 2 HDCAM DUBLADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1125FDDF621F008505BD4EC069A3D30398FEAC2E$nome=DIVERTIDA MENTE 1 DUBLADO</link>
