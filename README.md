@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TUDO EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2247176fadf4707a4bf107b8b5da36808af2be</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Um romance inesperado desencadeia uma série de consequências cômicas para uma jovem, sua mãe e seu chefe, fazendo com que ela tenha que lutar com as complicações do amor, sexo e identidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O RITMO DA DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f8572bbfbf2ec4ca58162e04a8d79ae631bb35</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7eHNXXFqnkVSdktjB2xfIuivYwx.jpg</thumbnail>
