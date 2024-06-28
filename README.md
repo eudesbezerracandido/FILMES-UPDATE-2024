@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O REI DO POVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4af7a3c45e417f4c0d1e512619d803c5c459c4c7</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/c2BYYGAslVxE7AukTLJKUhmh5pc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Um jornalista corajoso questiona o controle que um poderoso líder religioso exerce sobre seus seguidores. Baseado em um processo judicial real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O RITMO DA DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f8572bbfbf2ec4ca58162e04a8d79ae631bb35</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/7eHNXXFqnkVSdktjB2xfIuivYwx.jpg</thumbnail>
