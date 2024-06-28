@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM GATO DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5GEH4MIXPRTFG6F5W5NAAA5AWXZGPUW5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/nn7raMhfVvhyvLIUdYg2ObQgowX.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Um gato mimado e egoísta dá como certa a sorte que recebeu. Tudo isso está prestes a mudar quando ele perde descuidadamente sua última vida. Sem saída e diante do inevitável, Beckett implora para que as coisas voltem a ser como eram. A princípio, seu pedido é recusado, mas, em um momento de empatia, o ‘Gatekeeper’ muda de ideia e permite que ele retorne à Terra com novas vidas, mas com condições peculiares. Ele, então, entra em uma jornada para encontrar a melhor versão de si mesmo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TUDO EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2247176fadf4707a4bf107b8b5da36808af2be</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg</thumbnail>
