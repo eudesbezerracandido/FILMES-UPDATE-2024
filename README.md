@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O RITMO DA DANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f8572bbfbf2ec4ca58162e04a8d79ae631bb35</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/7eHNXXFqnkVSdktjB2xfIuivYwx.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Desde o desaparecimento da irmã, Jax (Lily Gladstone) cuida de sua sobrinha Roki (Isabel Deroy-Olson) enquanto ela tenta ganhar a vida na reserva Seneca-Cayuga, em Oklahoma. Ela dedica todo o seu tempo procurando pela irmã perdida, mas também ajudando Roki a se preparar para sua próxima cerimônia de powwow. Quando o avô de Roki, Frank (Shea Whigham), ameaça tirar de Jax a custódia de sua sobrinha, as duas pegam a estrada e exploram o estado em busca da mãe de Roki para tentar encontrá-la antes do powwow. O que começa como uma pesquisa transforma-se lentamente numa investigação mais profunda das complexidades e contradições que as mulheres indígenas enfrentam em um mundo colonizado à mercê de um sistema judicial falido. Gladstone estrela este filme ao lado de Deroy-Olson, Ryan Begay, Crystle Lightning, bem como Audrey Wasilewski e Shea Whigham.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUAOLOGIA - NOSSO LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed52958b5925bfe1faf46173e847da6ac764240c$nome=NOSSO LAR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd01299bcdae3a402334d59517f68b1917675fa0$nome=NOSSO LAR 2</link>
