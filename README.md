@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATÉ QUE AS CORES ACABEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cd7a06db031776e623913efc644fcdaaa2b2afe</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/sd6RRPaGkNYpfRlYiWLCjoXahko.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Hayasaka Akito é um artista talentoso. Ele está trabalhando duro para ser aceito na Exposição Nika, mas um tumor é descoberto em seu coração e ele é informado de que lhe resta mais um ano de vida. Hayasaka Akito não expressa suas emoções ao saber do diagnóstico. Um dia, na cobertura do hospital, Hayasaka Akito conhece Sakurai Haruna, que está pintando. Sakurai Haruna diz a ele que ela tem apenas meio ano de vida. Hayasaka Akito fica cada vez mais atraído por ela, mas não conta a ela sobre sua condição. Baseado no romance Yomei Ichinen to Senkoku Sareta Boku ga, Yomei Hantoshi no Kimi to Deatta Hanashi de Morita Ao.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TUDO EM FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f2247176fadf4707a4bf107b8b5da36808af2be</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/fU7caVYjSHYEgZQrrFDr3rAJx8o.jpg</thumbnail>
