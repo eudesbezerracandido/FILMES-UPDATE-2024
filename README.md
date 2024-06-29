@@ -34,7 +34,7 @@
 <link>https://s-delivery41.mxcontent.net/v/991dfdacf0dcdc5787409db505a1aced.mp4?s=8Hu5ITSHGoY1a56OEaCAcA&e=1719724817&_t=1719712649$nome=SUPACELL EP.4</link>
 <link>https://s-delivery31.mxcontent.net/v/c869a71b812abcdcdf9beeeefc4eb516.mp4?s=L20qcxeuZ5sNs9cVizmq1g&e=1719724959&_t=1719706860$nome=SUPACELL EP.5</link>
 <link>https://s-delivery32.mxcontent.net/v/ac734843664740495bfbe65984626b6f.mp4?s=jfu7FMOokbZ60cevTYRxZg&e=1719725024&_t=1719704934$nome=SUPACELL EP.6</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail>
+<thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail> 
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
 </item>
