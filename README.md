@@ -9,8 +9,8 @@
 
 
 <item>
-<title>[COLOR silver][B] TRILOGIA -  UM LUGAR SILÊNCIOSO - DIA UM ( LEGENDADO/ DUBLADO BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB431E4CA3835F5CE3DA771560D28BE0B499C912$nome=UM LUGAR SILÊNCIOS DIA UM</link>
+<title>[COLOR silver][B] TRILOGIA-UM LUGAR SILÊNCIOSO-DIA UM ( LEGENDADO/ DUBLADO BREVE ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB431E4CA3835F5CE3DA771560D28BE0B499C912$nome=UM LUGAR SILÊNCIOSO DIA UM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E$nome=UM LUGAR SILÊNCIOS 2018</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=UM LUGAR SILÊNCIOS 2021</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gyEnhITeHLky85XJxuTPqniPrzE.jpg</thumbnail>
