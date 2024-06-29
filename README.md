@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SUPACELL 1º TEMPORADA ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://s-delivery29.mxcontent.net/v/6a2436b9e98d564dfd21e5c0bb0e19b1.mp4?s=A2FRIAaa1Hu708Tt1HYNCQ&e=1719723875&_t=1719709862</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAR WARS - THE ACOLYTE 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DFMA2JFAF6TAV62TUYIQ2COEK57A2JF$nome=THE ACOLYTE EP.1/2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf067154751ac0b9bdcca0295bec95f4b5ae0659$nome=THE ACOLYTE EP.3</link>
