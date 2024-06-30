@@ -21,10 +21,9 @@
 
 <item>
 <title>[COLOR silver][B] UM LUGAR SILÊNCIOSO-DIA UM ( HDCAM DUBLADO LINK DIRETO  ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=88LNdhZRSTaI-N7zM8TtLg&e=1719781129&_t=1719769514$nome=SERVIDOR 1</link>
-<link>https://908357485.tapecontent.net/radosgw/JkLwWd2g2AhjX7q/Cnua4O8TUtdOBmKgcAtZ78syCnQ8Q5-E0RxMg4e1tLdtmJl1Pzo-XHmA6_1Odhf4x5xqhr7xlQQNSeWo-26nEF5GFkArbYOrePwi4wcOVJhkVfMgdj-vhtD3oHoFcFbxiMydZcqcgi0d5ThoRzxk4jcMc2zal36SumNX-I-i8i7EgUpp3vUXsz4lZqj2LQ5Y7WBEvvG58krn_0VcWl3_VnO2l56aKFzCjHQFqiaDDnCCSGkrCh1ma6SPzKDCViZbbfrTAt757ow95ytSsynbCUugoXF1XAX8BW0Who_ETDWbDBUl9zbyizobpW4/A.Quiet.placeDay.One.hdcam.mp4?stream=1$nome=SERVIDOR 2</link>
-<link>https://be7713.rcr82.waw05.cdn112.com/hls2/01/06416/8qy0d3y4azxd_h/index-v1-a1.m3u8?t=ZRV2L1orYFKw7Lk-3TrX_EBNyunsvZ0U5-EbsZlY_Y0&s=1719759799&e=43200&f=32080124&srv=03&asn=263073&sp=4000$nome=SERVIDOR 3</link>
-<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=88LNdhZRSTaI-N7zM8TtLg&e=1719781129$nome=SERVIDOR 4</link>
+<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=Vi5c5hCFP1OAlNlBW2dk8g&e=1719808051&_t=1719788671$nome=SERVIDOR 1</link>
+<link>https://be7713.rcr82.waw05.cdn112.com/hls2/01/06416/8qy0d3y4azxd_h/index-v1-a1.m3u8?t=eG7uHjfUjbuU4BS1FFnO_p84mFJlbKBcR5oxSa0Yp28&s=1719786565&e=43200&f=32080124&srv=03&asn=263073&sp=4000$nome=SERVIDOR 2</link>
+<link>https://908357485.tapecontent.net/radosgw/JkLwWd2g2AhjX7q/laX5lGxZkmGfc_BQ6CBr01gYCpNlcLH69ZA66H-7Q3pT2t_IsepM5qhMAj_VEuHQsbqWCK8OQpX17F6YXhRoW5CBGE9bLntC_TeDqw9M-KaQf6TFK95Jq5YPdGXt-6oAEJzdDGLnG0cI0gxaFKUxPMKag3Kjh_CVeHW1iGoNF86SBYJy6a24HgPrJc7AxA7mm4-laRhAgrB_rKse64Fg2790erdbc2JVwLpRFWLI6dCzdIs_vh_M43iturcvh-1p5DziP3nxxKHlgy8xvDfj2zd56ln1Sq29Okkey9zTBMp10kpt-N1iZljtdyQ/A.Quiet.placeDay.One.hdcam.mp4?stream=1$nome=SERVIDOR 3</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gyEnhITeHLky85XJxuTPqniPrzE.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>: Uma mulher chamada Sam deve sobreviver a uma invasão na cidade de Nova York por criaturas alienígenas sedentos de sangue com audição ultrassônica.</info>
