@@ -29,8 +29,9 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SUPACELL 1º TEMPORADA ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a96461f5c05e6d7c36638e989404901bd835c656</link>
+<title>[COLOR silver][B] SUPRACELL 1º TEMPORADA ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a96461f5c05e6d7c36638e989404901bd835c656$nome=SUPRACELL SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a63f15d26ccaf44c27abcf6f8da629c1ec7ba7d6$nome=SUPRACELL SERVIDOR 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
