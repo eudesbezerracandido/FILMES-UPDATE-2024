@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[COLOR silver][B] TRILOGIA-UM LUGAR SILÊNCIOSO-DIA UM (  DUBLADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] TRILOGIA-UM LUGAR SILÊNCIOSO-DIA UM ( HDCAM DUBLADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F95F68BF2E6B9C62354AA6DBEC3206EEBE8B5DCF$nome=UM LUGAR SILÊNCIOSO DIA UM</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2053D4FF3A21BD2721EFBB1DD2E06D6E80FB9D9E$nome=UM LUGAR SILÊNCIOS 2018</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KW7NGTGYJ2PWW2QUVU4WJ6QHITN7XN42$nome=UM LUGAR SILÊNCIOS 2021</link>
