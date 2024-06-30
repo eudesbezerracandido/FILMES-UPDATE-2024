@@ -39,12 +39,12 @@
 
 <item>
 <title>[COLOR silver][B] SUPACELL 1º TEMPORADA ( DUBLADO LINK DIRETO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery46.mxcontent.net/v/af030426905928ca5f2de251a47b8e31.mp4?s=mo80_b0tgZHfR-mAf5sWew&e=1719782753&_t=1719767833$nome=SUPACELL EP.1</link>
-<link>https://s-delivery37.mxcontent.net/v/a6b69c42b35303e34224a21c6d8ef040.mp4?s=82uZ35n1s0m16fK-7agtCQ&e=1719782831&_t=1719769420$nome=SUPACELL EP.2</link>
-<link>https://s-delivery29.mxcontent.net/v/6a2436b9e98d564dfd21e5c0bb0e19b1.mp4?s=Z28WXQ24bK2LFMw0RNDtIw&e=1719782913&_t=1719763779$nome=SUPACELL EP.3</link>
-<link>https://s-delivery41.mxcontent.net/v/991dfdacf0dcdc5787409db505a1aced.mp4?s=-OKq4ule2LggkNIehWnsIw&e=1719784064&_t=1719765367$nome=SUPACELL EP.4</link>
-<link>https://s-delivery31.mxcontent.net/v/c869a71b812abcdcdf9beeeefc4eb516.mp4?s=4E5DMxzB3WQ4M8MBQnpnYA&e=1719783380&_t=1719770837$nome=SUPACELL EP.5</link>
-<link>https://s-delivery32.mxcontent.net/v/ac734843664740495bfbe65984626b6f.mp4?s=XYS8KMUL7fNxieV56jCu-w&e=1719783458&_t=1719763594$nome=SUPACELL EP.6</link>
+<link>https://s-delivery46.mxcontent.net/v/af030426905928ca5f2de251a47b8e31.mp4?s=DaSfcNaLf2mcpUcBP3lAxA&e=1719808424&_t=1719793391$nome=SUPACELL EP.1</link>
+<link>https://s-delivery37.mxcontent.net/v/a6b69c42b35303e34224a21c6d8ef040.mp4?s=A94tr1f15bOAf5GwHprqOg&e=1719808570&_t=1719787303$nome=SUPACELL EP.2</link>
+<link>https://s-delivery29.mxcontent.net/v/6a2436b9e98d564dfd21e5c0bb0e19b1.mp4?s=KtHoteXWT-o-owyVyeqzxA&e=1719808648&_t=1719795000$nome=SUPACELL EP.3</link>
+<link>https://s-delivery41.mxcontent.net/v/991dfdacf0dcdc5787409db505a1aced.mp4?s=lihQuyL8suyzI2pBETpXuA&e=1719808719&_t=1719789504$nome=SUPACELL EP.4</link>
+<link>https://s-delivery31.mxcontent.net/v/c869a71b812abcdcdf9beeeefc4eb516.mp4?s=mm4DQVUqVTddKOrv-9P09A&e=1719808819&_t=1719788300$nome=SUPACELL EP.5</link>
+<link>https://s-delivery32.mxcontent.net/v/ac734843664740495bfbe65984626b6f.mp4?s=u7I5j-aMSRp1Hsz1YH1Zqw&e=1719808868&_t=1719797120$nome=SUPACELL EP.6</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail> 
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
