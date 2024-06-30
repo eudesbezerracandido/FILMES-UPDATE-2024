@@ -20,7 +20,7 @@
 
 <item>
 <title>[COLOR silver][B] UM LUGAR SILÊNCIOSO-DIA UM ( HDCAM DUBLADO LINK DIRETO  ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=ugiDL2j0ziuPyK65jsQOFw&e=1719726489&_t=1719709160</link>
+<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=inagjARqSFx2Kr15gpSQPg&e=1719750259&_t=1719735121</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/gyEnhITeHLky85XJxuTPqniPrzE.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>: Uma mulher chamada Sam deve sobreviver a uma invasão na cidade de Nova York por criaturas alienígenas sedentos de sangue com audição ultrassônica.</info>
