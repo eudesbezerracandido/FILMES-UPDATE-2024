@@ -49,7 +49,7 @@
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - EU SOU CÉLINE DION ( LEG. FIXA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:REJWNY2AO2JOUUF6ZYJXUOK3TAMKVXIO$nome=EU SOU CÉLINE DION 1</link>
-<link>https://orbjmdo5s6yerдй3zo8n54vcpxzowgi7n87xdtauvacfed983n3dbm.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/V/RCFServer3/ondemand/EUSOUCLNEDIONLEG.mp4?nu3zAQc9HC3GbwJq=1719875819-NvllemJJJDX8XVcN20706WHnYb1thymL%2BAFufef2Nys%3D$nome=EU SOU CÉLINE DION 2</link>
+<link>https://s-delivery41.mxcontent.net/v/11840a41f8d40e5395842e2673a2b0ce.mp4?s=ser_EFi2osFertsqGuHGvw&e=1719897938&_t=1719880963$nome=EU SOU CÉLINE DION 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/xHiPbxEJBCyKoSGmeAyH0QXXIST.jpg</thumbnail>
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Com uma abordagem íntima, o filme leva os espectadores a uma jornada pelo passado e pelo presente de Celine, que expõe sua batalha contra a Síndrome da Pessoa Rígida (SPR) e os esforços que a artista fez para continuar se apresentando para seus fãs. Uma visita ao seu figurino de alta costura para turnês, seus pertences pessoais e até uma passagem pelo estúdio de gravação, o documentário captura a vida privada de uma mega estrela global como nunca antes vista. Uma carta de amor emocionante, Eu Sou: Celine Dion envolve mais de um ano de filmagens enquanto a lendária cantora percorre sua jornada para ter uma vida aberta e autêntica convivendo com a doença.</info>
