@@ -19,33 +19,10 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] UM LUGAR SILÊNCIOSO-DIA UM ( HDCAM DUBLADO LINK DIRETO  ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery26.mxcontent.net/v/3a814a6853341e5aab2adcbb12308204.mp4?s=Vi5c5hCFP1OAlNlBW2dk8g&e=1719808051&_t=1719788671$nome=SERVIDOR 1</link>
-<link>https://be7713.rcr82.waw05.cdn112.com/hls2/01/06416/8qy0d3y4azxd_h/index-v1-a1.m3u8?t=eG7uHjfUjbuU4BS1FFnO_p84mFJlbKBcR5oxSa0Yp28&s=1719786565&e=43200&f=32080124&srv=03&asn=263073&sp=4000$nome=SERVIDOR 2</link>
-<link>https://908357485.tapecontent.net/radosgw/JkLwWd2g2AhjX7q/laX5lGxZkmGfc_BQ6CBr01gYCpNlcLH69ZA66H-7Q3pT2t_IsepM5qhMAj_VEuHQsbqWCK8OQpX17F6YXhRoW5CBGE9bLntC_TeDqw9M-KaQf6TFK95Jq5YPdGXt-6oAEJzdDGLnG0cI0gxaFKUxPMKag3Kjh_CVeHW1iGoNF86SBYJy6a24HgPrJc7AxA7mm4-laRhAgrB_rKse64Fg2790erdbc2JVwLpRFWLI6dCzdIs_vh_M43iturcvh-1p5DziP3nxxKHlgy8xvDfj2zd56ln1Sq29Okkey9zTBMp10kpt-N1iZljtdyQ/A.Quiet.placeDay.One.hdcam.mp4?stream=1$nome=SERVIDOR 3</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/gyEnhITeHLky85XJxuTPqniPrzE.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>: Uma mulher chamada Sam deve sobreviver a uma invasão na cidade de Nova York por criaturas alienígenas sedentos de sangue com audição ultrassônica.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] SUPACELL 1º TEMPORADA ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a96461f5c05e6d7c36638e989404901bd835c656$nome=SUPACELL SERVIDOR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a63f15d26ccaf44c27abcf6f8da629c1ec7ba7d6$nome=SUPACELL SERVIDOR 2</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail>
-<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
-<info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SUPACELL 1º TEMPORADA ( DUBLADO LINK DIRETO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://s-delivery46.mxcontent.net/v/af030426905928ca5f2de251a47b8e31.mp4?s=DaSfcNaLf2mcpUcBP3lAxA&e=1719808424&_t=1719793391$nome=SUPACELL EP.1</link>
-<link>https://s-delivery37.mxcontent.net/v/a6b69c42b35303e34224a21c6d8ef040.mp4?s=A94tr1f15bOAf5GwHprqOg&e=1719808570&_t=1719787303$nome=SUPACELL EP.2</link>
-<link>https://s-delivery29.mxcontent.net/v/6a2436b9e98d564dfd21e5c0bb0e19b1.mp4?s=KtHoteXWT-o-owyVyeqzxA&e=1719808648&_t=1719795000$nome=SUPACELL EP.3</link>
-<link>https://s-delivery41.mxcontent.net/v/991dfdacf0dcdc5787409db505a1aced.mp4?s=lihQuyL8suyzI2pBETpXuA&e=1719808719&_t=1719789504$nome=SUPACELL EP.4</link>
-<link>https://s-delivery31.mxcontent.net/v/c869a71b812abcdcdf9beeeefc4eb516.mp4?s=mm4DQVUqVTddKOrv-9P09A&e=1719808819&_t=1719788300$nome=SUPACELL EP.5</link>
-<link>https://s-delivery32.mxcontent.net/v/ac734843664740495bfbe65984626b6f.mp4?s=u7I5j-aMSRp1Hsz1YH1Zqw&e=1719808868&_t=1719797120$nome=SUPACELL EP.6</link>
-<thumbnail>https://media.themoviedb.org/t/p/original/cn0R3bVFK0WCWwjwaIc00mOY9j3.jpg</thumbnail> 
 <fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
 <info>Em Londres, cinco pessoas descobrem que têm poderes extraordinários. Agora, um homem vai tentar reunir o grupo para salvar a mulher que ama.</info>
 </item>
