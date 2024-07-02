@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DÊMONIO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f08b86d7af15001dd254412b44e9b53bc88a04b</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/qucBj3zogu3J8LeJb63e7vA0Omm.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Margot revisits her family home desperate to uncover who killed her sister, Evie, 20 years earlier. As she gets closer to the truth, Margot finds herself facing her deepest fears in the house that’s still haunted by Evie’s ghost.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOIS É DEMAIS EM ORLANDO COM ( EDUARDO STERBLITCH ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTITHAQBZ2JQM2PYMHYQ5BJITWVTZJBX</link>
 <thumbnail>https://media.themoviedb.org/t/p/original/2PdiazIelg7pwx9lj1KXCyeSbCP.jpg</thumbnail>
