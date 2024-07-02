@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOIS É DEMAIS EM ORLANDO COM ( EDUARDO STERBLITCH ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTITHAQBZ2JQM2PYMHYQ5BJITWVTZJBX</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/2PdiazIelg7pwx9lj1KXCyeSbCP.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> João é apaixonado por quadrinhos e super-heróis. Agora adulto, ele conseguirá realizar seu desejo de infância: ir para um dos parques temáticas mais legais do mundo, Universal, em Orlando. Contudo, para fazer um favor a sua chefe, ele levará o filho dela de dez anos junto no voo para entregá-lo ao pai que está nos EUA. Porém, o menino é um mimado que se comporta como um executivo de meia idade. Como o pai não aparece para buscá-lo, João terá que bancar o baby-sitter e aprender a conviver com as diferenças para salvar seu emprego e de quebra superar seu grande trauma de infância: a montanha-russa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] STAR WARS - THE ACOLYTE 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title> 
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2DFMA2JFAF6TAV62TUYIQ2COEK57A2JF$nome=THE ACOLYTE EP.1/2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf067154751ac0b9bdcca0295bec95f4b5ae0659$nome=THE ACOLYTE EP.3</link>
